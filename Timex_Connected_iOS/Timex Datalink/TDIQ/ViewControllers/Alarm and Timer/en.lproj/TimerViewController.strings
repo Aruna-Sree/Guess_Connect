@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "RBW-Vz-TEf"; */
+"RBW-Vz-TEf.text" = "00:00:00";
+
+/* Class = "UIButton"; normalTitle = "CANCEL TIMER"; ObjectID = "Z6B-oq-1s6"; */
+"Z6B-oq-1s6.normalTitle" = "CANCEL TIMER";
+
+/* Class = "UIButton"; normalTitle = "SYNC and START"; ObjectID = "aXq-A1-FdN"; */
+"aXq-A1-FdN.normalTitle" = "SYNC and START";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u7U-Gs-fqW"; */
+"u7U-Gs-fqW.text" = "Label";

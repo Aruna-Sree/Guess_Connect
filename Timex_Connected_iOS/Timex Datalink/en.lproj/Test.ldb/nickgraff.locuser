@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastDocumentSavePath</key>
+	<string>/Users/nickgraff/Desktop/timex_connected_ios/timex datalink/en.lproj/Test.ldb</string>
+	<key>lastOpenedFolder</key>
+	<string>/Users/nickgraff/Desktop/timex_connected_ios/timex datalink/en.lproj</string>
+	<key>lastSelectedLanguage</key>
+	<string>nl</string>
+	<key>openFolderAfterWriteOut</key>
+	<false/>
+	<key>saveToOneFile</key>
+	<false/>
+	<key>showComments</key>
+	<true/>
+	<key>showEmptyStrings</key>
+	<true/>
+	<key>showRemovedStrings</key>
+	<false/>
+</dict>
+</plist>

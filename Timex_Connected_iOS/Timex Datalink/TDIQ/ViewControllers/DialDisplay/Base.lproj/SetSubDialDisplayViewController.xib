@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12121" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="HelveticaNeue.ttc">
+            <string>HelveticaNeue</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SetSubDialDisplayViewController">
+            <connections>
+                <outlet property="infoLabel" destination="7xo-RX-Mou" id="Y4N-9o-NLg"/>
+                <outlet property="infoLblTopConstraint" destination="Bun-SD-sAf" id="DmK-fY-3pZ"/>
+                <outlet property="infoLblleftConstraint" destination="bCb-QU-r9i" id="Unh-mA-rpc"/>
+                <outlet property="pickView" destination="NRi-NK-h6q" id="2Qx-R4-lvA"/>
+                <outlet property="selectedButton" destination="kzR-9f-npf" id="soe-Lt-2aV"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+                <outlet property="watchImageView" destination="4sX-Pv-ufF" id="I0p-EZ-bqr"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="64" width="375" height="603"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="WatchWithDistance" translatesAutoresizingMaskIntoConstraints="NO" id="4sX-Pv-ufF">
+                    <rect key="frame" x="44" y="211" width="220" height="220"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="220" id="6kv-8X-2Rq"/>
+                        <constraint firstAttribute="width" constant="220" id="tW2-a8-wLX"/>
+                    </constraints>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kzR-9f-npf">
+                    <rect key="frame" x="184.5" y="293" width="30" height="30"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="ndx-D5-v5S"/>
+                        <constraint firstAttribute="width" constant="30" id="zWR-fR-RBH"/>
+                    </constraints>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="You're ready!" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7xo-RX-Mou">
+                    <rect key="frame" x="10" y="10" width="345" height="100"/>
+                    <constraints>
+                        <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="100" id="8Pe-J5-ZEN"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                    <color key="textColor" red="0.2156862745" green="0.2156862745" blue="0.2156862745" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="NRi-NK-h6q">
+                    <rect key="frame" x="236" y="248" width="100" height="120"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="120" id="WJe-0c-Ahj"/>
+                        <constraint firstAttribute="width" constant="100" id="ss7-tC-eg0"/>
+                    </constraints>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="uoy-HN-tL5"/>
+                        <outlet property="delegate" destination="-1" id="38s-43-2Mm"/>
+                    </connections>
+                </pickerView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="NRi-NK-h6q" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" constant="6.5" id="Agu-lw-jNF"/>
+                <constraint firstItem="7xo-RX-Mou" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="10" id="Bun-SD-sAf"/>
+                <constraint firstItem="4sX-Pv-ufF" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" constant="-33.5" id="Plr-Ou-C0T"/>
+                <constraint firstItem="7xo-RX-Mou" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="10" id="bCb-QU-r9i"/>
+                <constraint firstItem="4sX-Pv-ufF" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" constant="19.5" id="iUK-eb-j1j"/>
+                <constraint firstAttribute="trailing" secondItem="7xo-RX-Mou" secondAttribute="trailing" constant="20" id="isT-iS-3jQ"/>
+                <constraint firstItem="kzR-9f-npf" firstAttribute="top" secondItem="4sX-Pv-ufF" secondAttribute="top" constant="82" id="iwh-nC-bEz"/>
+                <constraint firstItem="NRi-NK-h6q" firstAttribute="leading" secondItem="kzR-9f-npf" secondAttribute="trailing" constant="21.5" id="vQu-yI-udd"/>
+                <constraint firstItem="kzR-9f-npf" firstAttribute="leading" secondItem="4sX-Pv-ufF" secondAttribute="leading" constant="140.5" id="x9M-Ad-EgH"/>
+            </constraints>
+            <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" translucent="NO" prompted="NO"/>
+            <point key="canvasLocation" x="317" y="187"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="WatchWithDistance" width="160" height="200"/>
+    </resources>
+</document>

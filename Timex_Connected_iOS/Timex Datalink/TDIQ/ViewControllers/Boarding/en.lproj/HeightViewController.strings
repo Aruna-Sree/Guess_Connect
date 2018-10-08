@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "cm"; ObjectID = "4uO-Zu-eGb"; */
+"4uO-Zu-eGb.text" = "cm";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "gZx-Ez-FEe"; */
+"gZx-Ez-FEe.placeholder" = "0";
+
+/* Class = "UILabel"; text = "mts"; ObjectID = "mvi-PO-0dT"; */
+"mvi-PO-0dT.text" = "mts";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "o1p-bb-jnW"; */
+"o1p-bb-jnW.placeholder" = "0";
+
+/* Class = "UILabel"; text = "You're ready!"; ObjectID = "v6D-55-VYk"; */
+"v6D-55-VYk.text" = "You're ready!";

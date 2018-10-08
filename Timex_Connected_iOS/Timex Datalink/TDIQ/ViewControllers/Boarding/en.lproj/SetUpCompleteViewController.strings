@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "You're ready!"; ObjectID = "H6t-3T-cj7"; */
+"H6t-3T-cj7.text" = "You're ready!";
+
+/* Class = "UILabel"; text = "Remember to sync your watch\nregularly to see your tracked activity data."; ObjectID = "SjS-lQ-adG"; */
+"SjS-lQ-adG.text" = "Remember to sync your watch\nregularly to see your tracked activity data.";
+
+/* Class = "UIButton"; normalTitle = "START USING YOUR WATCH"; ObjectID = "wos-Mg-MBJ"; */
+"wos-Mg-MBJ.normalTitle" = "START USING YOUR WATCH";

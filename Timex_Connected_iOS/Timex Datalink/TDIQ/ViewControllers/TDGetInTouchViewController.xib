@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TDGetInTouchViewController">
+            <connections>
+                <outlet property="headerLbl" destination="KFd-8Q-u18" id="kis-Nl-54J"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="64" width="375" height="603"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KFd-8Q-u18">
+                    <constraints>
+                        <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="130" id="i6g-3F-8fl"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Frh-21-NM4">
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="top" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="oId-um-3cA">
+                            <constraints>
+                                <constraint firstAttribute="height" constant="130" id="IJs-mU-K0T"/>
+                                <constraint firstAttribute="width" constant="100" id="KkZ-6b-Jse"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="19"/>
+                            <inset key="titleEdgeInsets" minX="-100" minY="115" maxX="0.0" maxY="0.0"/>
+                            <state key="normal" title="CALL" image="Call">
+                                <color key="titleColor" red="0.96839731931686401" green="0.66188257932662964" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="highlighted" image="Call"/>
+                            <connections>
+                                <action selector="clcikedOnCall:" destination="-1" eventType="touchUpInside" id="20y-RH-W9G"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="top" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="Gxd-mJ-XK4">
+                            <constraints>
+                                <constraint firstAttribute="height" constant="130" id="0QZ-AX-CXI"/>
+                                <constraint firstAttribute="width" constant="100" id="Q9g-mE-W7A"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="19"/>
+                            <inset key="titleEdgeInsets" minX="-100" minY="115" maxX="0.0" maxY="0.0"/>
+                            <state key="normal" title="EMAIL" image="Mail">
+                                <color key="titleColor" red="0.16633975505828857" green="0.60258084535598755" blue="0.81839758157730103" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="highlighted" image="Mail"/>
+                            <connections>
+                                <action selector="clcikedOnEmail:" destination="-1" eventType="touchUpInside" id="mPD-sd-KPn"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="130" id="1ol-yq-XqP"/>
+                        <constraint firstItem="oId-um-3cA" firstAttribute="top" secondItem="Frh-21-NM4" secondAttribute="top" id="3z6-Gg-hQa"/>
+                        <constraint firstItem="oId-um-3cA" firstAttribute="leading" secondItem="Frh-21-NM4" secondAttribute="leading" id="drE-ME-JBK"/>
+                        <constraint firstAttribute="bottom" secondItem="oId-um-3cA" secondAttribute="bottom" id="f0O-UY-XxF"/>
+                        <constraint firstItem="Gxd-mJ-XK4" firstAttribute="top" secondItem="Frh-21-NM4" secondAttribute="top" id="tMf-3l-4R3"/>
+                        <constraint firstAttribute="trailing" secondItem="Gxd-mJ-XK4" secondAttribute="trailing" id="uwC-Be-c3S"/>
+                        <constraint firstItem="Gxd-mJ-XK4" firstAttribute="leading" secondItem="oId-um-3cA" secondAttribute="trailing" constant="50" id="xsj-Ud-00D"/>
+                        <constraint firstAttribute="width" constant="250" id="y6k-gS-cwo"/>
+                        <constraint firstAttribute="bottom" secondItem="Gxd-mJ-XK4" secondAttribute="bottom" id="zXn-Nq-pBl"/>
+                    </constraints>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xqj-NM-3XQ">
+                    <constraints>
+                        <constraint firstAttribute="width" constant="200" id="3vT-Wf-OtC"/>
+                        <constraint firstAttribute="height" constant="40" id="9qo-um-xXg"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
+                    <state key="normal" title="ABOUT MY WATCH">
+                        <color key="titleColor" red="0.0" green="0.42227395418924046" blue="0.74660929568527923" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="clickedOnAboutWatch:" destination="-1" eventType="touchUpInside" id="tPk-e8-pIL"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="KFd-8Q-u18" secondAttribute="trailing" constant="20" id="8Ge-R4-bRU"/>
+                <constraint firstItem="Xqj-NM-3XQ" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="O9c-fA-SdA"/>
+                <constraint firstItem="Frh-21-NM4" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="QwQ-cZ-VTn"/>
+                <constraint firstItem="Frh-21-NM4" firstAttribute="top" secondItem="KFd-8Q-u18" secondAttribute="bottom" constant="40" id="aKh-Fl-iMO"/>
+                <constraint firstItem="KFd-8Q-u18" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="20" id="chy-Yg-fp2"/>
+                <constraint firstItem="KFd-8Q-u18" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="10" id="efO-Jj-aX1"/>
+                <constraint firstAttribute="bottom" secondItem="Xqj-NM-3XQ" secondAttribute="bottom" constant="70" id="yAW-GN-o4p"/>
+            </constraints>
+            <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" translucent="NO" prompted="NO"/>
+            <point key="canvasLocation" x="33.5" y="125.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Call" width="100" height="100"/>
+        <image name="Mail" width="100" height="100"/>
+    </resources>
+</document>

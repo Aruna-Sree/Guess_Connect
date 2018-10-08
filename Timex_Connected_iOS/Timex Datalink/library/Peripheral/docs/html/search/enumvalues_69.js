@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['idevicesfirmware_5ffirmwareuptodate',['iDevicesFirmware_FirmwareUpToDate',['../i_devices_service_8h.html#a5536afb96a8004e13631c1bc610b54c6abbd7c765be4c54dc85f1a097ceff2942',1,'iDevicesService.h']]],
+  ['idevicesfirmware_5flocalfirmwareoutofdate',['iDevicesFirmware_LocalFirmwareOutOfDate',['../i_devices_service_8h.html#a5536afb96a8004e13631c1bc610b54c6aa089b7483000f9159417c4bd298f223b',1,'iDevicesService.h']]],
+  ['idevicesfirmware_5fremotefirmwareoutofdate',['iDevicesFirmware_RemoteFirmwareOutOfDate',['../i_devices_service_8h.html#a5536afb96a8004e13631c1bc610b54c6a2f2c09827fcc7bd4bde5044257f0766b',1,'iDevicesService.h']]],
+  ['idevicesserviceerror_5fappchallengeincorrectsize',['iDevicesServiceError_AppChallengeIncorrectSize',['../i_devices_service_8h.html#ab566349642e274f5fb33b238cafe0a6fa9be8e330c7a2fc394e2be75da7b22105',1,'iDevicesService.h']]],
+  ['idevicesserviceerror_5fdevicechallengefailed',['iDevicesServiceError_DeviceChallengeFailed',['../i_devices_service_8h.html#ab566349642e274f5fb33b238cafe0a6fa0a679a4b51e487fcd2ba741b9ef9515a',1,'iDevicesService.h']]],
+  ['idevicesserviceerror_5fdevicechallengeincorrectsize',['iDevicesServiceError_DeviceChallengeIncorrectSize',['../i_devices_service_8h.html#ab566349642e274f5fb33b238cafe0a6fa00efe00f406bae56ef887b2bf6aba018',1,'iDevicesService.h']]],
+  ['idevicesserviceerror_5fdeviceresponseincorrectsize',['iDevicesServiceError_DeviceResponseIncorrectSize',['../i_devices_service_8h.html#ab566349642e274f5fb33b238cafe0a6fa2190a6ce3d94f8b80855de8c7843df40',1,'iDevicesService.h']]],
+  ['idevicesserviceerror_5fnodelegate',['iDevicesServiceError_NoDelegate',['../i_devices_service_8h.html#ab566349642e274f5fb33b238cafe0a6fa9d795faeeb3494e1e8bb3f2e66cc2d9f',1,'iDevicesService.h']]],
+  ['idevicesserviceerror_5fnone',['iDevicesServiceError_None',['../i_devices_service_8h.html#ab566349642e274f5fb33b238cafe0a6fa2faab29463a0ba7e5b0472bd411b73c6',1,'iDevicesService.h']]],
+  ['idevicesserviceerror_5fnoperipheralavailable',['iDevicesServiceError_NoPeripheralAvailable',['../i_devices_service_8h.html#ab566349642e274f5fb33b238cafe0a6fa2edb8bdbc7d2a79e44e0251fa57affde',1,'iDevicesService.h']]],
+  ['idevicesserviceerror_5fnotauthenticated',['iDevicesServiceError_NotAuthenticated',['../i_devices_service_8h.html#ab566349642e274f5fb33b238cafe0a6faf3e5a42f236786194903a3b955eca97f',1,'iDevicesService.h']]],
+  ['idevicesserviceerror_5fotaeepromsizeinsufficient',['iDevicesServiceError_OTAEEPROMSizeInsufficient',['../i_devices_service_8h.html#ab566349642e274f5fb33b238cafe0a6fa7c448cdd824d50a3f923622cd951a4fb',1,'iDevicesService.h']]],
+  ['idevicesserviceerror_5fotaeepromsizenotfound',['iDevicesServiceError_OTAEEPROMSizeNotFound',['../i_devices_service_8h.html#ab566349642e274f5fb33b238cafe0a6fa175f936f8a4a102baa4389731d140124',1,'iDevicesService.h']]],
+  ['idevicesserviceerror_5fotawritebuffernotfound',['iDevicesServiceError_OTAWriteBufferNotFound',['../i_devices_service_8h.html#ab566349642e274f5fb33b238cafe0a6fac4a494d28dbfee31eccea57269fed818',1,'iDevicesService.h']]],
+  ['idevicesserviceerror_5fperipheralnotconnected',['iDevicesServiceError_PeripheralNotConnected',['../i_devices_service_8h.html#ab566349642e274f5fb33b238cafe0a6fa701f239ea52401ff01e21e07d4b2a5a8',1,'iDevicesService.h']]],
+  ['idevicesserviceerror_5ftotal',['iDevicesServiceError_Total',['../i_devices_service_8h.html#ab566349642e274f5fb33b238cafe0a6fab4be45beb6aa9c7b1202d7aa0ed5165e',1,'iDevicesService.h']]],
+  ['idevicesserviceerror_5funabletoauthenticate',['iDevicesServiceError_UnableToAuthenticate',['../i_devices_service_8h.html#ab566349642e274f5fb33b238cafe0a6fa2d047b2faaa8bafe01e4680a04c8dd2b',1,'iDevicesService.h']]]
+];

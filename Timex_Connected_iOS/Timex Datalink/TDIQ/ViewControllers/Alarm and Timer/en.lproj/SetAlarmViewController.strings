@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; normalTitle = "M"; ObjectID = "2f9-EA-qe7"; */
+"2f9-EA-qe7.normalTitle" = "M";
+
+/* Class = "UIButton"; normalTitle = "S"; ObjectID = "KC2-rr-RPM"; */
+"KC2-rr-RPM.normalTitle" = "S";
+
+/* Class = "UIButton"; normalTitle = "W"; ObjectID = "MB5-Od-eOi"; */
+"MB5-Od-eOi.normalTitle" = "W";
+
+/* Class = "UIButton"; normalTitle = "S"; ObjectID = "Tke-bt-6ub"; */
+"Tke-bt-6ub.normalTitle" = "S";
+
+/* Class = "UIButton"; normalTitle = "T"; ObjectID = "UQA-f8-mqG"; */
+"UQA-f8-mqG.normalTitle" = "T";
+
+/* Class = "UILabel"; text = "Set Alarm"; ObjectID = "dNL-Tz-HnG"; */
+"dNL-Tz-HnG.text" = "Set Alarm";
+
+/* Class = "UIButton"; normalTitle = "SET and SYNC"; ObjectID = "dO4-K3-4yB"; */
+"dO4-K3-4yB.normalTitle" = "SET and SYNC";
+
+/* Class = "UIButton"; selectedTitle = "ALARM SYNCED"; ObjectID = "dO4-K3-4yB"; */
+"dO4-K3-4yB.selectedTitle" = "ALARM SYNCED";
+
+/* Class = "UIButton"; normalTitle = "F"; ObjectID = "nYS-Eq-qmR"; */
+"nYS-Eq-qmR.normalTitle" = "F";
+
+/* Class = "UIButton"; normalTitle = "T"; ObjectID = "qUC-BJ-UKH"; */
+"qUC-BJ-UKH.normalTitle" = "T";
+
+/* Class = "UILabel"; text = "Ring Daily"; ObjectID = "rUh-1u-asZ"; */
+"rUh-1u-asZ.text" = "Ring Daily";

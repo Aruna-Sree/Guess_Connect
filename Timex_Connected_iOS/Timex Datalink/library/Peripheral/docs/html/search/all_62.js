@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['batterylevel',['batteryLevel',['../interface_battery_service.html#acb970e66a11a60b786e136cc6acacb56',1,'BatteryService']]],
+  ['batterylevelid',['batteryLevelID',['../interface_battery_service.html#a52d199ed6952a4be46117572eddb2a35',1,'BatteryService']]],
+  ['batteryservice',['BatteryService',['../interface_battery_service.html',1,'']]],
+  ['batteryservice_2eh',['BatteryService.h',['../_battery_service_8h.html',1,'']]],
+  ['batteryservice_3abatterylevelupdated_3a',['batteryService:batteryLevelUpdated:',['../protocol_battery_service_delegate-p.html#a30f59dc9d795a7270a2c0b58c05fd3ca',1,'BatteryServiceDelegate-p']]],
+  ['batteryservicedelegate_2dp',['BatteryServiceDelegate-p',['../protocol_battery_service_delegate-p.html',1,'']]],
+  ['batteryserviceid',['batteryServiceID',['../interface_battery_service.html#af7b360abadf399770da9518f4051927c',1,'BatteryService']]],
+  ['beginauthentication',['beginAuthentication',['../interfacei_devices_service.html#afda76e38b562dc1bea80f19c540f7eac',1,'iDevicesService']]],
+  ['blecharacteristic',['BLECharacteristic',['../interface_b_l_e_characteristic.html',1,'']]],
+  ['blecharacteristic_2eh',['BLECharacteristic.h',['../_b_l_e_characteristic_8h.html',1,'']]],
+  ['blemanager',['BLEManager',['../interface_b_l_e_manager.html',1,'']]],
+  ['blemanager_2eh',['BLEManager.h',['../_b_l_e_manager_8h.html',1,'']]],
+  ['blemanagerblocktypes',['BLEManagerBlockTypes',['../group___b_l_e_manager_block_types.html',1,'']]],
+  ['blemanagernotifications',['BLEManagerNotifications',['../group___b_l_e_manager_notifications.html',1,'']]],
+  ['bleperipheral',['BLEPeripheral',['../interface_b_l_e_peripheral.html',1,'']]],
+  ['bleperipheral_2eh',['BLEPeripheral.h',['../_b_l_e_peripheral_8h.html',1,'']]],
+  ['bleservice',['BLEService',['../interface_b_l_e_service.html',1,'']]],
+  ['bleservice_2eh',['BLEService.h',['../_b_l_e_service_8h.html',1,'']]]
+];

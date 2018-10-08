@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="16B2555" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" reuseIdentifier="cell" id="hg2-5G-ZmF" customClass="TDCustomHomeTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="121"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="hg2-5G-ZmF" id="71d-7n-Ic1">
+                <rect key="frame" x="0.0" y="0.0" width="567" height="120.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="XNg-pp-GeV" customClass="MBCircularProgressBarView">
+                        <rect key="frame" x="10" y="10" width="100" height="100"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="100" id="0kK-En-kJ5"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="progress">
+                                <real key="value" value="0.65000000000000002"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="trackFillColor">
+                                <color key="value" red="0.0" green="1" blue="0.50196081400000003" alpha="1" colorSpace="calibratedRGB"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="trackWidth">
+                                <real key="value" value="7"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="emptyLineColor">
+                                <color key="value" red="0.8862745098" green="0.8862745098" blue="0.8862745098" alpha="1" colorSpace="calibratedRGB"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="emptyLineStrokeColor">
+                                <color key="value" red="0.8862745098" green="0.8862745098" blue="0.8862745098" alpha="1" colorSpace="calibratedRGB"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="progressRotationAngle">
+                                <real key="value" value="37"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="progressAngle">
+                                <real key="value" value="75"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="progressLineWidth">
+                                <real key="value" value="5"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="emptyLineWidth">
+                                <real key="value" value="5"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="boolean" keyPath="showValueString" value="NO"/>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                    <imageView userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="sleepicon" translatesAutoresizingMaskIntoConstraints="NO" id="lWJ-G4-gc7">
+                        <rect key="frame" x="0.0" y="0.0" width="120" height="120"/>
+                        <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="120" id="GGP-yA-dca"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="bottom" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eoo-Q5-7ce">
+                        <rect key="frame" x="130" y="0.0" width="437" height="120"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="WSq-h4-QqM">
+                        <rect key="frame" x="527" y="45" width="30" height="30"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="subdial_icon" translatesAutoresizingMaskIntoConstraints="NO" id="JGe-bV-vDV">
+                                <rect key="frame" x="0.0" y="0.0" width="30" height="30"/>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Fc5-b7-7G9">
+                                <rect key="frame" x="8" y="4" width="15" height="24"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Hand" translatesAutoresizingMaskIntoConstraints="NO" id="IJ1-n6-lXb">
+                                        <rect key="frame" x="0.0" y="2" width="15" height="14"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="14" id="0vp-59-0gc"/>
+                                            <constraint firstAttribute="width" constant="15" id="OHj-IG-6tz"/>
+                                        </constraints>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="15" id="5gH-Uh-yEm"/>
+                                    <constraint firstAttribute="bottom" secondItem="IJ1-n6-lXb" secondAttribute="bottom" constant="8" id="HOR-ll-P8R"/>
+                                    <constraint firstItem="IJ1-n6-lXb" firstAttribute="top" secondItem="Fc5-b7-7G9" secondAttribute="top" constant="2" id="PpI-LI-bV4"/>
+                                    <constraint firstItem="IJ1-n6-lXb" firstAttribute="leading" secondItem="Fc5-b7-7G9" secondAttribute="leading" id="YxA-qq-ulM"/>
+                                    <constraint firstAttribute="trailing" secondItem="IJ1-n6-lXb" secondAttribute="trailing" id="ale-XX-kvh"/>
+                                    <constraint firstAttribute="height" constant="24" id="siH-bc-Y8f"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="Fc5-b7-7G9" firstAttribute="leading" secondItem="WSq-h4-QqM" secondAttribute="leading" constant="8" id="4Qd-ph-kzG"/>
+                            <constraint firstItem="JGe-bV-vDV" firstAttribute="leading" secondItem="WSq-h4-QqM" secondAttribute="leading" id="By3-H5-Zt2"/>
+                            <constraint firstAttribute="bottom" secondItem="Fc5-b7-7G9" secondAttribute="bottom" constant="2" id="CSp-ZG-GOL"/>
+                            <constraint firstAttribute="trailing" secondItem="JGe-bV-vDV" secondAttribute="trailing" id="HjZ-RS-kbZ"/>
+                            <constraint firstAttribute="height" constant="30" id="L3c-uW-tVb"/>
+                            <constraint firstItem="Fc5-b7-7G9" firstAttribute="top" secondItem="WSq-h4-QqM" secondAttribute="top" constant="4" id="LmB-Th-vwN"/>
+                            <constraint firstAttribute="trailing" secondItem="Fc5-b7-7G9" secondAttribute="trailing" constant="7" id="MUq-Jf-3cV"/>
+                            <constraint firstItem="JGe-bV-vDV" firstAttribute="top" secondItem="WSq-h4-QqM" secondAttribute="top" id="RTI-xy-aVo"/>
+                            <constraint firstAttribute="width" constant="30" id="ina-j5-qEd"/>
+                            <constraint firstAttribute="bottom" secondItem="JGe-bV-vDV" secondAttribute="bottom" id="nva-U9-Q3h"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="XNg-pp-GeV" secondAttribute="bottom" constant="10" id="7QF-Wg-Kfe"/>
+                    <constraint firstItem="XNg-pp-GeV" firstAttribute="top" secondItem="71d-7n-Ic1" secondAttribute="top" constant="10" id="BgJ-15-OkI"/>
+                    <constraint firstItem="XNg-pp-GeV" firstAttribute="leading" secondItem="71d-7n-Ic1" secondAttribute="leading" constant="10" id="E3u-QB-9iK"/>
+                    <constraint firstItem="lWJ-G4-gc7" firstAttribute="leading" secondItem="71d-7n-Ic1" secondAttribute="leading" id="EPr-Ie-ZsE"/>
+                    <constraint firstItem="eoo-Q5-7ce" firstAttribute="leading" secondItem="lWJ-G4-gc7" secondAttribute="trailing" constant="10" id="IZB-pq-cOU"/>
+                    <constraint firstAttribute="bottom" secondItem="eoo-Q5-7ce" secondAttribute="bottom" id="MLf-B5-qH7"/>
+                    <constraint firstItem="lWJ-G4-gc7" firstAttribute="top" secondItem="71d-7n-Ic1" secondAttribute="top" id="UK4-1J-SQC"/>
+                    <constraint firstItem="eoo-Q5-7ce" firstAttribute="leading" secondItem="XNg-pp-GeV" secondAttribute="trailing" constant="20" id="XiQ-LX-52b"/>
+                    <constraint firstItem="WSq-h4-QqM" firstAttribute="centerY" secondItem="71d-7n-Ic1" secondAttribute="centerY" id="aef-sl-YZb"/>
+                    <constraint firstAttribute="trailing" secondItem="WSq-h4-QqM" secondAttribute="trailing" constant="10" id="beJ-og-dC9"/>
+                    <constraint firstItem="eoo-Q5-7ce" firstAttribute="top" secondItem="71d-7n-Ic1" secondAttribute="top" id="eSF-OU-ItD"/>
+                    <constraint firstAttribute="trailing" secondItem="eoo-Q5-7ce" secondAttribute="trailing" id="gjs-cN-bHV"/>
+                    <constraint firstAttribute="bottom" secondItem="lWJ-G4-gc7" secondAttribute="bottom" id="no4-ey-N8A"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="cellImgView" destination="lWJ-G4-gc7" id="Zgn-Yh-xod"/>
+                <outlet property="handView" destination="Fc5-b7-7G9" id="9Lm-Ru-4W7"/>
+                <outlet property="imgViewWidthConstraint" destination="GGP-yA-dca" id="eka-kG-28P"/>
+                <outlet property="progressView" destination="XNg-pp-GeV" id="8iw-dO-VOO"/>
+                <outlet property="progressViewWidthConstraint" destination="0kK-En-kJ5" id="NkS-pO-5rd"/>
+                <outlet property="subdialImg" destination="JGe-bV-vDV" id="1Vt-7w-9s6"/>
+                <outlet property="subdialView" destination="WSq-h4-QqM" id="nQd-2N-bxp"/>
+                <outlet property="titleLabel" destination="eoo-Q5-7ce" id="gY3-EE-nc1"/>
+            </connections>
+            <point key="canvasLocation" x="573" y="399"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="Hand" width="15" height="26"/>
+        <image name="sleepicon" width="41" height="44"/>
+        <image name="subdial_icon" width="66" height="66"/>
+    </resources>
+</document>

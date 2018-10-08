@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['scanforperipheralswithservices_3aallowdupes_3a',['scanForPeripheralsWithServices:allowDupes:',['../interface_b_l_e_manager.html#a7883efceaa9b9988aab08146d19044f8',1,'BLEManager']]],
+  ['serialnumberid',['serialNumberID',['../interface_device_information_service.html#a2d245a2c4c0e91cc28c9abd996124426',1,'DeviceInformationService']]],
+  ['servicedataforlocalid_3a',['serviceDataForLocalId:',['../interface_profile_data.html#a5f3189e61c5b3f8aaf3306c1d38ff75d',1,'ProfileData']]],
+  ['servicedataforuuid_3a',['serviceDataForUUID:',['../interface_profile_data.html#a31e8d09a29b5ba60bea483949bc3f2e3',1,'ProfileData']]],
+  ['serviceids',['serviceIds',['../interface_profile_data.html#a480c6825a0e62feea6c2b4ae833b9529',1,'ProfileData']]],
+  ['setconnected_3a',['setConnected:',['../interface_sim_peripheral.html#aa79e1aea56acf6b11e4b479e57a3bb91',1,'SimPeripheral']]],
+  ['setdiscoveredtime_3a',['setDiscoveredTime:',['../interface_b_l_e_peripheral.html#af7c33199987df5b200bdf11f904d00c8',1,'BLEPeripheral']]],
+  ['setperipheral_3a',['setPeripheral:',['../interface_b_l_e_service.html#ac8160a3f494742559dbb9d01a6d0770c',1,'BLEService::setPeripheral:()'],['../interface_battery_service.html#ac8160a3f494742559dbb9d01a6d0770c',1,'BatteryService::setPeripheral:()'],['../interface_device_information_service.html#ac8160a3f494742559dbb9d01a6d0770c',1,'DeviceInformationService::setPeripheral:()'],['../interface_sim_service.html#ac8160a3f494742559dbb9d01a6d0770c',1,'SimService::setPeripheral:()']]],
+  ['setproperties_3a',['setProperties:',['../interface_sim_characteristic.html#a714058d53da33b354a4cdf8751995854',1,'SimCharacteristic']]],
+  ['setservice_3a',['setService:',['../interface_b_l_e_characteristic.html#af4eac300beea2c461b67c374274de205',1,'BLECharacteristic::setService:()'],['../interface_sim_characteristic.html#af4eac300beea2c461b67c374274de205',1,'SimCharacteristic::setService:()']]],
+  ['setupservices',['setupServices',['../interfacei_o_s_peripheral.html#a394610e9ffbd9fd74156f47efbd43b42',1,'iOSPeripheral']]],
+  ['simcharacteristic_3adidwritevalue_3a',['simCharacteristic:didWriteValue:',['../protocol_sim_characteristic_delegate-p.html#a675d4fa6818513e8638f8a47f9c48f72',1,'SimCharacteristicDelegate-p']]],
+  ['softwarerevisionid',['softwareRevisionID',['../interface_device_information_service.html#a025b55d4bfba040c488de888f59a5299',1,'DeviceInformationService']]],
+  ['startadvertising',['startAdvertising',['../interfacei_o_s_peripheral.html#a46b039cac655b4ca63bb7ed0305111f2',1,'iOSPeripheral']]],
+  ['startfirmwareupdate_3a',['startFirmwareUpdate:',['../interfacei_devices_service.html#acd975cb0bada8910fde03d4b650833e3',1,'iDevicesService']]],
+  ['stopadvertising',['stopAdvertising',['../interfacei_o_s_peripheral.html#a8f780f4d2ab51fbee38609fe7a86631f',1,'iOSPeripheral']]],
+  ['stopscan',['stopScan',['../interface_b_l_e_manager.html#a7e7b99cba73ae10d159d437b342603e1',1,'BLEManager']]],
+  ['stringvaluefromutf8',['stringValueFromUTF8',['../interface_characteristic_proxy.html#abb379ee7edbd6d782b395bee3496e3f8',1,'CharacteristicProxy']]],
+  ['systemidid',['systemIDID',['../interface_device_information_service.html#ad72dcf7dd88f9b013339929116e4fe14',1,'DeviceInformationService']]]
+];

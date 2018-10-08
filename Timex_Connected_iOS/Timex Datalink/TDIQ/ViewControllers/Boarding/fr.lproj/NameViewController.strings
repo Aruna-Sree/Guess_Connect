@@ -1,0 +1,18 @@
+/* Class = "UIButton"; normalTitle = "NEXT   "; ObjectID = "7ph-Q3-K3Z"; */
+"7ph-Q3-K3Z.normalTitle" = "NEXT   ";
+
+/* Class = "UILabel"; text = "You're ready!"; ObjectID = "DVr-dR-M7x"; */
+"DVr-dR-M7x.text" = "You're ready!";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "JBg-yn-gEU"; */
+"JBg-yn-gEU.placeholder" = "First Name";
+
+/* Class = "UIButton"; normalTitle = "FEMALE"; ObjectID = "faW-2D-Ey8"; */
+"faW-2D-Ey8.normalTitle" = "FEMALE";
+
+/* Class = "UIButton"; normalTitle = " Why do we need this information?"; ObjectID = "mO9-UG-sqS"; */
+"mO9-UG-sqS.normalTitle" = " Why do we need this information?";
+
+/* Class = "UIButton"; normalTitle = "MALE"; ObjectID = "o9h-Lg-vVK"; */
+"o9h-Lg-vVK.normalTitle" = "MALE";
+

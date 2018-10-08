@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15G1108" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="HelpViewController">
+            <connections>
+                <outlet property="backBtn" destination="ud9-wb-T4k" id="0Jh-tu-Bnr"/>
+                <outlet property="helpWebview" destination="K1u-vW-FxH" id="zd1-S1-Dbt"/>
+                <outlet property="nextBtn" destination="y4l-3i-LOw" id="Xxj-01-7Uc"/>
+                <outlet property="refershBtn" destination="m1I-jd-okY" id="UaE-7G-rrr"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <webView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="K1u-vW-FxH">
+                    <rect key="frame" x="10" y="0.0" width="580" height="556"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <connections>
+                        <outlet property="delegate" destination="-1" id="6Tl-Am-7E6"/>
+                    </connections>
+                </webView>
+                <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="YdL-BS-qhv">
+                    <rect key="frame" x="0.0" y="556" width="600" height="44"/>
+                    <items>
+                        <barButtonItem enabled="NO" style="plain" id="ud9-wb-T4k">
+                            <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                            <connections>
+                                <action selector="goBack" destination="K1u-vW-FxH" id="UVs-gH-dEC"/>
+                            </connections>
+                        </barButtonItem>
+                        <barButtonItem width="42" style="plain" systemItem="fixedSpace" id="NUm-9a-zdM"/>
+                        <barButtonItem enabled="NO" style="plain" id="y4l-3i-LOw">
+                            <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                            <connections>
+                                <action selector="goForward" destination="K1u-vW-FxH" id="6q5-si-jkM"/>
+                            </connections>
+                        </barButtonItem>
+                        <barButtonItem style="plain" systemItem="flexibleSpace" id="BnQ-L9-rzQ"/>
+                        <barButtonItem enabled="NO" style="plain" id="m1I-jd-okY">
+                            <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                            <connections>
+                                <action selector="reload" destination="K1u-vW-FxH" id="gX7-YC-Dae"/>
+                            </connections>
+                        </barButtonItem>
+                    </items>
+                </toolbar>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="YdL-BS-qhv" secondAttribute="trailing" id="4h6-Ya-9lZ"/>
+                <constraint firstItem="YdL-BS-qhv" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="8Fq-wQ-FbY"/>
+                <constraint firstAttribute="trailing" secondItem="K1u-vW-FxH" secondAttribute="trailing" constant="10" id="N1H-af-Pkc"/>
+                <constraint firstItem="YdL-BS-qhv" firstAttribute="top" secondItem="K1u-vW-FxH" secondAttribute="bottom" id="elL-Td-rZk"/>
+                <constraint firstAttribute="bottom" secondItem="YdL-BS-qhv" secondAttribute="bottom" id="wWf-RO-Gsf"/>
+                <constraint firstItem="K1u-vW-FxH" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="xk1-h1-pyV"/>
+                <constraint firstItem="K1u-vW-FxH" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="10" id="zXI-86-3c5"/>
+            </constraints>
+        </view>
+    </objects>
+</document>

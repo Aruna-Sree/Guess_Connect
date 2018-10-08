@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Roboto-Bold.ttf">
+            <string>Roboto-Bold</string>
+        </array>
+        <array key="Roboto-Regular.ttf">
+            <string>Roboto-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SetAlarmViewController">
+            <connections>
+                <outlet property="alarmFrequencyPicker" destination="DvE-w1-OuI" id="IwP-oX-Bdc"/>
+                <outlet property="alarmTitle" destination="rUh-1u-asZ" id="kiy-Ls-kAs"/>
+                <outlet property="btnSetSync" destination="dO4-K3-4yB" id="30Q-ln-WBe"/>
+                <outlet property="daysView" destination="O4a-HY-sFq" id="z2J-u6-Jfu"/>
+                <outlet property="headerLbl" destination="dNL-Tz-HnG" id="6Rc-Wo-qwg"/>
+                <outlet property="switchOnOff" destination="std-L9-OPW" id="uvM-gK-KFp"/>
+                <outlet property="timePicker" destination="nrM-N6-PFH" id="Y9N-bc-Et4"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="64" width="375" height="603"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <datePicker contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" datePickerMode="time" minuteInterval="1" translatesAutoresizingMaskIntoConstraints="NO" id="nrM-N6-PFH">
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="216" id="qSa-N1-fTI"/>
+                    </constraints>
+                    <date key="date" timeIntervalSinceReferenceDate="486553587.17408699">
+                        <!--2016-06-02 09:46:27 +0000-->
+                    </date>
+                    <date key="minimumDate" timeIntervalSinceReferenceDate="-978267600">
+                        <!--1970-01-01 11:00:00 +0000-->
+                    </date>
+                </datePicker>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="O4a-HY-sFq">
+                    <subviews>
+                        <button opaque="NO" tag="9" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KC2-rr-RPM" customClass="DayButton">
+                            <constraints>
+                                <constraint firstAttribute="width" constant="40" id="FsC-9L-Jif"/>
+                                <constraint firstAttribute="height" constant="40" id="xyC-87-XUY"/>
+                            </constraints>
+                            <state key="normal" title="S"/>
+                            <connections>
+                                <action selector="clickedOnDayButton:" destination="-1" eventType="touchUpInside" id="R30-R1-wU3"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2f9-EA-qe7" customClass="DayButton">
+                            <constraints>
+                                <constraint firstAttribute="height" constant="40" id="Hiv-sc-bPy"/>
+                                <constraint firstAttribute="width" constant="40" id="LHo-7Q-NYg"/>
+                            </constraints>
+                            <state key="normal" title="M"/>
+                            <connections>
+                                <action selector="clickedOnDayButton:" destination="-1" eventType="touchUpInside" id="5T1-FP-1Jl"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UQA-f8-mqG" customClass="DayButton">
+                            <constraints>
+                                <constraint firstAttribute="height" constant="40" id="TOP-2p-iDa"/>
+                                <constraint firstAttribute="width" constant="40" id="csq-MX-Xkc"/>
+                            </constraints>
+                            <state key="normal" title="T"/>
+                            <connections>
+                                <action selector="clickedOnDayButton:" destination="-1" eventType="touchUpInside" id="s75-B9-P62"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MB5-Od-eOi" customClass="DayButton">
+                            <constraints>
+                                <constraint firstAttribute="height" constant="40" id="CQ7-um-DmH"/>
+                                <constraint firstAttribute="width" constant="40" id="ugZ-jc-76v"/>
+                            </constraints>
+                            <state key="normal" title="W"/>
+                            <connections>
+                                <action selector="clickedOnDayButton:" destination="-1" eventType="touchUpInside" id="dGY-TT-G61"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="6" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qUC-BJ-UKH" customClass="DayButton">
+                            <constraints>
+                                <constraint firstAttribute="height" constant="40" id="gdo-3f-nfw"/>
+                                <constraint firstAttribute="width" constant="40" id="zBX-7F-mAc"/>
+                            </constraints>
+                            <state key="normal" title="T"/>
+                            <connections>
+                                <action selector="clickedOnDayButton:" destination="-1" eventType="touchUpInside" id="idt-ll-JZo"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="7" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nYS-Eq-qmR" customClass="DayButton">
+                            <constraints>
+                                <constraint firstAttribute="width" constant="40" id="8Pw-fs-AkX"/>
+                                <constraint firstAttribute="height" constant="40" id="RA7-Xg-G97"/>
+                            </constraints>
+                            <state key="normal" title="F"/>
+                            <connections>
+                                <action selector="clickedOnDayButton:" destination="-1" eventType="touchUpInside" id="G7W-Tc-eUE"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="8" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Tke-bt-6ub" customClass="DayButton">
+                            <constraints>
+                                <constraint firstAttribute="height" constant="40" id="ISo-5b-Ttx"/>
+                                <constraint firstAttribute="width" constant="40" id="R4C-2Z-xNf"/>
+                            </constraints>
+                            <state key="normal" title="S"/>
+                            <connections>
+                                <action selector="clickedOnDayButton:" destination="-1" eventType="touchUpInside" id="NKx-yy-tcz"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="Tke-bt-6ub" secondAttribute="bottom" id="011-C8-i18"/>
+                        <constraint firstItem="KC2-rr-RPM" firstAttribute="leading" secondItem="O4a-HY-sFq" secondAttribute="leading" constant="5" id="0ti-w7-PAY"/>
+                        <constraint firstItem="KC2-rr-RPM" firstAttribute="top" secondItem="O4a-HY-sFq" secondAttribute="top" id="2sf-D4-q0u"/>
+                        <constraint firstAttribute="bottom" secondItem="MB5-Od-eOi" secondAttribute="bottom" id="38i-bO-nWT"/>
+                        <constraint firstItem="nYS-Eq-qmR" firstAttribute="top" secondItem="O4a-HY-sFq" secondAttribute="top" id="43w-jA-UdX"/>
+                        <constraint firstAttribute="bottom" secondItem="nYS-Eq-qmR" secondAttribute="bottom" id="7GT-Mi-cZV"/>
+                        <constraint firstItem="2f9-EA-qe7" firstAttribute="leading" secondItem="KC2-rr-RPM" secondAttribute="trailing" constant="5" id="7aF-oe-886"/>
+                        <constraint firstItem="UQA-f8-mqG" firstAttribute="top" secondItem="O4a-HY-sFq" secondAttribute="top" id="7l7-GJ-FTF"/>
+                        <constraint firstItem="2f9-EA-qe7" firstAttribute="top" secondItem="O4a-HY-sFq" secondAttribute="top" id="CLi-h7-j6O"/>
+                        <constraint firstAttribute="width" constant="320" id="Dje-j3-fgH"/>
+                        <constraint firstItem="nYS-Eq-qmR" firstAttribute="leading" secondItem="qUC-BJ-UKH" secondAttribute="trailing" constant="5" id="OJS-pP-GcN"/>
+                        <constraint firstAttribute="height" constant="40" id="Q8f-iZ-01o"/>
+                        <constraint firstAttribute="trailing" secondItem="Tke-bt-6ub" secondAttribute="trailing" constant="5" id="Vav-mD-wni"/>
+                        <constraint firstItem="qUC-BJ-UKH" firstAttribute="leading" secondItem="MB5-Od-eOi" secondAttribute="trailing" constant="5" id="VdD-ED-9vq"/>
+                        <constraint firstAttribute="bottom" secondItem="UQA-f8-mqG" secondAttribute="bottom" id="ejX-P8-7Yk"/>
+                        <constraint firstItem="Tke-bt-6ub" firstAttribute="leading" secondItem="nYS-Eq-qmR" secondAttribute="trailing" constant="5" id="erX-JW-O9A"/>
+                        <constraint firstAttribute="bottom" secondItem="KC2-rr-RPM" secondAttribute="bottom" id="mPs-gK-ryE"/>
+                        <constraint firstAttribute="bottom" secondItem="2f9-EA-qe7" secondAttribute="bottom" id="r8e-Bj-eYG"/>
+                        <constraint firstItem="MB5-Od-eOi" firstAttribute="leading" secondItem="UQA-f8-mqG" secondAttribute="trailing" constant="5" id="tFg-uK-ReA"/>
+                        <constraint firstItem="qUC-BJ-UKH" firstAttribute="top" secondItem="O4a-HY-sFq" secondAttribute="top" id="tK2-ig-E4K"/>
+                        <constraint firstItem="MB5-Od-eOi" firstAttribute="top" secondItem="O4a-HY-sFq" secondAttribute="top" id="uz3-mD-LmP"/>
+                        <constraint firstAttribute="bottom" secondItem="qUC-BJ-UKH" secondAttribute="bottom" id="vVK-zB-EB2"/>
+                        <constraint firstItem="UQA-f8-mqG" firstAttribute="leading" secondItem="2f9-EA-qe7" secondAttribute="trailing" constant="5" id="wnV-L9-DmS"/>
+                        <constraint firstItem="Tke-bt-6ub" firstAttribute="top" secondItem="O4a-HY-sFq" secondAttribute="top" id="zgW-F1-Xcr"/>
+                    </constraints>
+                </view>
+                <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="DvE-w1-OuI"/>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Set Alarm" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dNL-Tz-HnG">
+                    <color key="backgroundColor" red="0.96470588235294119" green="0.96470588235294119" blue="0.96470588235294119" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="40" id="9M2-dT-RkE"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="Roboto-Bold" family="Roboto" pointSize="16"/>
+                    <color key="textColor" red="0.33333333333333331" green="0.33333333333333331" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="7dM-tr-sNB">
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Ring Daily" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rUh-1u-asZ">
+                            <constraints>
+                                <constraint firstAttribute="height" constant="60" id="hq3-sw-Isw"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Roboto-Regular" family="Roboto" pointSize="15"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="std-L9-OPW">
+                            <constraints>
+                                <constraint firstAttribute="width" constant="49" id="FFr-Cf-aB6"/>
+                                <constraint firstAttribute="height" constant="31" id="hSZ-Nc-UGj"/>
+                            </constraints>
+                            <color key="tintColor" red="0.96470588239999999" green="0.96470588239999999" blue="0.96470588239999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="onTintColor" red="0.83137254900000002" green="0.086274509799999996" blue="0.13725490200000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <connections>
+                                <action selector="clickedOnSwitch:" destination="-1" eventType="valueChanged" id="KrG-dQ-qmG"/>
+                            </connections>
+                        </switch>
+                    </subviews>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstItem="rUh-1u-asZ" firstAttribute="leading" secondItem="7dM-tr-sNB" secondAttribute="leading" constant="20" id="3dp-kL-NHE"/>
+                        <constraint firstItem="std-L9-OPW" firstAttribute="leading" secondItem="rUh-1u-asZ" secondAttribute="trailing" constant="16" id="7vW-rm-rXc"/>
+                        <constraint firstAttribute="trailing" secondItem="std-L9-OPW" secondAttribute="trailing" constant="43" id="KSj-8h-Oy2"/>
+                        <constraint firstItem="std-L9-OPW" firstAttribute="centerY" secondItem="7dM-tr-sNB" secondAttribute="centerY" id="c8k-63-WSz"/>
+                        <constraint firstItem="rUh-1u-asZ" firstAttribute="centerY" secondItem="7dM-tr-sNB" secondAttribute="centerY" id="hdW-ks-VTg"/>
+                        <constraint firstAttribute="height" constant="80" id="lex-J9-I2S"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="sOe-RP-flH">
+                    <color key="backgroundColor" red="0.96470588239999999" green="0.96470588239999999" blue="0.96470588239999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="2" id="RAo-W7-MFk"/>
+                    </constraints>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dO4-K3-4yB">
+                    <color key="backgroundColor" red="0.83137254900000002" green="0.086274509799999996" blue="0.13725490200000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="Mrn-g4-EJ6"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="Roboto-Regular" family="Roboto" pointSize="18"/>
+                    <color key="tintColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                    <state key="normal" title="SET and SYNC">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected" title="ALARM SYNCED">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="titleShadowColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="string" keyPath="layer.cornerRadius" value="25"/>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="clickedOnSetSyncButton:" destination="-1" eventType="touchUpInside" id="udf-iV-0Nj"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="sOe-RP-flH" secondAttribute="trailing" id="0EF-vB-Zei"/>
+                <constraint firstItem="nrM-N6-PFH" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="123" id="3Ya-WB-Fk1"/>
+                <constraint firstItem="nrM-N6-PFH" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="7vF-QG-EdK"/>
+                <constraint firstItem="O4a-HY-sFq" firstAttribute="top" secondItem="nrM-N6-PFH" secondAttribute="bottom" constant="-53" id="Atp-TH-4DK"/>
+                <constraint firstItem="O4a-HY-sFq" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="G9c-NC-wyh"/>
+                <constraint firstAttribute="trailing" secondItem="dNL-Tz-HnG" secondAttribute="trailing" id="U7y-3Y-Jhj"/>
+                <constraint firstAttribute="bottom" secondItem="dO4-K3-4yB" secondAttribute="bottom" constant="83" id="UcT-8L-9Fo"/>
+                <constraint firstItem="sOe-RP-flH" firstAttribute="top" secondItem="7dM-tr-sNB" secondAttribute="bottom" id="WGb-Yp-I5w"/>
+                <constraint firstAttribute="trailing" secondItem="dO4-K3-4yB" secondAttribute="trailing" constant="60" id="WfF-VJ-rRr"/>
+                <constraint firstAttribute="trailing" secondItem="7dM-tr-sNB" secondAttribute="trailing" id="YLE-jM-ilX"/>
+                <constraint firstItem="DvE-w1-OuI" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="b9E-Cd-OiG"/>
+                <constraint firstItem="dNL-Tz-HnG" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="bNb-ko-R7g"/>
+                <constraint firstItem="sOe-RP-flH" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="cWu-rT-8sp"/>
+                <constraint firstItem="nrM-N6-PFH" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="dIr-zT-JXY"/>
+                <constraint firstItem="7dM-tr-sNB" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="gK0-7d-aH9"/>
+                <constraint firstItem="dO4-K3-4yB" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="60" id="iti-XG-35H"/>
+                <constraint firstItem="7dM-tr-sNB" firstAttribute="top" secondItem="dNL-Tz-HnG" secondAttribute="bottom" id="jud-Ra-MGH"/>
+                <constraint firstItem="dNL-Tz-HnG" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="m0h-Du-usP"/>
+                <constraint firstAttribute="trailing" secondItem="nrM-N6-PFH" secondAttribute="trailing" id="mE1-Rk-lZI"/>
+                <constraint firstAttribute="trailing" secondItem="DvE-w1-OuI" secondAttribute="trailing" id="mLr-dz-oBJ"/>
+                <constraint firstItem="nrM-N6-PFH" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="sIh-0C-fph"/>
+                <constraint firstAttribute="trailing" secondItem="nrM-N6-PFH" secondAttribute="trailing" id="tmS-Ea-bqB"/>
+                <constraint firstAttribute="bottom" secondItem="DvE-w1-OuI" secondAttribute="bottom" id="v8j-LO-Egq"/>
+            </constraints>
+            <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" translucent="NO" prompted="NO"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="7vF-QG-EdK"/>
+                    <exclude reference="tmS-Ea-bqB"/>
+                </mask>
+            </variation>
+        </view>
+    </objects>
+</document>

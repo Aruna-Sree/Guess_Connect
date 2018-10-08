@@ -1,0 +1,21 @@
+/* Class = "UIButton"; normalTitle = "UPDATE LATER"; ObjectID = "4VZ-Ql-BrL"; */
+"4VZ-Ql-BrL.normalTitle" = "UPDATE LATER";
+
+/* Class = "UIButton"; normalTitle = "OK   "; ObjectID = "7G9-r9-xyV"; */
+"7G9-r9-xyV.normalTitle" = "OK   ";
+
+/* Class = "UILabel"; text = "Complete"; ObjectID = "V0a-hr-fU4"; */
+"V0a-hr-fU4.text" = "Complete";
+
+/* Class = "UIButton"; normalTitle = "UPDATE NOW"; ObjectID = "Zzu-fU-04K"; */
+"Zzu-fU-04K.normalTitle" = "UPDATE NOW";
+
+/* Class = "UILabel"; text = "You're ready!"; ObjectID = "cza-Ln-9b8"; */
+"cza-Ln-9b8.text" = "You're ready!";
+
+/* Class = "UILabel"; text = "Sync to update."; ObjectID = "jbh-q5-CO6"; */
+"jbh-q5-CO6.text" = "Sync to update.";
+
+/* Class = "UILabel"; text = "Updating your watch provides you with the latest features, however data stored on the watch is cleared for the current day."; ObjectID = "ubh-Td-XIv"; */
+"ubh-Td-XIv.text" = "Updating your watch provides you with the latest features, however data stored on the watch is cleared for the current day.";
+

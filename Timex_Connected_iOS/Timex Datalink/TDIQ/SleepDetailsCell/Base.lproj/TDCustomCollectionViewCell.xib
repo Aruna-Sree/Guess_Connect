@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15G1108" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="HelveticaNeue.ttc">
+            <string>HelveticaNeue</string>
+            <string>HelveticaNeue</string>
+        </mutableArray>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="Cell" id="QB0-ei-cs9" customClass="TDCustomCollectionViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="107" height="107"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="107" height="107"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" text="Laps" textAlignment="center" lineBreakMode="characterWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mka-HL-Z09">
+                        <rect key="frame" x="24" y="5" width="60" height="25"/>
+                        <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="60" id="npf-Xi-K6q"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="13"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="2.5 Miles" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KAm-uF-i0s">
+                        <rect key="frame" x="10" y="30" width="87" height="72"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="72" id="Cfz-rq-0ok"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="22"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            </view>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="mka-HL-Z09" firstAttribute="top" secondItem="QB0-ei-cs9" secondAttribute="top" constant="5" id="Cdl-wN-UTF"/>
+                <constraint firstItem="mka-HL-Z09" firstAttribute="leading" secondItem="QB0-ei-cs9" secondAttribute="leading" priority="250" constant="10" id="Fmx-Pa-JR0"/>
+                <constraint firstItem="mka-HL-Z09" firstAttribute="centerX" secondItem="QB0-ei-cs9" secondAttribute="centerX" id="PBH-H4-24l"/>
+                <constraint firstItem="KAm-uF-i0s" firstAttribute="leading" secondItem="QB0-ei-cs9" secondAttribute="leading" constant="10" id="Uf5-BK-8rS"/>
+                <constraint firstAttribute="trailing" secondItem="mka-HL-Z09" secondAttribute="trailing" priority="250" constant="10" id="YAB-1W-GWT"/>
+                <constraint firstItem="KAm-uF-i0s" firstAttribute="top" secondItem="mka-HL-Z09" secondAttribute="bottom" id="aco-qj-FJq"/>
+                <constraint firstAttribute="bottom" secondItem="KAm-uF-i0s" secondAttribute="bottom" constant="5" id="ezg-uR-F2J"/>
+                <constraint firstAttribute="trailing" secondItem="KAm-uF-i0s" secondAttribute="trailing" constant="10" id="v1A-oa-YCg"/>
+            </constraints>
+            <size key="customSize" width="50" height="95"/>
+            <connections>
+                <outlet property="bottomLabel" destination="KAm-uF-i0s" id="kR9-hM-j1E"/>
+                <outlet property="bottomLabelHeightConstraint" destination="Cfz-rq-0ok" id="fO8-C5-zGj"/>
+                <outlet property="topLabel" destination="mka-HL-Z09" id="3e1-37-Dnm"/>
+                <outlet property="topLabelYSpaceConstraint" destination="Cdl-wN-UTF" id="34M-AD-MiM"/>
+                <outlet property="topLblWidthConstarint" destination="npf-Xi-K6q" id="Dsc-Kh-iNF"/>
+            </connections>
+            <point key="canvasLocation" x="391.5" y="-138.5"/>
+        </collectionViewCell>
+    </objects>
+</document>

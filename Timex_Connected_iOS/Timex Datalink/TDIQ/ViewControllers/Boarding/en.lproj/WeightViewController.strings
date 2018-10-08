@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "You're ready!"; ObjectID = "wTD-kn-flW"; */
+"wTD-kn-flW.text" = "You're ready!";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "xn3-ia-2lK"; */
+"xn3-ia-2lK.placeholder" = "0";
+
+/* Class = "UILabel"; text = "kg"; ObjectID = "yX2-j3-Ja1"; */
+"yX2-j3-Ja1.text" = "kg";

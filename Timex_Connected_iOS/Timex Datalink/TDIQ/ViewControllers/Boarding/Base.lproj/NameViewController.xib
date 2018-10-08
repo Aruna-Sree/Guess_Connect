@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="16C67" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <development version="7000" identifier="xcode"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="HelveticaNeue.ttc">
+            <string>HelveticaNeue</string>
+            <string>HelveticaNeue-Bold</string>
+            <string>HelveticaNeue-Bold</string>
+        </mutableArray>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="NameViewController">
+            <connections>
+                <outlet property="femaleBtn" destination="faW-2D-Ey8" id="0l8-wy-xkq"/>
+                <outlet property="fieldViewTopContraint" destination="5MS-UE-8uI" id="zqW-MU-d2W"/>
+                <outlet property="fieldViewWidthContraint" destination="Gug-Ab-YXU" id="Ox8-eq-DK5"/>
+                <outlet property="infoBtn" destination="mO9-UG-sqS" id="7Yh-AP-wQe"/>
+                <outlet property="infoBtnBottomContraint" destination="Ieg-h9-3iI" id="rMS-Up-EX5"/>
+                <outlet property="infoBtnleftConstraint" destination="9sv-Fb-B8v" id="XZW-SY-uo1"/>
+                <outlet property="infoLabel" destination="DVr-dR-M7x" id="iS2-tB-HLp"/>
+                <outlet property="infoLblBottomContraint" destination="EYR-mf-FKK" id="Y47-cO-DEQ"/>
+                <outlet property="infoLblTopConstraint" destination="NfC-12-uXh" id="wCF-hC-fac"/>
+                <outlet property="infoLblleftConstraint" destination="gar-7T-xwe" id="bxz-et-J9f"/>
+                <outlet property="maleBtn" destination="o9h-Lg-vVK" id="cQL-VA-PF6"/>
+                <outlet property="nameTextField" destination="JBg-yn-gEU" id="QpA-Ev-B7L"/>
+                <outlet property="nextButton" destination="7ph-Q3-K3Z" id="xlb-7u-UJg"/>
+                <outlet property="progressLbl" destination="8LX-C7-3Td" id="xUu-gg-VOq"/>
+                <outlet property="progressLblWidthContraint" destination="ROb-EM-hFs" id="0m9-nt-KcF"/>
+                <outlet property="view" destination="l10-48-r5G" id="oVf-u2-DrQ"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="l10-48-r5G">
+            <rect key="frame" x="0.0" y="64" width="600" height="536"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="You're ready!" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DVr-dR-M7x">
+                    <rect key="frame" x="15" y="15" width="570" height="120"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="120" id="4Ih-fE-ZPS"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                    <color key="textColor" red="0.2156862745" green="0.2156862745" blue="0.2156862745" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8LX-C7-3Td">
+                    <rect key="frame" x="0.0" y="170" width="150" height="5"/>
+                    <color key="backgroundColor" red="0.83137254900000002" green="0.086274509799999996" blue="0.13725490200000001" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="150" id="ROb-EM-hFs"/>
+                        <constraint firstAttribute="height" constant="5" id="jbc-yj-6Dj"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="km1-SZ-0Vb">
+                    <rect key="frame" x="180" y="230" width="240" height="130"/>
+                    <subviews>
+                        <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="First Name" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="JBg-yn-gEU">
+                            <rect key="frame" x="0.0" y="0.0" width="240" height="40"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="40" id="ftj-SI-6YC"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <textInputTraits key="textInputTraits" autocapitalizationType="words" autocorrectionType="no" returnKeyType="done"/>
+                            <connections>
+                                <outlet property="delegate" destination="-1" id="Rii-cp-pOb"/>
+                            </connections>
+                        </textField>
+                        <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="faW-2D-Ey8">
+                            <rect key="frame" x="0.0" y="80" width="58" height="50"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="50" id="9tR-sm-ftW"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="14"/>
+                            <state key="normal" title="FEMALE">
+                                <color key="titleColor" red="0.2156862745" green="0.2156862745" blue="0.2156862745" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="genderButtonTapped:" destination="-1" eventType="touchUpInside" id="P63-Wy-YFP"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="right" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="o9h-Lg-vVK">
+                            <rect key="frame" x="182" y="80" width="58" height="50"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="50" id="lvV-Co-xFW"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="14"/>
+                            <state key="normal" title="MALE">
+                                <color key="titleColor" red="0.2156862745" green="0.2156862745" blue="0.2156862745" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="genderButtonTapped:" destination="-1" eventType="touchUpInside" id="lmf-hy-CeR"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstItem="o9h-Lg-vVK" firstAttribute="leading" secondItem="faW-2D-Ey8" secondAttribute="trailing" priority="250" id="4xr-Qc-1Fm"/>
+                        <constraint firstItem="faW-2D-Ey8" firstAttribute="leading" secondItem="km1-SZ-0Vb" secondAttribute="leading" id="5d6-XV-jES"/>
+                        <constraint firstItem="JBg-yn-gEU" firstAttribute="top" secondItem="km1-SZ-0Vb" secondAttribute="top" id="D6F-xf-4C5"/>
+                        <constraint firstAttribute="width" constant="240" id="Gug-Ab-YXU"/>
+                        <constraint firstAttribute="trailing" secondItem="JBg-yn-gEU" secondAttribute="trailing" id="HDp-41-uio"/>
+                        <constraint firstAttribute="height" constant="130" id="Oil-Kl-Mne"/>
+                        <constraint firstAttribute="bottom" secondItem="o9h-Lg-vVK" secondAttribute="bottom" id="SiE-Pm-j7C"/>
+                        <constraint firstItem="o9h-Lg-vVK" firstAttribute="width" secondItem="faW-2D-Ey8" secondAttribute="width" id="Tr6-cs-u5G"/>
+                        <constraint firstAttribute="trailing" secondItem="o9h-Lg-vVK" secondAttribute="trailing" id="WzZ-97-IHf"/>
+                        <constraint firstItem="faW-2D-Ey8" firstAttribute="top" secondItem="JBg-yn-gEU" secondAttribute="bottom" constant="40" id="YAq-Qf-iY4"/>
+                        <constraint firstAttribute="bottom" secondItem="faW-2D-Ey8" secondAttribute="bottom" id="i8E-Tm-hgI"/>
+                        <constraint firstItem="o9h-Lg-vVK" firstAttribute="top" secondItem="JBg-yn-gEU" secondAttribute="bottom" constant="40" id="nQI-Fg-uAo"/>
+                        <constraint firstItem="JBg-yn-gEU" firstAttribute="leading" secondItem="km1-SZ-0Vb" secondAttribute="leading" id="plS-Z4-r1f"/>
+                        <constraint firstItem="JBg-yn-gEU" firstAttribute="centerX" secondItem="km1-SZ-0Vb" secondAttribute="centerX" id="wRf-V8-kR0"/>
+                    </constraints>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7ph-Q3-K3Z">
+                    <rect key="frame" x="0.0" y="486" width="600" height="30"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="zOh-9w-EGl"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="13"/>
+                    <color key="tintColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <state key="normal" title="NEXT   " image="arrow_right">
+                        <color key="titleColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="nextButtonTapped:" destination="-1" eventType="touchUpInside" id="Xaf-CC-lpQ"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mO9-UG-sqS">
+                    <rect key="frame" x="15" y="135" width="570" height="27"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="27" id="dBS-lg-cpy"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="11"/>
+                    <color key="tintColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <state key="normal" title=" Why do we need this information?" image="info_icon">
+                        <color key="titleColor" red="0.43529411759999997" green="0.4431372549" blue="0.47450980390000003" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="clickedOnInfoBtn:" destination="-1" eventType="touchUpInside" id="f8w-1D-KQO"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="km1-SZ-0Vb" firstAttribute="top" secondItem="8LX-C7-3Td" secondAttribute="bottom" constant="55" id="5MS-UE-8uI"/>
+                <constraint firstItem="7ph-Q3-K3Z" firstAttribute="leading" secondItem="l10-48-r5G" secondAttribute="leading" id="7LY-pZ-oS9"/>
+                <constraint firstItem="mO9-UG-sqS" firstAttribute="leading" secondItem="l10-48-r5G" secondAttribute="leading" constant="15" id="9sv-Fb-B8v"/>
+                <constraint firstItem="mO9-UG-sqS" firstAttribute="top" secondItem="DVr-dR-M7x" secondAttribute="bottom" id="EYR-mf-FKK"/>
+                <constraint firstAttribute="bottom" secondItem="7ph-Q3-K3Z" secondAttribute="bottom" constant="20" id="HUE-S3-hq1"/>
+                <constraint firstItem="8LX-C7-3Td" firstAttribute="top" secondItem="mO9-UG-sqS" secondAttribute="bottom" constant="8" id="Ieg-h9-3iI"/>
+                <constraint firstItem="DVr-dR-M7x" firstAttribute="top" secondItem="l10-48-r5G" secondAttribute="top" constant="15" id="NfC-12-uXh"/>
+                <constraint firstAttribute="trailing" secondItem="7ph-Q3-K3Z" secondAttribute="trailing" id="Ofx-R5-7di"/>
+                <constraint firstAttribute="trailing" secondItem="mO9-UG-sqS" secondAttribute="trailing" constant="15" id="UKg-G1-yif"/>
+                <constraint firstAttribute="trailing" secondItem="DVr-dR-M7x" secondAttribute="trailing" constant="15" id="W29-JJ-t0N"/>
+                <constraint firstItem="7ph-Q3-K3Z" firstAttribute="top" secondItem="km1-SZ-0Vb" secondAttribute="bottom" priority="250" constant="166" id="fHb-hb-hV0"/>
+                <constraint firstItem="DVr-dR-M7x" firstAttribute="leading" secondItem="l10-48-r5G" secondAttribute="leading" constant="15" id="gar-7T-xwe"/>
+                <constraint firstItem="km1-SZ-0Vb" firstAttribute="centerX" secondItem="l10-48-r5G" secondAttribute="centerX" id="ghW-DM-JfR"/>
+                <constraint firstItem="km1-SZ-0Vb" firstAttribute="leading" secondItem="l10-48-r5G" secondAttribute="leading" priority="250" constant="180" id="oxd-h8-Sxo"/>
+                <constraint firstAttribute="trailing" secondItem="km1-SZ-0Vb" secondAttribute="trailing" priority="250" constant="180" id="qDu-n5-EIh"/>
+                <constraint firstItem="7ph-Q3-K3Z" firstAttribute="centerX" secondItem="l10-48-r5G" secondAttribute="centerX" id="wjO-ol-D7a"/>
+                <constraint firstItem="8LX-C7-3Td" firstAttribute="leading" secondItem="l10-48-r5G" secondAttribute="leading" id="xh1-8f-KdN"/>
+            </constraints>
+            <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" translucent="NO" prompted="NO"/>
+            <point key="canvasLocation" x="163" y="294"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="arrow_right" width="16" height="10"/>
+        <image name="info_icon" width="13" height="13"/>
+    </resources>
+</document>

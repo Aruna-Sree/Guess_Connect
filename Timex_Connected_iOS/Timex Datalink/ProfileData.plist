@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>services</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Timex DataLink Service</string>
+			<key>uuid</key>
+			<string>876B199D-3504-46B2-A3EA-FD8A805B6A40</string>
+			<key>localid</key>
+			<string>0x19730000</string>
+			<key>characteristics</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Data In 1</string>
+					<key>uuid</key>
+					<string>DCB8A259-5E38-4B91-B9C7-D3F2E49EE061</string>
+					<key>localid</key>
+					<string>0x19730001</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Data In 2</string>
+					<key>uuid</key>
+					<string>93771850-AFFF-4E93-A763-9F0CF8C576C9</string>
+					<key>localid</key>
+					<string>0x19730002</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Data In 3</string>
+					<key>uuid</key>
+					<string>072D8B9E-B43D-45E7-90CD-8F75A190000F</string>
+					<key>localid</key>
+					<string>0x19730003</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Data In 4</string>
+					<key>uuid</key>
+					<string>78383E18-5064-43D2-91DE-26B369FA435C</string>
+					<key>localid</key>
+					<string>0x19730004</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Data Out 1</string>
+					<key>uuid</key>
+					<string>4B67CC1C-3CE6-40B2-AD0A-B22F9FB523BB</string>
+					<key>localid</key>
+					<string>0x19730005</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Data Out 2</string>
+					<key>uuid</key>
+					<string>CF14CE1A-1BE5-4C32-9BFF-679BCFAB9DCB</string>
+					<key>localid</key>
+					<string>0x19730006</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Data Out 3</string>
+					<key>uuid</key>
+					<string>39EC97D0-FE59-487F-B520-8529BEF1FD7D</string>
+					<key>localid</key>
+					<string>0x19730007</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Data Out 4</string>
+					<key>uuid</key>
+					<string>A809E205-8D93-4602-B0F6-FE40095484E3</string>
+					<key>localid</key>
+					<string>0x19730008</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Device State</string>
+					<key>uuid</key>
+					<string>36F8C520-ADE1-4C82-89F2-E8E6F993A2F4</string>
+					<key>localid</key>
+					<string>0x19730009</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>temp_old</key>
+	<array>
+		<dict>
+			<key>characteristics</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Firmware Revision</string>
+					<key>uuid</key>
+					<string>2A26</string>
+					<key>localid</key>
+					<string>2A26</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Serial Number</string>
+					<key>uuid</key>
+					<string>2A25</string>
+					<key>localid</key>
+					<string>2A25</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Model Number</string>
+					<key>uuid</key>
+					<string>2A24</string>
+					<key>localid</key>
+					<string>2A24</string>
+				</dict>
+			</array>
+			<key>name</key>
+			<string>Device Information</string>
+			<key>uuid</key>
+			<string>180A</string>
+			<key>localid</key>
+			<string>180A</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Battery Service</string>
+			<key>uuid</key>
+			<string>180F</string>
+		</dict>
+	</array>
+</dict>
+</plist>

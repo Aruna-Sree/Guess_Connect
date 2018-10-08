@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12121" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="HelveticaNeue.ttc">
+            <string>HelveticaNeue</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SetupWatchViewController">
+            <connections>
+                <outlet property="activityIndicator" destination="256-f5-kuk" id="yXo-ar-blD"/>
+                <outlet property="indicatorTopConstraint" destination="ZmI-py-5FE" id="qxx-RO-Mrg"/>
+                <outlet property="infoLabel" destination="ICl-3J-wkm" id="mKV-LJ-kRT"/>
+                <outlet property="infoLblBottomContraint" destination="Vt3-zC-Zka" id="rEE-qX-UyB"/>
+                <outlet property="infoLblTopConstraint" destination="6eU-9G-mOi" id="OcA-Mr-dwz"/>
+                <outlet property="infoLblleftConstraint" destination="mHa-yD-DLs" id="HPR-Jj-UQm"/>
+                <outlet property="progressLbl" destination="uf3-NP-25H" id="T5C-4L-llG"/>
+                <outlet property="progressLblWidthContraint" destination="zmG-nn-ZO8" id="Quc-pJ-hAz"/>
+                <outlet property="view" destination="c5m-hj-ayo" id="qKb-ff-fnu"/>
+                <outlet property="watchListTableView" destination="uTs-aq-JNg" id="LIw-OU-M18"/>
+                <outlet property="watchSetup" destination="UB3-eL-vmb" id="ZyK-U7-4eW"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="c5m-hj-ayo">
+            <rect key="frame" x="0.0" y="64" width="375" height="603"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uf3-NP-25H">
+                    <rect key="frame" x="0.0" y="190" width="150" height="5"/>
+                    <color key="backgroundColor" red="0.83137254900000002" green="0.086274509799999996" blue="0.13725490200000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="5" id="NuK-aQ-aCE"/>
+                        <constraint firstAttribute="width" constant="150" id="zmG-nn-ZO8"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="256-f5-kuk">
+                    <rect key="frame" x="177.5" y="563" width="20" height="20"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="20" id="eoU-NS-MKK"/>
+                        <constraint firstAttribute="width" constant="20" id="xq1-fh-izD"/>
+                    </constraints>
+                </activityIndicatorView>
+                <imageView opaque="NO" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="WatchSetup" translatesAutoresizingMaskIntoConstraints="NO" id="UB3-eL-vmb">
+                    <rect key="frame" x="87.5" y="238" width="200" height="200"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="200" id="2Tq-A7-mEx"/>
+                        <constraint firstAttribute="height" constant="200" id="qEt-tc-Pia"/>
+                    </constraints>
+                </imageView>
+                <tableView hidden="YES" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="uTs-aq-JNg">
+                    <rect key="frame" x="20" y="235" width="335" height="328"/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="JqW-hK-s5A"/>
+                        <outlet property="delegate" destination="-1" id="M8H-zR-1g4"/>
+                    </connections>
+                </tableView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="You're ready!" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ICl-3J-wkm">
+                    <rect key="frame" x="15" y="15" width="300" height="167"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="167" id="kAw-wv-anu"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                    <color key="textColor" red="0.2156862745" green="0.2156862745" blue="0.2156862745" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="uf3-NP-25H" firstAttribute="leading" secondItem="c5m-hj-ayo" secondAttribute="leading" id="0hc-h9-h8w"/>
+                <constraint firstAttribute="bottom" secondItem="uTs-aq-JNg" secondAttribute="bottom" constant="40" id="5iY-ev-btT"/>
+                <constraint firstItem="ICl-3J-wkm" firstAttribute="top" secondItem="c5m-hj-ayo" secondAttribute="top" constant="15" id="6eU-9G-mOi"/>
+                <constraint firstItem="256-f5-kuk" firstAttribute="centerX" secondItem="c5m-hj-ayo" secondAttribute="centerX" id="6vu-9j-hk1"/>
+                <constraint firstAttribute="trailing" secondItem="uTs-aq-JNg" secondAttribute="trailing" constant="20" id="9ES-v8-Xxb"/>
+                <constraint firstItem="UB3-eL-vmb" firstAttribute="top" secondItem="uf3-NP-25H" secondAttribute="bottom" constant="43" id="HWf-qE-6d4"/>
+                <constraint firstAttribute="bottom" secondItem="256-f5-kuk" secondAttribute="bottom" constant="20" id="PnZ-WU-jSW"/>
+                <constraint firstItem="uf3-NP-25H" firstAttribute="top" secondItem="ICl-3J-wkm" secondAttribute="bottom" constant="8" id="Vt3-zC-Zka"/>
+                <constraint firstItem="uTs-aq-JNg" firstAttribute="leading" secondItem="c5m-hj-ayo" secondAttribute="leading" constant="20" id="WKX-pO-3c4"/>
+                <constraint firstItem="256-f5-kuk" firstAttribute="top" secondItem="uTs-aq-JNg" secondAttribute="top" constant="208" id="ZmI-py-5FE"/>
+                <constraint firstItem="256-f5-kuk" firstAttribute="centerX" secondItem="c5m-hj-ayo" secondAttribute="centerX" id="d5T-J3-2LV"/>
+                <constraint firstItem="UB3-eL-vmb" firstAttribute="centerX" secondItem="c5m-hj-ayo" secondAttribute="centerX" id="fle-hj-hNg"/>
+                <constraint firstItem="ICl-3J-wkm" firstAttribute="leading" secondItem="c5m-hj-ayo" secondAttribute="leading" constant="15" id="mHa-yD-DLs"/>
+                <constraint firstItem="UB3-eL-vmb" firstAttribute="top" secondItem="ICl-3J-wkm" secondAttribute="bottom" constant="80" id="qC8-yC-xAl"/>
+                <constraint firstAttribute="trailing" secondItem="ICl-3J-wkm" secondAttribute="trailing" constant="60" id="qqM-3Y-UX3"/>
+                <constraint firstItem="256-f5-kuk" firstAttribute="top" secondItem="UB3-eL-vmb" secondAttribute="bottom" constant="8" id="uAd-Tp-mSj"/>
+                <constraint firstItem="uTs-aq-JNg" firstAttribute="top" secondItem="uf3-NP-25H" secondAttribute="bottom" constant="40" id="xT2-Dk-1Wk"/>
+            </constraints>
+            <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" translucent="NO" prompted="NO"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="ZmI-py-5FE"/>
+                    <exclude reference="d5T-J3-2LV"/>
+                    <exclude reference="uAd-Tp-mSj"/>
+                    <exclude reference="qC8-yC-xAl"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="163" y="294"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="WatchSetup" width="200" height="156"/>
+    </resources>
+</document>

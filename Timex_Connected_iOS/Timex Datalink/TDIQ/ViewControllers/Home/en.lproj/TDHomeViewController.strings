@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "GOAL ACHIEVED!"; ObjectID = "Xsn-ma-ipZ"; */
+"Xsn-ma-ipZ.text" = "GOAL ACHIEVED!";
+
+/* Class = "UIButton"; normalTitle = "DISMISS"; ObjectID = "diq-sb-MXi"; */
+"diq-sb-MXi.normalTitle" = "DISMISS";
+
+/* Class = "UIButton"; normalTitle = "SET HIGHER GOAL"; ObjectID = "rV2-dw-vbl"; */
+"rV2-dw-vbl.normalTitle" = "SET HIGHER GOAL";

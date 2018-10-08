@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="16C67" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="cell" id="KGk-i7-Jjw" customClass="CalibrateCell">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="50"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="600" height="49.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <button opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fg7-jl-x2f" userLabel="NEXT">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="49.5"/>
+                        <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="13"/>
+                        <color key="tintColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <state key="normal" title="SKIP   " image="arrow_right">
+                            <color key="titleColor" red="0.88235294117647056" green="0.082352941176470587" blue="0.10588235294117647" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </state>
+                    </button>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Adjust Now" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Vjg-h6-264">
+                        <rect key="frame" x="0.0" y="-9" width="600" height="70"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="0.88235294117647056" green="0.082352941176470587" blue="0.10588235294117647" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Vjg-h6-264" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" constant="-17" id="2c1-1O-KkS"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="fg7-jl-x2f" secondAttribute="bottom" constant="-8" id="2rs-KJ-5w7"/>
+                    <constraint firstItem="fg7-jl-x2f" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" constant="-8" id="CHz-SD-etg"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="Vjg-h6-264" secondAttribute="trailing" constant="-8" id="D1l-7m-c4t"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="fg7-jl-x2f" secondAttribute="trailing" constant="-8" id="Hfq-mP-gdC"/>
+                    <constraint firstItem="Vjg-h6-264" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" constant="-8" id="ZDF-8o-loC"/>
+                    <constraint firstItem="fg7-jl-x2f" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" constant="-8" id="aGG-XT-Lmb"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="Vjg-h6-264" secondAttribute="bottom" constant="-19.5" id="qRU-nK-lZc"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="calibrateLbl" destination="Vjg-h6-264" id="OTZ-Ue-tyu"/>
+                <outlet property="skipBtn" destination="fg7-jl-x2f" id="3Fo-sY-rYS"/>
+            </connections>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="arrow_right" width="16" height="10"/>
+    </resources>
+</document>

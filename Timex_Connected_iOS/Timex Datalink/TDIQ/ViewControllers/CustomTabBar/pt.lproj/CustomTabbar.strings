@@ -1,0 +1,27 @@
+/* (No Commment) */
+"SnA-Bh-mxh.normalTitle" = "To continue using your watch,
+ALIGN HANDS NOW";
+
+/* Class = "UILabel"; text = "Unfortunately your activity data maybe inaccurate and the watch hands need to be realigned."; ObjectID = "X8X-DB-cSA"; */
+"X8X-DB-cSA.text" = "Unfortunately your activity data maybe inaccurate and the watch hands need to be realigned.";
+
+/* Class = "UILabel"; text = "Last Sync: 4:30pm Yesterday"; ObjectID = "XpI-SG-NpF"; */
+"XpI-SG-NpF.text" = "Last Sync: 4:30pm Yesterday";
+
+/* Class = "UILabel"; text = "Unable to Sync\n\nPress hold the crown to put your Guess Connect watch into pairing mode."; ObjectID = "cTP-a5-jK6"; */
+"cTP-a5-jK6.text" = "Unable to Sync
+
+Press hold the crown to put your Guess Connect watch into pairing mode.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "es0-tW-FJA"; */
+"es0-tW-FJA.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Update Now"; ObjectID = "hTR-mY-aEF"; */
+"hTR-mY-aEF.normalTitle" = "Update Now";
+
+/* Class = "UIButton"; normalTitle = "Update Later"; ObjectID = "nLi-4x-Ylh"; */
+"nLi-4x-Ylh.normalTitle" = "Update Later";
+
+/* Class = "UIButton"; normalTitle = "Contact Now"; ObjectID = "vDh-xi-79W"; */
+"vDh-xi-79W.normalTitle" = "Contact Now";
+

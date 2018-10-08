@@ -1,0 +1,512 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		758659391727052300080A2A /* Peripheral_universal */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 7586593C1727052300080A2A /* Build configuration list for PBXAggregateTarget "Peripheral_universal" */;
+			buildPhases = (
+				7586593D1727055C00080A2A /* ShellScript */,
+				752A31FE18B7B2320085F12B /* CopyFiles */,
+			);
+			dependencies = (
+			);
+			name = Peripheral_universal;
+			productName = Peripheral_universal;
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		751A45FB17DE40DB00FC04E3 /* TargetSelectorPair.m in Sources */ = {isa = PBXBuildFile; fileRef = 751A45FA17DE40D900FC04E3 /* TargetSelectorPair.m */; };
+		752A320518B7B6F40085F12B /* BatteryService.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 7586592F1726FEBC00080A2A /* BatteryService.h */; };
+		752A320618B7B6F40085F12B /* DeviceInformationService.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 758659301726FEBC00080A2A /* DeviceInformationService.h */; };
+		752A320818B7B6F40085F12B /* BLECharacteristic.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 758659201726FE9F00080A2A /* BLECharacteristic.h */; };
+		752A320918B7B6F40085F12B /* BLEManager.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 758659211726FE9F00080A2A /* BLEManager.h */; };
+		752A320A18B7B6F40085F12B /* BLEPeripheral.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 758659221726FE9F00080A2A /* BLEPeripheral.h */; };
+		752A320B18B7B6F40085F12B /* BLEService.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 758659231726FE9F00080A2A /* BLEService.h */; };
+		752A320C18B7B6F40085F12B /* CharacteristicProxy.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 758659241726FE9F00080A2A /* CharacteristicProxy.h */; };
+		752A320D18B7B6F40085F12B /* PeripheralProxy.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 758659251726FE9F00080A2A /* PeripheralProxy.h */; };
+		752A320E18B7B6F40085F12B /* PeripheralUtility.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 758659261726FE9F00080A2A /* PeripheralUtility.h */; };
+		752A320F18B7B6F40085F12B /* ProfileData.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 758659271726FE9F00080A2A /* ProfileData.h */; };
+		752A321018B7B6F40085F12B /* ProfileObject.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 758659281726FE9F00080A2A /* ProfileObject.h */; };
+		752A321118B7B6F40085F12B /* ServiceProxy.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 758659291726FE9F00080A2A /* ServiceProxy.h */; };
+		752A321218B7B6F40085F12B /* SimCharacteristic.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 7586592A1726FE9F00080A2A /* SimCharacteristic.h */; };
+		752A321318B7B6F40085F12B /* SimPeripheral.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 7586592B1726FE9F00080A2A /* SimPeripheral.h */; };
+		752A321418B7B6F40085F12B /* SimService.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 7586592C1726FE9F00080A2A /* SimService.h */; };
+		752A321518B7B6F40085F12B /* TargetSelectorPair.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 751A45F917DE40D800FC04E3 /* TargetSelectorPair.h */; };
+		758658F01726FA7E00080A2A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 758658EF1726FA7E00080A2A /* Foundation.framework */; };
+		7586590A1726FE4800080A2A /* BLECharacteristic.m in Sources */ = {isa = PBXBuildFile; fileRef = 758658FF1726FE4800080A2A /* BLECharacteristic.m */; };
+		7586590B1726FE4800080A2A /* BLEManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 758659001726FE4800080A2A /* BLEManager.m */; };
+		7586590C1726FE4800080A2A /* BLEPeripheral.m in Sources */ = {isa = PBXBuildFile; fileRef = 758659011726FE4800080A2A /* BLEPeripheral.m */; };
+		7586590D1726FE4800080A2A /* BLEService.m in Sources */ = {isa = PBXBuildFile; fileRef = 758659021726FE4800080A2A /* BLEService.m */; };
+		7586590E1726FE4800080A2A /* CharacteristicProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = 758659031726FE4800080A2A /* CharacteristicProxy.m */; };
+		7586590F1726FE4800080A2A /* PeripheralProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = 758659041726FE4800080A2A /* PeripheralProxy.m */; };
+		758659101726FE4800080A2A /* PeripheralUtility.m in Sources */ = {isa = PBXBuildFile; fileRef = 758659051726FE4800080A2A /* PeripheralUtility.m */; };
+		758659111726FE4800080A2A /* ServiceProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = 758659061726FE4800080A2A /* ServiceProxy.m */; };
+		758659121726FE4800080A2A /* SimCharacteristic.m in Sources */ = {isa = PBXBuildFile; fileRef = 758659071726FE4800080A2A /* SimCharacteristic.m */; };
+		758659131726FE4800080A2A /* SimPeripheral.m in Sources */ = {isa = PBXBuildFile; fileRef = 758659081726FE4800080A2A /* SimPeripheral.m */; };
+		758659141726FE4800080A2A /* SimService.m in Sources */ = {isa = PBXBuildFile; fileRef = 758659091726FE4800080A2A /* SimService.m */; };
+		7586591A1726FE7100080A2A /* BatteryService.m in Sources */ = {isa = PBXBuildFile; fileRef = 758659181726FE7100080A2A /* BatteryService.m */; };
+		7586591B1726FE7100080A2A /* DeviceInformationService.m in Sources */ = {isa = PBXBuildFile; fileRef = 758659191726FE7100080A2A /* DeviceInformationService.m */; };
+		7586591E1726FE8200080A2A /* ProfileData.m in Sources */ = {isa = PBXBuildFile; fileRef = 7586591C1726FE8200080A2A /* ProfileData.m */; };
+		7586591F1726FE8200080A2A /* ProfileObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 7586591D1726FE8200080A2A /* ProfileObject.m */; };
+		75DEE8FC1858FD07008FFA04 /* CBPeripheral+CBUUID.m in Sources */ = {isa = PBXBuildFile; fileRef = 75DEE8FB1858FD07008FFA04 /* CBPeripheral+CBUUID.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		752A31FE18B7B2320085F12B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "${SOURCE_ROOT}/export/include";
+			dstSubfolderSpec = 0;
+			files = (
+				752A320518B7B6F40085F12B /* BatteryService.h in CopyFiles */,
+				752A320618B7B6F40085F12B /* DeviceInformationService.h in CopyFiles */,
+				752A320818B7B6F40085F12B /* BLECharacteristic.h in CopyFiles */,
+				752A320918B7B6F40085F12B /* BLEManager.h in CopyFiles */,
+				752A320A18B7B6F40085F12B /* BLEPeripheral.h in CopyFiles */,
+				752A320B18B7B6F40085F12B /* BLEService.h in CopyFiles */,
+				752A320C18B7B6F40085F12B /* CharacteristicProxy.h in CopyFiles */,
+				752A320D18B7B6F40085F12B /* PeripheralProxy.h in CopyFiles */,
+				752A320E18B7B6F40085F12B /* PeripheralUtility.h in CopyFiles */,
+				752A320F18B7B6F40085F12B /* ProfileData.h in CopyFiles */,
+				752A321018B7B6F40085F12B /* ProfileObject.h in CopyFiles */,
+				752A321118B7B6F40085F12B /* ServiceProxy.h in CopyFiles */,
+				752A321218B7B6F40085F12B /* SimCharacteristic.h in CopyFiles */,
+				752A321318B7B6F40085F12B /* SimPeripheral.h in CopyFiles */,
+				752A321418B7B6F40085F12B /* SimService.h in CopyFiles */,
+				752A321518B7B6F40085F12B /* TargetSelectorPair.h in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		758658EA1726FA7E00080A2A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/${PRODUCT_NAME}";
+			dstSubfolderSpec = 16;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		751A45F917DE40D800FC04E3 /* TargetSelectorPair.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TargetSelectorPair.h; path = include/TargetSelectorPair.h; sourceTree = SOURCE_ROOT; };
+		751A45FA17DE40D900FC04E3 /* TargetSelectorPair.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TargetSelectorPair.m; path = src/TargetSelectorPair.m; sourceTree = SOURCE_ROOT; };
+		758658EC1726FA7E00080A2A /* libPeripheral.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPeripheral.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		758658EF1726FA7E00080A2A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		758658F31726FA7E00080A2A /* Peripheral-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Peripheral-Prefix.pch"; sourceTree = "<group>"; };
+		758658FF1726FE4800080A2A /* BLECharacteristic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BLECharacteristic.m; path = src/BLECharacteristic.m; sourceTree = SOURCE_ROOT; };
+		758659001726FE4800080A2A /* BLEManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BLEManager.m; path = src/BLEManager.m; sourceTree = SOURCE_ROOT; };
+		758659011726FE4800080A2A /* BLEPeripheral.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BLEPeripheral.m; path = src/BLEPeripheral.m; sourceTree = SOURCE_ROOT; };
+		758659021726FE4800080A2A /* BLEService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BLEService.m; path = src/BLEService.m; sourceTree = SOURCE_ROOT; };
+		758659031726FE4800080A2A /* CharacteristicProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CharacteristicProxy.m; path = src/CharacteristicProxy.m; sourceTree = SOURCE_ROOT; };
+		758659041726FE4800080A2A /* PeripheralProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PeripheralProxy.m; path = src/PeripheralProxy.m; sourceTree = SOURCE_ROOT; };
+		758659051726FE4800080A2A /* PeripheralUtility.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PeripheralUtility.m; path = src/PeripheralUtility.m; sourceTree = SOURCE_ROOT; };
+		758659061726FE4800080A2A /* ServiceProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ServiceProxy.m; path = src/ServiceProxy.m; sourceTree = SOURCE_ROOT; };
+		758659071726FE4800080A2A /* SimCharacteristic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SimCharacteristic.m; path = src/SimCharacteristic.m; sourceTree = SOURCE_ROOT; };
+		758659081726FE4800080A2A /* SimPeripheral.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SimPeripheral.m; path = src/SimPeripheral.m; sourceTree = SOURCE_ROOT; };
+		758659091726FE4800080A2A /* SimService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SimService.m; path = src/SimService.m; sourceTree = SOURCE_ROOT; };
+		758659181726FE7100080A2A /* BatteryService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BatteryService.m; path = src/Public/Services/BatteryService.m; sourceTree = SOURCE_ROOT; };
+		758659191726FE7100080A2A /* DeviceInformationService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DeviceInformationService.m; path = src/Public/Services/DeviceInformationService.m; sourceTree = SOURCE_ROOT; };
+		7586591C1726FE8200080A2A /* ProfileData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ProfileData.m; path = src/ProfileObject/ProfileData.m; sourceTree = SOURCE_ROOT; };
+		7586591D1726FE8200080A2A /* ProfileObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ProfileObject.m; path = src/ProfileObject/ProfileObject.m; sourceTree = SOURCE_ROOT; };
+		758659201726FE9F00080A2A /* BLECharacteristic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BLECharacteristic.h; path = include/BLECharacteristic.h; sourceTree = SOURCE_ROOT; };
+		758659211726FE9F00080A2A /* BLEManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BLEManager.h; path = include/BLEManager.h; sourceTree = SOURCE_ROOT; };
+		758659221726FE9F00080A2A /* BLEPeripheral.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BLEPeripheral.h; path = include/BLEPeripheral.h; sourceTree = SOURCE_ROOT; };
+		758659231726FE9F00080A2A /* BLEService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BLEService.h; path = include/BLEService.h; sourceTree = SOURCE_ROOT; };
+		758659241726FE9F00080A2A /* CharacteristicProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CharacteristicProxy.h; path = include/CharacteristicProxy.h; sourceTree = SOURCE_ROOT; };
+		758659251726FE9F00080A2A /* PeripheralProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PeripheralProxy.h; path = include/PeripheralProxy.h; sourceTree = SOURCE_ROOT; };
+		758659261726FE9F00080A2A /* PeripheralUtility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PeripheralUtility.h; path = include/PeripheralUtility.h; sourceTree = SOURCE_ROOT; };
+		758659271726FE9F00080A2A /* ProfileData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ProfileData.h; path = include/ProfileData.h; sourceTree = SOURCE_ROOT; };
+		758659281726FE9F00080A2A /* ProfileObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ProfileObject.h; path = include/ProfileObject.h; sourceTree = SOURCE_ROOT; };
+		758659291726FE9F00080A2A /* ServiceProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ServiceProxy.h; path = include/ServiceProxy.h; sourceTree = SOURCE_ROOT; };
+		7586592A1726FE9F00080A2A /* SimCharacteristic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SimCharacteristic.h; path = include/SimCharacteristic.h; sourceTree = SOURCE_ROOT; };
+		7586592B1726FE9F00080A2A /* SimPeripheral.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SimPeripheral.h; path = include/SimPeripheral.h; sourceTree = SOURCE_ROOT; };
+		7586592C1726FE9F00080A2A /* SimService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SimService.h; path = include/SimService.h; sourceTree = SOURCE_ROOT; };
+		7586592F1726FEBC00080A2A /* BatteryService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BatteryService.h; path = include/Public/Services/BatteryService.h; sourceTree = SOURCE_ROOT; };
+		758659301726FEBC00080A2A /* DeviceInformationService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DeviceInformationService.h; path = include/Public/Services/DeviceInformationService.h; sourceTree = SOURCE_ROOT; };
+		75DEE8FA1858FD07008FFA04 /* CBPeripheral+CBUUID.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "CBPeripheral+CBUUID.h"; path = "src/CBPeripheral/CBPeripheral+CBUUID.h"; sourceTree = SOURCE_ROOT; };
+		75DEE8FB1858FD07008FFA04 /* CBPeripheral+CBUUID.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "CBPeripheral+CBUUID.m"; path = "src/CBPeripheral/CBPeripheral+CBUUID.m"; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		758658E91726FA7E00080A2A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				758658F01726FA7E00080A2A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		758658E31726FA7E00080A2A = {
+			isa = PBXGroup;
+			children = (
+				758658F11726FA7E00080A2A /* Peripheral */,
+				758658EE1726FA7E00080A2A /* Frameworks */,
+				758658ED1726FA7E00080A2A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		758658ED1726FA7E00080A2A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				758658EC1726FA7E00080A2A /* libPeripheral.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		758658EE1726FA7E00080A2A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				758658EF1726FA7E00080A2A /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		758658F11726FA7E00080A2A /* Peripheral */ = {
+			isa = PBXGroup;
+			children = (
+				758658FE1726FBAD00080A2A /* include */,
+				758658FD1726FBA900080A2A /* src */,
+				758658F21726FA7E00080A2A /* Supporting Files */,
+			);
+			path = Peripheral;
+			sourceTree = "<group>";
+		};
+		758658F21726FA7E00080A2A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				758658F31726FA7E00080A2A /* Peripheral-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		758658FD1726FBA900080A2A /* src */ = {
+			isa = PBXGroup;
+			children = (
+				75DEE8F91858F999008FFA04 /* CBPeripheral */,
+				758659161726FE5200080A2A /* ProfileObject */,
+				758659151726FE4B00080A2A /* Public */,
+				758658FF1726FE4800080A2A /* BLECharacteristic.m */,
+				758659001726FE4800080A2A /* BLEManager.m */,
+				758659011726FE4800080A2A /* BLEPeripheral.m */,
+				758659021726FE4800080A2A /* BLEService.m */,
+				758659031726FE4800080A2A /* CharacteristicProxy.m */,
+				758659041726FE4800080A2A /* PeripheralProxy.m */,
+				758659051726FE4800080A2A /* PeripheralUtility.m */,
+				758659061726FE4800080A2A /* ServiceProxy.m */,
+				758659071726FE4800080A2A /* SimCharacteristic.m */,
+				758659081726FE4800080A2A /* SimPeripheral.m */,
+				758659091726FE4800080A2A /* SimService.m */,
+				751A45FA17DE40D900FC04E3 /* TargetSelectorPair.m */,
+			);
+			name = src;
+			sourceTree = "<group>";
+		};
+		758658FE1726FBAD00080A2A /* include */ = {
+			isa = PBXGroup;
+			children = (
+				7586592D1726FEA500080A2A /* Public */,
+				758659201726FE9F00080A2A /* BLECharacteristic.h */,
+				758659211726FE9F00080A2A /* BLEManager.h */,
+				758659221726FE9F00080A2A /* BLEPeripheral.h */,
+				758659231726FE9F00080A2A /* BLEService.h */,
+				758659241726FE9F00080A2A /* CharacteristicProxy.h */,
+				758659251726FE9F00080A2A /* PeripheralProxy.h */,
+				758659261726FE9F00080A2A /* PeripheralUtility.h */,
+				758659271726FE9F00080A2A /* ProfileData.h */,
+				758659281726FE9F00080A2A /* ProfileObject.h */,
+				758659291726FE9F00080A2A /* ServiceProxy.h */,
+				7586592A1726FE9F00080A2A /* SimCharacteristic.h */,
+				7586592B1726FE9F00080A2A /* SimPeripheral.h */,
+				7586592C1726FE9F00080A2A /* SimService.h */,
+				751A45F917DE40D800FC04E3 /* TargetSelectorPair.h */,
+			);
+			name = include;
+			sourceTree = "<group>";
+		};
+		758659151726FE4B00080A2A /* Public */ = {
+			isa = PBXGroup;
+			children = (
+				758659171726FE6200080A2A /* Services */,
+			);
+			name = Public;
+			sourceTree = "<group>";
+		};
+		758659161726FE5200080A2A /* ProfileObject */ = {
+			isa = PBXGroup;
+			children = (
+				7586591C1726FE8200080A2A /* ProfileData.m */,
+				7586591D1726FE8200080A2A /* ProfileObject.m */,
+			);
+			name = ProfileObject;
+			sourceTree = "<group>";
+		};
+		758659171726FE6200080A2A /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				758659181726FE7100080A2A /* BatteryService.m */,
+				758659191726FE7100080A2A /* DeviceInformationService.m */,
+			);
+			name = Services;
+			sourceTree = "<group>";
+		};
+		7586592D1726FEA500080A2A /* Public */ = {
+			isa = PBXGroup;
+			children = (
+				7586592E1726FEAC00080A2A /* Services */,
+			);
+			name = Public;
+			sourceTree = "<group>";
+		};
+		7586592E1726FEAC00080A2A /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				7586592F1726FEBC00080A2A /* BatteryService.h */,
+				758659301726FEBC00080A2A /* DeviceInformationService.h */,
+			);
+			name = Services;
+			sourceTree = "<group>";
+		};
+		75DEE8F91858F999008FFA04 /* CBPeripheral */ = {
+			isa = PBXGroup;
+			children = (
+				75DEE8FA1858FD07008FFA04 /* CBPeripheral+CBUUID.h */,
+				75DEE8FB1858FD07008FFA04 /* CBPeripheral+CBUUID.m */,
+			);
+			name = CBPeripheral;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		758658EB1726FA7E00080A2A /* Peripheral */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 758658FA1726FA7E00080A2A /* Build configuration list for PBXNativeTarget "Peripheral" */;
+			buildPhases = (
+				758658E81726FA7E00080A2A /* Sources */,
+				758658E91726FA7E00080A2A /* Frameworks */,
+				758658EA1726FA7E00080A2A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Peripheral;
+			productName = Peripheral;
+			productReference = 758658EC1726FA7E00080A2A /* libPeripheral.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		758658E41726FA7E00080A2A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "iDevices, LLC";
+			};
+			buildConfigurationList = 758658E71726FA7E00080A2A /* Build configuration list for PBXProject "Peripheral" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 758658E31726FA7E00080A2A;
+			productRefGroup = 758658ED1726FA7E00080A2A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				758658EB1726FA7E00080A2A /* Peripheral */,
+				758659391727052300080A2A /* Peripheral_universal */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		7586593D1727055C00080A2A /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "rm -rf ${BUILT_PRODUCTS_DIR}/libPeripheral_universal.a\nrm -rf ${SOURCE_ROOT}/export/include/*.h\n\nlipo -create \"${BUILT_PRODUCTS_DIR}/../${CONFIGURATION}-iphonesimulator/libPeripheral.a\" \\\n\"${BUILT_PRODUCTS_DIR}/libPeripheral.a\" -output \\\n\"${BUILT_PRODUCTS_DIR}/libPeripheral_universal.a\"\n\ncp ${BUILT_PRODUCTS_DIR}/libPeripheral_universal.a ./export/bin/libPeripheral.a";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		758658E81726FA7E00080A2A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7586590A1726FE4800080A2A /* BLECharacteristic.m in Sources */,
+				7586590B1726FE4800080A2A /* BLEManager.m in Sources */,
+				7586590C1726FE4800080A2A /* BLEPeripheral.m in Sources */,
+				75DEE8FC1858FD07008FFA04 /* CBPeripheral+CBUUID.m in Sources */,
+				7586590D1726FE4800080A2A /* BLEService.m in Sources */,
+				7586590E1726FE4800080A2A /* CharacteristicProxy.m in Sources */,
+				7586590F1726FE4800080A2A /* PeripheralProxy.m in Sources */,
+				758659101726FE4800080A2A /* PeripheralUtility.m in Sources */,
+				758659111726FE4800080A2A /* ServiceProxy.m in Sources */,
+				758659121726FE4800080A2A /* SimCharacteristic.m in Sources */,
+				758659131726FE4800080A2A /* SimPeripheral.m in Sources */,
+				758659141726FE4800080A2A /* SimService.m in Sources */,
+				7586591A1726FE7100080A2A /* BatteryService.m in Sources */,
+				7586591B1726FE7100080A2A /* DeviceInformationService.m in Sources */,
+				7586591E1726FE8200080A2A /* ProfileData.m in Sources */,
+				7586591F1726FE8200080A2A /* ProfileObject.m in Sources */,
+				751A45FB17DE40DB00FC04E3 /* TargetSelectorPair.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		758658F81726FA7E00080A2A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEPLOYMENT_POSTPROCESSING = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				"IPHONEOS_DEPLOYMENT_TARGET[arch=arm64]" = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		758658F91726FA7E00080A2A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEPLOYMENT_POSTPROCESSING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				"IPHONEOS_DEPLOYMENT_TARGET[arch=arm64]" = 7.0;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		758658FB1726FA7E00080A2A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/Peripheral.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Peripheral/Peripheral-Prefix.pch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		758658FC1726FA7E00080A2A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/Peripheral.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Peripheral/Peripheral-Prefix.pch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		7586593A1727052300080A2A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		7586593B1727052300080A2A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		758658E71726FA7E00080A2A /* Build configuration list for PBXProject "Peripheral" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				758658F81726FA7E00080A2A /* Debug */,
+				758658F91726FA7E00080A2A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		758658FA1726FA7E00080A2A /* Build configuration list for PBXNativeTarget "Peripheral" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				758658FB1726FA7E00080A2A /* Debug */,
+				758658FC1726FA7E00080A2A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7586593C1727052300080A2A /* Build configuration list for PBXAggregateTarget "Peripheral_universal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7586593A1727052300080A2A /* Debug */,
+				7586593B1727052300080A2A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 758658E41726FA7E00080A2A /* Project object */;
+}

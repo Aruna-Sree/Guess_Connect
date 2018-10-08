@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "You're ready!"; ObjectID = "Lft-YB-b1Y"; */
+"Lft-YB-b1Y.text" = "You're ready!";
+
+/* Class = "UIButton"; normalTitle = "NEXT   "; ObjectID = "Ocl-kq-VjK"; */
+"Ocl-kq-VjK.normalTitle" = "NEXT   ";
+
+/* Class = "UIButton"; normalTitle = "Less Active"; ObjectID = "b7t-L3-L1R"; */
+"b7t-L3-L1R.normalTitle" = "Less Active";
+
+/* Class = "UIButton"; normalTitle = "Very Active"; ObjectID = "bEa-CM-bNw"; */
+"bEa-CM-bNw.normalTitle" = "Very Active";
+
+/* Class = "UIButton"; normalTitle = "Active"; ObjectID = "vrK-em-rMp"; */
+"vrK-em-rMp.normalTitle" = "Active";

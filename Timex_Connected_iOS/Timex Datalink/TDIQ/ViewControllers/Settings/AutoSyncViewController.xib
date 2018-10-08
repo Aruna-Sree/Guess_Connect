@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="HelveticaNeue.ttc">
+            <string>HelveticaNeue</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AutoSyncViewController">
+            <connections>
+                <outlet property="syncTableView" destination="Y0d-V9-gcr" id="due-zx-h9w"/>
+                <outlet property="topLbl" destination="g2J-FP-EUN" id="lrp-HV-CuJ"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="64" width="375" height="603"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Y0d-V9-gcr">
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="Oii-N0-Vp8"/>
+                        <outlet property="delegate" destination="-1" id="yNf-lA-NOR"/>
+                    </connections>
+                </tableView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vPZ-I8-VZJ">
+                    <constraints>
+                        <constraint firstAttribute="height" id="VMp-CC-7dD"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Automatically sync data from watch" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="g2J-FP-EUN">
+                    <constraints>
+                        <constraint firstAttribute="height" constant="40" id="IUz-tv-Fiy"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="vPZ-I8-VZJ" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="15" id="2n7-gw-02S"/>
+                <constraint firstAttribute="trailing" secondItem="vPZ-I8-VZJ" secondAttribute="trailing" constant="15" id="2wf-at-Gad"/>
+                <constraint firstAttribute="bottom" secondItem="vPZ-I8-VZJ" secondAttribute="bottom" id="NUT-2L-5fn"/>
+                <constraint firstItem="Y0d-V9-gcr" firstAttribute="top" secondItem="g2J-FP-EUN" secondAttribute="bottom" constant="8" id="RTW-Ym-STZ"/>
+                <constraint firstItem="Y0d-V9-gcr" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="8" id="VF3-FY-LzK"/>
+                <constraint firstItem="vPZ-I8-VZJ" firstAttribute="top" secondItem="Y0d-V9-gcr" secondAttribute="bottom" constant="70" id="X73-cX-oNu"/>
+                <constraint firstItem="g2J-FP-EUN" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="15" id="b7d-Aj-iwu"/>
+                <constraint firstAttribute="trailing" secondItem="g2J-FP-EUN" secondAttribute="trailing" constant="15" id="elt-Qa-5xc"/>
+                <constraint firstItem="g2J-FP-EUN" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="8" id="jzx-fr-tVa"/>
+                <constraint firstAttribute="trailing" secondItem="Y0d-V9-gcr" secondAttribute="trailing" constant="8" id="w3e-sZ-dM9"/>
+            </constraints>
+            <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" translucent="NO" prompted="NO"/>
+        </view>
+    </objects>
+</document>

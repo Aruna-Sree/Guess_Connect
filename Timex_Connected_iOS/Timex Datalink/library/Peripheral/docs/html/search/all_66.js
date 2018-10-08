@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['filtercbuuid',['FilterCBUUID',['../group___b_l_e_manager_block_types.html#ga960026f2649ec80c7642d7ac902c3437',1,'BLEManager.h']]],
+  ['filterperipheral',['FilterPeripheral',['../group___b_l_e_manager_block_types.html#gaa94e9036f160c6fbb684f9212c27e95f',1,'BLEManager.h']]],
+  ['filterperipheralproxy',['FilterPeripheralProxy',['../group___b_l_e_manager_block_types.html#gaf3ef4c7886394fe839d101e01149ae07',1,'BLEManager.h']]],
+  ['findcharacteristic_3a',['findCharacteristic:',['../interface_service_proxy.html#a71de2d454f4c728f65fda6475b9b6878',1,'ServiceProxy']]],
+  ['findcharacteristic_3aforservice_3a',['findCharacteristic:forService:',['../interface_peripheral_proxy.html#a41a171d16e36b676ce1a974dd1694f81',1,'PeripheralProxy']]],
+  ['findincludedservice_3a',['findIncludedService:',['../interface_service_proxy.html#a6e996b141a04d3accfb82b50804ef41b',1,'ServiceProxy']]],
+  ['findservice_3a',['findService:',['../interface_peripheral_proxy.html#a3754edd5363face1f3720bfe270a46e5',1,'PeripheralProxy']]],
+  ['firmwarerevision',['firmwareRevision',['../interface_device_information_service.html#a9651de5e7acd1756b451056e64bfbbe8',1,'DeviceInformationService']]],
+  ['firmwarerevisionid',['firmwareRevisionID',['../interface_device_information_service.html#ad127bd21a5d80f249724aec18ed7f794',1,'DeviceInformationService']]],
+  ['firmwareupgradecompleteforidevicesservice_3a',['firmwareUpgradeCompleteForiDevicesService:',['../protocoli_devices_service_delegate-p.html#a7da9de29585f7ff785e8217656e9cbb4',1,'iDevicesServiceDelegate-p']]],
+  ['firmwareupgradeprogressupdate_3a',['firmwareUpgradeProgressUpdate:',['../protocoli_devices_service_delegate-p.html#af7739a64ad52974b5ff87f6f8d26f142',1,'iDevicesServiceDelegate-p']]],
+  ['firmwareversion',['firmwareVersion',['../interfacei_devices_service.html#aa90fd9c694060ebaad450e6801af43b6',1,'iDevicesService']]],
+  ['firmwareversionstatus_3a',['firmwareVersionStatus:',['../interfacei_devices_service.html#a5b60c0c83685858f512357d022a4a5ce',1,'iDevicesService']]],
+  ['foundcharacteristic_3a',['foundCharacteristic:',['../interface_service_proxy.html#a2cea4ff7684ccbfeff00cf4dcc98e454',1,'ServiceProxy']]],
+  ['foundcharacteristicblock',['FoundCharacteristicBlock',['../_service_proxy_8h.html#a617dec5f2d06a74bfc5be67c46ba0b0c',1,'ServiceProxy.h']]],
+  ['foundservice_3a',['foundService:',['../interface_peripheral_proxy.html#afd6d589450143558e95103f0b5dad9ce',1,'PeripheralProxy']]],
+  ['foundserviceblock',['FoundServiceBlock',['../_peripheral_proxy_8h.html#a241f32c2084f037eceb7231327e41990',1,'PeripheralProxy.h']]],
+  ['foundservicecompleteblock',['FoundServiceCompleteBlock',['../_peripheral_proxy_8h.html#a84b151c443c53e06590fcba36180aff8',1,'PeripheralProxy.h']]],
+  ['foundservicecompleted',['foundServiceCompleted',['../interface_peripheral_proxy.html#a3e48ebb50ea1d2c9d911b0f3fae8817e',1,'PeripheralProxy']]]
+];

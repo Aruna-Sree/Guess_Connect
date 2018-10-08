@@ -1,0 +1,3348 @@
+/* No comment provided by engineer. */
+"
+
+
+The watch hand will wiggle for a few minutes.
+
+You'll need to reconnect the watch to the app and align the hands." = "
+
+
+L'aiguille de la montre se remuera pendant quelques minutes.
+
+Il faudra reconnecter la montre à l'application et aligner les aiguilles.";
+
+/* No comment provided by engineer. */
+"
+
+Are the hands pointing to the 12 o’clock position? If not, please go to the settings menu on the app and tap “Align Hands”." = "
+
+Les aiguilles indiquent-elles 12 heures ? Si ce n'est pas le cas, veuillez aller dans le menu des paramètres sur l'appli et appuyer sur Aligner les aiguilles.";
+
+/* No comment provided by engineer. */
+"
+
+Are your watch's hands in the same position as the diagram below?
+If not, tap \"Adjust Now\"." = "
+
+Les aiguilles de votre montre sont-elles dans la môme position que le diagramme ci-dessous ? Si ce n'est pas le cas, appuyez sur \"Régler maintenant\".";
+
+/* No comment provided by engineer. */
+"
+
+Checking latest firmware." = "
+
+Rechercher des mises à jours.";
+
+/* No comment provided by engineer. */
+"
+
+Choose a city for displaying 24-hour time on the watch second hand." = "
+
+Choisissez une ville pour afficher l'heure en format 24 h sur la trotteuse.";
+
+/* No comment provided by engineer. */
+"
+
+Choose a city for displaying 24-hour time on the watch sub-dial." = "
+
+Choisissez une ville pour afficher l'heure en format 24 h sur le cadran secondaire.";
+
+/* No comment provided by engineer. */
+"
+
+Choose an option below." = "
+
+Choisissez une option ci-après.";
+
+/* No comment provided by engineer. */
+"
+
+Choose what you want the second hand to display when pressing the bottom pusher" = "
+
+Choisissez le type d'information que la trotteuse affichera quand le poussoir inférieur est appuyé.";
+
+/* No comment provided by engineer. */
+"
+
+Keep your watch close to your phone and do not close the app." = "
+
+Gardez votre montre près de votre téléphone et ne fermez pas l'application.";
+
+/* No comment provided by engineer. */
+"
+
+Once it's found, select your watch below and accept the pairing request." = "
+
+Une fois trouvée, sélectionnez votre montre ci-dessous pour la synchroniser et rechercher des mises à jour. Cela peut prendre quelques minutes.";
+
+/* No comment provided by engineer. */
+"
+
+Please do not close the app." = "
+
+Veuillez ne pas fermer l'appli.";
+
+/* No comment provided by engineer. */
+"
+
+Press and hold the Crown for about 5 seconds until you hear a 3 tone melody." = "
+
+Maintenez la Couronne appuyée pendant environ 5 secondes jusqu'à ce que vous entendiez une mélodie à 3 tons.";
+
+/* No comment provided by engineer. */
+"
+
+Press and hold the Push Button until the upper dial points to Bluetooth symbol, then release the button" = "
+
+Maintenez la touche enfoncée jusqu'à ce que le cadran supérieur pointe vers le symbole Bluetooth, puis relâchez le bouton";
+
+/* No comment provided by engineer. */
+"
+
+Press and hold the Push Button until the upper dial points to either Steps(S) or Distance(D)." = "
+
+Maintenez le bouton poussoir enfoncé jusqu'à voir que le cadran supérieur indique Pas (S) ou Distance (D).";
+
+/* No comment provided by engineer. */
+"
+
+Press the Push Button to move the Arrow Hand one space at a time, or hold the button to move it quickly." = "
+
+Appuyez sur le poussoir pour déplacer l'aiguille d'un espace à la fois, ou maintenez le bouton appuyé pour la déplacer rapidement.";
+
+/* No comment provided by engineer. */
+"
+
+Pull the Crown of the watch to its outer position. Once the second hand stops and the arrow hand completes rotating, tap Next." = "
+
+Tirez la couronne de la montre à sa position extérieure. Quand la trotteuse cesse de se déplacer et que l'aiguille termine sa rotation, appuyez sur Suivant.";
+
+/* No comment provided by engineer. */
+"
+
+Rotate the crown to move the hour and minute hands. Push the crown in when you're done." = "
+
+Tournez la couronne pour déplacer les aiguilles des heures et des minutes. Poussez la couronne lorsque vous avez terminé.";
+
+/* No comment provided by engineer. */
+"
+
+Second hand displays Distance.
+Pressing bottom pusher displays Total Steps" = "
+
+La trotteuse affiche la Distance.
+Pour afficher le Nombre total de pas, appuyez sur le poussoir inférieur";
+
+/* No comment provided by engineer. */
+"
+
+Second hand displays Steps.
+Pressing bottom pusher displays Total Distance" = "
+
+La trotteuse affiche les Pas.
+Pour afficher le Nombre total de pas, appuyez sur le poussoir inférieur";
+
+/* No comment provided by engineer. */
+"
+
+Something happened and we want to make sure your watch is working perfectly." = "
+
+Something happened and we want to make sure your watch is working perfectly.";
+
+/* No comment provided by engineer. */
+"
+
+Steps or distance? Choose the daily goal you would like to display on the activity sub-dial." = "
+
+Pas ou distance ? Choisissez l'objectif quotidien que vous souhaitez afficher sur le cadran secondaire.";
+
+/* No comment provided by engineer. */
+"
+
+Tap the on-screen buttons to move the hand one increment,or hold it to move the hand continuously." = "
+
+Tap the on-screen buttons to move the hand one increment,or hold it to move the hand continuously.";
+
+/* No comment provided by engineer. */
+"
+
+The arrow hand indicates your daily activity totals, while the sub-dial tracks your goal progress." = "
+
+The arrow hand indicates your daily activity totals, while the sub-dial tracks your goal progress.";
+
+/* No comment provided by engineer. */
+"
+
+The second hand is not just for telling time. It can show your daily activity totals or date. Choose what you want to indicate with the second hand." = "
+
+La trotteuse n'indique pas seulement l'heure. Elle peut indiquer le total de vos activités quotidiennes ou la date. Choisissez ce que vous voulez indiquer avec la trotteuse.";
+
+/* No comment provided by engineer. */
+"
+
+The sub-dial can display how close you are to reach your goal in an activity type. Tap the activity type you want to set your sub-dial to." = "
+
+The sub-dial can display how close you are to reach your goal in an activity type. Tap the activity type you want to set your sub-dial to.";
+
+/* No comment provided by engineer. */
+"
+
+This process may take several minutes." = "
+
+Ce processus peut prendre plusieurs minutes.";
+
+/* No comment provided by engineer. */
+"
+
+Guess Connect helps you stay healthy by tracking activities such as steps you've taken, distance you've traveled, and your sleep patterns." = "
+
+Guess Connect vous aide à rester en bonne santé en surveillant les activités telles que les étapes que vous avez prises, la distance parcourue et les habitudes de sommeil.";
+
+/* No comment provided by engineer. */
+"
+
+Guess Connect helps you stay on time and healthy by syncing your watch with up to three separate timezones while tracking your activity." = "
+
+Guess Connect helps you stay on time and healthy by syncing your watch with up to three separate timezones while tracking your activity.";
+
+/* No comment provided by engineer. */
+"
+
+Guess Connect tracks your activity level such as steps, distance, calories and sleep." = "
+
+Guess Connect vous aide à rester en bonne santé en suivant vos activités comme le nombre de pas que vous avez effectué, la distance que vous avez parcourue et vos habitudes de sommeil.";
+
+/* No comment provided by engineer. */
+"
+
+To connect your watch with the phone, press and hold the Crown for about 5 seconds until you hear a 3 tone melody and the hands move together." = "
+
+Pour connecter votre montre au téléphone, maintenez la Couronne appuyée pendant environ 5 secondes jusqu'à ce que vous entendiez une mélodie à 3 tons et que les aiguilles se déplacent ensemble.";
+
+/* No comment provided by engineer. */
+"
+
+To connect your watch with the phone, press and hold the Crown for about 5 seconds until you hear a 3 tone melody. Then select your watch below." = "
+
+Pour connecter votre montre au téléphone, maintenez la Couronne appuyée pendant environ 5 secondes jusqu'à ce que vous entendiez une mélodie à 3 tons et que les aiguilles se déplacent ensemble.";
+
+/* No comment provided by engineer. */
+"
+
+We are updating your watch. Keep your watch and phone close together until this is done." = "
+
+Nous mettons à jour votre montre. Gardez votre montre à  proximité de votre téléphone jusqu'à la fin de la mise à jour.";
+
+/* No comment provided by engineer. */
+"
+
+We want to make sure your watch is working perfectly." = "
+
+Nous voulons nous assurer que votre montre fonctionne parfaitement.";
+
+/* No comment provided by engineer. */
+"
+
+We're setting up your watch and reading your current activity data." = "
+
+Nous configurons votre montre et lisons vos données d'activité actuelles.";
+
+/* No comment provided by engineer. */
+"
+
+You're ready to start tracking steps, distance, calories and sleep with your Metropolitan+" = "
+
+Vous êtes prêt à suivre votre nombre de pas, votre distance, vos calories et votre sommeil avec votre Metropolitan+";
+
+/* No comment provided by engineer. */
+"
+
+You're ready to start tracking steps, distance, calories, and sleep with your Guess iQ+." = "
+
+Vous êtes prêt à suivre votre nombre de pas, votre distance, vos calories et votre sommeil avec votre Guess iQ+.";
+
+/* No comment provided by engineer. */
+"
+
+You're ready to start tracking steps, distance, calories, and sleep with your iQ+ Travel." = "
+
+You're ready to start tracking steps, distance, calories, and sleep with your iQ+ Travel.";
+
+/* No comment provided by engineer. */
+"
+
+You're realigning the watch hands quite a bit." = "
+
+Vous êtes entrain de réaligner légèrement les aiguilles de la montre.";
+
+/* No comment provided by engineer. */
+"
+
+Your watch is up to date with the newest features." = "
+
+Your watch is up to date with the newest features.";
+
+/* No comment provided by engineer. */
+"
+Current time: %@ (%@ hours)
+
+Once your watch is connected, the top pusher will let you quickly see the second time zone on the main dial." = "
+Current time: %1$@ (%2$@ hours)
+
+Once your watch is connected, the top pusher will let you quickly see the second time zone on the main dial.";
+
+/* No comment provided by engineer. */
+"
+HOURS" = "
+HEURES";
+
+/* No comment provided by engineer. */
+"
+HRS" = "
+HRS";
+
+/* No comment provided by engineer. */
+"
+How active do you want to be?" = "
+Quel niveau d'activité voulez-vous choisir?";
+
+/* No comment provided by engineer. */
+"
+To connect your watch with the phone, press and hold the Crown for about 5 seconds until you hear a 3 tone melody and the hands move together." = "
+Pour connecter votre montre au téléphone, maintenez la Couronne appuyée pendant environ 5 secondes jusqu'à ce que vous entendiez une mélodie à 3 tons et que les aiguilles se déplacent ensemble.";
+
+/* No comment provided by engineer. */
+"  ADVANCED" = "  AVANCÉS";
+
+/* No comment provided by engineer. */
+"  USER INFORMATION" = "  INFORMATIONS SUR L'UTILISATEUR";
+
+/* No comment provided by engineer. */
+"  WATCH" = "  WATCH";
+
+/* No comment provided by engineer. */
+" % " = " % ";
+
+/* No comment provided by engineer. */
+" /day" = " /day";
+
+/* No comment provided by engineer. */
+" Do you want to delete or save existing data?" = " Voulez-vous supprimer ou enregistrer des données existantes?";
+
+/* No comment provided by engineer. */
+" Why do we need this information?" = " Pourquoi avons-nous besoin de cette information?";
+
+/* No comment provided by engineer. */
+"\"Forget This Device\" from Bluetooth Settings" = "\"Oublier cet appareil\" dans les réglages Bluetooth";
+
+/* No comment provided by engineer. */
+"# of Laps" = "Nbre tours";
+
+/* No comment provided by engineer. */
+"%" = "%";
+
+/* No comment provided by engineer. */
+"%.2f km." = "%.2f km.";
+
+/* No comment provided by engineer. */
+"%.2f miles" = "%.2f milles";
+
+/* No comment provided by engineer. */
+"%@ %d laps" = "%1$@ %2$d tours";
+
+/* No comment provided by engineer. */
+"%@ %d laps (%@)" = "%1$@ %2$d tours (%3$@)";
+
+/* No comment provided by engineer. */
+"%@ Then toggle Bluetooth off and back on to repair." = "%@ Then toggle Bluetooth off and back on to repair.";
+
+/* No comment provided by engineer. */
+"%@, %@" = "%1$@, %2$@";
+
+/* No comment provided by engineer. */
+"%d" = "%d";
+
+/* No comment provided by engineer. */
+"%d ft" = "%d pi";
+
+/* No comment provided by engineer. */
+"%d in" = "%d po";
+
+/* No comment provided by engineer. */
+"%d inches" = "%d inch";
+
+/* No comment provided by engineer. */
+"%d min." = "%d min";
+
+/* No comment provided by engineer. */
+"%d sec." = "%d s";
+
+/* No comment provided by engineer. */
+"(KILOMETERS)" = "(KILOMÈTRES)";
+
+/* No comment provided by engineer. */
+"(MILES)" = "(MILLES)";
+
+/* No comment provided by engineer. */
+"(PLUGGED IN)" = "(BRANCHÉ)";
+
+/* No comment provided by engineer. */
+"0" = "0";
+
+/* No comment provided by engineer. */
+"1 hour" = "1 heure";
+
+/* No comment provided by engineer. */
+"1 month" = "1 mois";
+
+/* No comment provided by engineer. */
+"1 week" = "1 semaine";
+
+/* No comment provided by engineer. */
+"1 year" = "1 an";
+
+/* No comment provided by engineer. */
+"2 hours" = "2 heures";
+
+/* No comment provided by engineer. */
+"2 weeks" = "2 semaines";
+
+/* No comment provided by engineer. */
+"2 years" = "2 ans";
+
+/* No comment provided by engineer. */
+"3 tone melody" = "3 mélodies sonores";
+
+/* No comment provided by engineer. */
+"3 tone melody." = "3 tone melody.";
+
+/* No comment provided by engineer. */
+"3RD TIME ZONE" = "3e FUSEAU HORAIRE";
+
+/* No comment provided by engineer. */
+"3rd time zone" = "3e fuseau horaire";
+
+/* No comment provided by engineer. */
+"6 months" = "6 mois";
+
+/* No comment provided by engineer. */
+"12-HR" = "12 H";
+
+/* No comment provided by engineer. */
+"12:00 position" = "position 12:00";
+
+/* No comment provided by engineer. */
+"15 min." = "15 min.";
+
+/* No comment provided by engineer. */
+"24-HR" = "24 H";
+
+/* No comment provided by engineer. */
+"30 days" = "30 jours";
+
+/* No comment provided by engineer. */
+"30 min." = "30 min";
+
+/* No comment provided by engineer. */
+"60 days" = "60 jours";
+
+/* No comment provided by engineer. */
+"ABOUT" = "À PROPOS DE";
+
+/* No comment provided by engineer. */
+"ACTION AT END" = "ACTION À LA FIN";
+
+/* No comment provided by engineer. */
+"ACTIVITY" = "ACTIVITÉ";
+
+/* No comment provided by engineer. */
+"ACTIVITY SENSOR" = "CAPTEUR D'ACTIVITÉ";
+
+/* No comment provided by engineer. */
+"ACTIVITY TRACKING" = "SUIVI D'ACTIVITÉ";
+
+/* No comment provided by engineer. */
+"ADD SITE" = "AJOUTER SITE";
+
+/* No comment provided by engineer. */
+"ADVANCED" = "AVANCÉ";
+
+/* No comment provided by engineer. */
+"ADVANCED CONTROLS" = "COMMANDES AVANCÉES";
+
+/* No comment provided by engineer. */
+"AGE" = "ÂGE";
+
+/* No comment provided by engineer. */
+"ALARM" = "ALARME";
+
+/* No comment provided by engineer. */
+"ALARM 1 FREQUENCY" = "FRÉQUENCE ALARME 1";
+
+/* No comment provided by engineer. */
+"ALARM 1 STATUS" = "ÉTAT ALARME 1";
+
+/* No comment provided by engineer. */
+"ALARM 1 TIME" = "HEURE ALARME 1";
+
+/* No comment provided by engineer. */
+"ALARM 2 FREQUENCY" = "FRÉQUENCE ALARME 2";
+
+/* No comment provided by engineer. */
+"ALARM 2 STATUS" = "ÉTAT ALARME 2";
+
+/* No comment provided by engineer. */
+"ALARM 2 TIME" = "HEURE ALARME 2";
+
+/* No comment provided by engineer. */
+"ALARM 3 FREQUENCY" = "FRÉQUENCE ALARME 3";
+
+/* No comment provided by engineer. */
+"ALARM 3 STATUS" = "ÉTAT ALARME 3";
+
+/* No comment provided by engineer. */
+"ALARM 3 TIME" = "HEURE ALARME 3";
+
+/* No comment provided by engineer. */
+"ALARM ALERT" = "ALERTE ALARME";
+
+/* No comment provided by engineer. */
+"ALARM SYNCED" = "ALARME SYNCHRONYSÉE";
+
+/* No comment provided by engineer. */
+"ALL DAY" = "TOUTE LA JOURNÉE";
+
+/* No comment provided by engineer. */
+"ALL NOTIFICATIONS" = "TOUTES LES NOTIFS";
+
+/* No comment provided by engineer. */
+"ANALOG SECOND HAND" = "TROTTEUSE ANALOGIQUE";
+
+/* No comment provided by engineer. */
+"ANALOG WATCHES" = "MONTRES ANALOGIQUES";
+
+/* No comment provided by engineer. */
+"APP SETTINGS" = "PARAM. APP";
+
+/* No comment provided by engineer. */
+"AUTO UPLOAD:" = "CHARGEMENT AUTO :";
+
+/* No comment provided by engineer. */
+"AVERAGE" = "MOYENNE";
+
+/* No comment provided by engineer. */
+"AWAKE" = "ÉVEILLÉ";
+
+/* No comment provided by engineer. */
+"About" = "À propos";
+
+/* No comment provided by engineer. */
+"Accept" = "Accepter";
+
+/* No comment provided by engineer. */
+"Access Denied" = "Accès refusé";
+
+/* (No Commment) */
+"Access denied" = "Accès refusé";
+
+/* No comment provided by engineer. */
+"Access to Calendar was denied by the user. To grant access, please go to Settings->Privacy->Calendar and enable access for Guess_IQ app." = "L'accès au calendrier a été refusé par l'utilisateur. Pour autoriser l'accès, allez sur Paramètres->Confidentialité->Calendrier, et activez l'accès à l'application Guess_IQ.";
+
+/* (No Commment) */
+"Access token could not be refreshed" = "L'identification de l'utilisateur n'a pas pu être actualisé";
+
+/* No comment provided by engineer. */
+"Activate sync mode." = "Activer le mode de synchronisation.";
+
+/* No comment provided by engineer. */
+"Active" = "Actif";
+
+/* No comment provided by engineer. */
+"Activity at a glance." = "Activité en un coup d'œil.";
+
+/* No comment provided by engineer. */
+"Activity log from last sync:
+WDR: %d
+POR: %d
+LPR: %d
+SYR: %d
+Times Calibrated: %d" = "Journal d'activité depuis la dernière synchronisation :
+WDR: %1$d
+POR: %2$d
+LPR: %3$d
+SYR: %4$d
+Nombre d'étalonnages : %5$d";
+
+/* No comment provided by engineer. */
+"Adjust Now" = "Ajuster maintenant";
+
+/* No comment provided by engineer. */
+"Afghanistan/Kabul" = "Afghanistan/Kabul";
+
+/* No comment provided by engineer. */
+"After 30 seconds of searching the watch sync will stop if it does not find the phone. You may need to restart the sync." = "La montre effectue des recherches pendant 30 secondes et s'arrête si elle ne détecte pas le téléphone. Vous devrez peut-être redémarrer la synchronisation.";
+
+/* No comment provided by engineer. */
+"Alarm frequency" = "Fréquence d'alarme";
+
+/* No comment provided by engineer. */
+"Align hands" = "Aligner les aiguilles";
+
+/* No comment provided by engineer. */
+"Align the Arrow Hand to twelve." = "Alignez l'aiguille sur douze.";
+
+/* No comment provided by engineer. */
+"Align the hour hand to twelve" = "Aligner l'aiguille des heures sur douze";
+
+/* No comment provided by engineer. */
+"Align the minute hand to twelve" = "Aligner l'aiguille des minutes sur douze";
+
+/* No comment provided by engineer. */
+"Align the second hand to twelve" = "Aligner la trotteuse sur douze";
+
+/* No comment provided by engineer. */
+"Align the sub-dial hand to zero" = "Aligner l'aiguille du cadran secondaire sur zéro";
+
+/* No comment provided by engineer. */
+"Align watch hands" = "Aligner les aiguilles de la montre";
+
+/* No comment provided by engineer. */
+"All" = "Tout";
+
+/* No comment provided by engineer. */
+"All Day" = "toute la journée";
+
+/* No comment provided by engineer. */
+"All Time" = "Tous les temps";
+
+/* No comment provided by engineer. */
+"All Time Daily Average" = "Moyenne quotidienne de tous les temps";
+
+/* No comment provided by engineer. */
+"All custom alarms have been reset to defaults." = "Les valeurs par défaut ont été rétablies pour toutes les alarmes personnalisées.";
+
+/* No comment provided by engineer. */
+"All excluded calendar events have been reset." = "Tous les événements de calendrier exclus ont été réinitialisés.";
+
+/* No comment provided by engineer. */
+"All fields are required" = "Tous les champs sont obligatoires";
+
+/* No comment provided by engineer. */
+"All firmware files successfully uploaded to watch. Please confirm firmware update on your watch." = "Tous les fichiers de  firmware ont été chargés sur la montre. Veuillez confirmer la mise à jour du  firmware sur votre montre.";
+
+/* No comment provided by engineer. */
+"All workouts dating before %@ back from today will be permanently deleted. Are you sure?" = "Toutes les séances d'entraînement antérieures à %@ jusqu'à aujourd'hui seront définitivement supprimées. Voulez-vous continuer ?";
+
+/* No comment provided by engineer. */
+"All workouts have been auto-uploaded." = "Toutes les séances d'entraînement ont été chargées automatiquement.";
+
+/* No comment provided by engineer. */
+"American Samoa/Pago Pago" = "American Samoa/Pago Pago";
+
+/* No comment provided by engineer. */
+"An email has been sent to Guess Connect customer service, containing detailed information about your watch, that will help us determine next steps." = "An email has been sent to Guess Connect customer service, containing detailed information about your watch, that will help us determine next steps.";
+
+/* No comment provided by engineer. */
+"An error occurred while connecting to watch. Please make sure to keep watch in sync mode. Do you want to try again?" = "Une erreur est survenue lors de la connexion à la montre. Veillez à garder la montre en mode de synchronisation. Souhaitez-vous réessayer ?";
+
+/* No comment provided by engineer. */
+"An error occurred while connecting to watch. Please make sure to keep watch in sync mode. Let's try again." = "Une erreur est survenue lors de la connexion à la montre. Veillez à garder la montre en mode de synchronisation. Souhaitez-vous réessayer ?";
+
+/* Modification Date: 06/01/2015 */
+"App Settings" = "Paramètres App";
+
+/* No comment provided by engineer. */
+"App Version" = "Version App";
+
+/* No comment provided by engineer. */
+"Are you sure you want to cancel?" = "Voulez-vous vraiment annuler ?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete workout '%@'?" = "Voulez-vous vraiment supprimer l'entraînement '%@' ?";
+
+/* No comment provided by engineer. */
+"Are you sure?" = "Êtes-vous sûr?";
+
+/* No comment provided by engineer. */
+"Are your watch hands aligned?" = "Les aiguilles de votre montre sont-elles alignées?";
+
+/* No comment provided by engineer. */
+"Argentina/Buenos Aires" = "Argentina/Buenos Aires";
+
+/* No comment provided by engineer. */
+"Arrow Hand" = "flèche main";
+
+/* No comment provided by engineer. */
+"Attention!" = "Attention !";
+
+/* No comment provided by engineer. */
+"Australia/Adelaide" = "Australia/Adelaide";
+
+/* No comment provided by engineer. */
+"Australia/Perth" = "Australia/Perth";
+
+/* No comment provided by engineer. */
+"Australia/Sydney" = "Australia/Sydney";
+
+/* No comment provided by engineer. */
+"Auto Sync" = "Synchronisation automatique";
+
+/* No comment provided by engineer. */
+"Auto sync" = "Synchronisation automatique";
+
+/* No comment provided by engineer. */
+"Auto-Upload complete" = "Chargement auto terminé";
+
+/* No comment provided by engineer. */
+"Average Bed Time" = "Durée moyenne du coucher";
+
+/* No comment provided by engineer. */
+"Average Lap" = "Tour moyen";
+
+/* No comment provided by engineer. */
+"Average Wake Time" = "Temps moyen de réveil";
+
+/* No comment provided by engineer. */
+"Awake" = "Éveillé";
+
+/* No comment provided by engineer. */
+"BLUETOOTH SMART STATUS" = "ÉTAT BLUETOOTH SMART";
+
+/* No comment provided by engineer. */
+"BUTTON BEEP" = "BIP DE BOUTON";
+
+/* No comment provided by engineer. */
+"Back" = "Retour";
+
+/* No comment provided by engineer. */
+"Back to Today >" = "Retour à aujourd'hui >";
+
+/* No comment provided by engineer. */
+"Bangladesh/Dhaka" = "Bangladesh/Dhaka";
+
+/* No comment provided by engineer. */
+"Bar Chart" = "Diagramme à barres";
+
+/* No comment provided by engineer. */
+"Based on %d workout" = "Basé sur %d entraînement";
+
+/* No comment provided by engineer. */
+"Based on %d workouts" = "Basé sur %d entraînements";
+
+/* No comment provided by engineer. */
+"Battery" = "Pile";
+
+/* No comment provided by engineer. */
+"Battery status" = "Niveau de charge de la batterie";
+
+/* No comment provided by engineer. */
+"Battery status:" = "Niveau de charge de la batterie:";
+
+/* No comment provided by engineer. */
+"Bed Time" = "Heure du coucher";
+
+/* No comment provided by engineer. */
+"Bed time" = "Heure du coucher";
+
+/* No comment provided by engineer. */
+"Below is a list of the Timex watches that are nearby.
+
+Select the watch below that matches the code shown on your watch." = "Voici la liste des montres Timex à proximité.
+
+Sélectionnez ci-dessous la montre correspondant au code affiché sur votre montre.";
+
+/* No comment provided by engineer. */
+"Best Lap" = "Meilleur tour";
+
+/* No comment provided by engineer. */
+"Bike" = "Vélo";
+
+/* No comment provided by engineer. */
+"Birthdate" = "Date de naissance";
+
+/* No comment provided by engineer. */
+"Birthday" = "Anniversaire";
+
+/* No comment provided by engineer. */
+"Black" = "Noir";
+
+/* No comment provided by engineer. */
+"Bluetooth is not available on this device." = "Bluetooth n'est pas disponible sur ce périphérique.";
+
+/* No comment provided by engineer. */
+"Bluetooth is powered off. Please turn on Bluetooth in System Settings before proceeding." = "Bluetooth est désactivé. Veuillez activer Bluetooth dans les paramètres système avant continuer.";
+
+/* No comment provided by engineer. */
+"Bluetooth unavailable" = "Bluetooth non disponible";
+
+/* No comment provided by engineer. */
+"Both" = "Les deux";
+
+/* No comment provided by engineer. */
+"Brazil/Fernando de Noronha" = "Brazil/Fernando de Noronha";
+
+/* No comment provided by engineer. */
+"Brazil/Rio de Janeiro" = "Brazil/Rio de Janeiro";
+
+/* No comment provided by engineer. */
+"CALENDAR" = "CALENDRIER";
+
+/* No comment provided by engineer. */
+"CALENDARS" = "CALENDRIERS";
+
+/* No comment provided by engineer. */
+"CALORIES" = "CALORIES";
+
+/* No comment provided by engineer. */
+"CALORIES GOAL" = "OBJ. CALORIES";
+
+/* No comment provided by engineer. */
+"CANCEL" = "ANNULER";
+
+/* No comment provided by engineer. */
+"CHART" = "DIAGRAMME";
+
+/* No comment provided by engineer. */
+"CHARTS" = "DIAGRAMMES";
+
+/* No comment provided by engineer. */
+"COMPLETE" = "ACHEVÉE";
+
+/* No comment provided by engineer. */
+"CONFIRM" = "CONFIRMER";
+
+/* No comment provided by engineer. */
+"CONNECT" = "CONNECTER";
+
+/* No comment provided by engineer. */
+"CONNECT TO" = "CONNECTER À";
+
+/* No comment provided by engineer. */
+"CONNECTED" = "CONNECTÉ";
+
+/* No comment provided by engineer. */
+"Cal" = "Cal";
+
+/* No comment provided by engineer. */
+"Calendar Settings" = "Param Calendrier";
+
+/* No comment provided by engineer. */
+"Calories" = "Calories";
+
+/* No comment provided by engineer. */
+"Calories " = "Calories";
+
+/* No comment provided by engineer. */
+"Canada/Edmonton" = "Canada/Edmonton";
+
+/* No comment provided by engineer. */
+"Canada/Halifax" = "Canada/Halifax";
+
+/* No comment provided by engineer. */
+"Canada/St. Johns" = "Canada/St. Johns";
+
+/* No comment provided by engineer. */
+"Canada/Toronto" = "Canada/Toronto";
+
+/* No comment provided by engineer. */
+"Canada/Vancouver" = "Canada/Vancouver";
+
+/* No comment provided by engineer. */
+"Canada/Winnipeg" = "Canada/Winnipeg";
+
+/* No comment provided by engineer. */
+"Cancel" = "Annuler";
+
+/* No comment provided by engineer. */
+"Cancel Setup" = "Annuler la configuration";
+
+/* No comment provided by engineer. */
+"Cancel Software Update?" = "Annuler la mise à jour du logiciel?";
+
+/* No comment provided by engineer. */
+"Cancelling..." = "Annulation en cours...";
+
+/* No comment provided by engineer. */
+"Cape Verde/Praia" = "Cape Verde/Praia";
+
+/* No comment provided by engineer. */
+"Change current watch" = "Change current watch";
+
+/* No comment provided by engineer. */
+"Check for updates" = "Rechercher des mises à jour";
+
+/* No comment provided by engineer. */
+"Checking for Firmware Update" = "Recherche de la mise à jour du  firmware";
+
+/* No comment provided by engineer. */
+"Checking for updates..." = "Vérification des mises à jour...";
+
+/* No comment provided by engineer. */
+"Checking updates..." = "Vérification des mises à jour...";
+
+/* No comment provided by engineer. */
+"Chile/Santiago" = "Chile/Santiago";
+
+/* No comment provided by engineer. */
+"China/Beijing" = "China/Beijing";
+
+/* No comment provided by engineer. */
+"Choose the best way for us to reach you." = "Choose the best way for us to reach you.";
+
+/* No comment provided by engineer. */
+"Choose your watch" = "Choose your watch";
+
+/* No comment provided by engineer. */
+"Choose your watch." = "Choisissez votre montre.";
+
+/* No comment provided by engineer. */
+"Chrono/Interval" = "Chrono/Intervalle";
+
+/* No comment provided by engineer. */
+"Compare" = "Comparer";
+
+/* No comment provided by engineer. */
+"Complete" = "Achevée";
+
+/* No comment provided by engineer. */
+"Configure your sub-dial." = "Configurez votre cadran secondaire.";
+
+/* No comment provided by engineer. */
+"Congratulations!" = "Félicitations!";
+
+/* No comment provided by engineer. */
+"Connected" = "Connecté";
+
+/* No comment provided by engineer. */
+"Connecting" = "De liaison";
+
+/* No comment provided by engineer. */
+"Connecting to %@" = "Connexion à %@";
+
+/* No comment provided by engineer. */
+"ConnectingToWatch" = "Connexion à regarder";
+
+/* No comment provided by engineer. */
+"Connection lost." = "Connexion perdue.";
+
+/* No comment provided by engineer. */
+"Connection to %@ failed with error:
+%@" = "Échec de la connexion à %1$@ avec l'erreur :
+%2$@";
+
+/* No comment provided by engineer. */
+"Connection to %@ failed." = "Échec de la connexion à %@.";
+
+/* No comment provided by engineer. */
+"Connection to %@ successful!" = "Connexion à %@ établie !";
+
+/* No comment provided by engineer. */
+"Connection to %@ successful!
+Token obtained: %@" = "Connexion à %1$@ établie !
+Jeton obtenu : %2$@";
+
+/* No comment provided by engineer. */
+"Connection to watch required. Please go to app settings to connect to watch." = "Impossible de trouver les caractéristiques d'étalonnage";
+
+/* No comment provided by engineer. */
+"Constant On" = "Toujours activé";
+
+/* No comment provided by engineer. */
+"Could not disconnect from %@. Please try again later." = "Déconnexion impossible de %@. Veuillez réessayer plus tard.";
+
+/* No comment provided by engineer. */
+"Could not find calibration characteristics" = "Impossible de trouver les caractéristiques d'étalonnage";
+
+/* No comment provided by engineer. */
+"Crown" = "Couronne";
+
+/* No comment provided by engineer. */
+"Current Goal" = "Objectif Actuel";
+
+/* No comment provided by engineer. */
+"Custom" = "Personnalisé";
+
+/* No comment provided by engineer. */
+"Cyprus/Nicosia" = "Cyprus/Nicosia";
+
+/* No comment provided by engineer. */
+"Czech Republic/Prague" = "Czech Republic/Prague";
+
+/* No comment provided by engineer. */
+"DAILY AVERAGES" = "MOYENNES QUOTIDIENNES";
+
+/* No comment provided by engineer. */
+"DATE FORMAT" = "FORMAT DATE";
+
+/* No comment provided by engineer. */
+"DD.MM" = "JJ.MM";
+
+/* No comment provided by engineer. */
+"DD.MM.YY" = "JJ.MM.AA";
+
+/* No comment provided by engineer. */
+"DEEP" = "PROFOND";
+
+/* No comment provided by engineer. */
+"DELETE" = "SUPPRIMER";
+
+/* No comment provided by engineer. */
+"DELETE SETUP INFO" = "SUPP INFOS CONFIG";
+
+/* No comment provided by engineer. */
+"DIGITAL WATCHES" = "MONTRES NUMÉRIQUES";
+
+/* No comment provided by engineer. */
+"DISPLAY FORMAT" = "FORMAT D'AFFICHAGE";
+
+/* No comment provided by engineer. */
+"DISPLAY TEXT COLOR" = "COULEUR TEXTE AFF.";
+
+/* No comment provided by engineer. */
+"DISTANCE" = "DISTANCE";
+
+/* Modification Date: 06/01/2015 */
+"DISTANCE ADJUSTMENT" = "RÉGLAGE DE DISTANCE";
+
+/* No comment provided by engineer. */
+"DISTANCE GOAL" = "DISTANCE CIBLÉE";
+
+/* No comment provided by engineer. */
+"DND" = "NPD";
+
+/* No comment provided by engineer. */
+"DO NOT DISTURB" = "NE PAS DÉRANGER";
+
+/* No comment provided by engineer. */
+"DON'T SEE YOUR WATCH?" = "VOUS NE VOYEZ PAS VOTRE MONTRE ?";
+
+/* No comment provided by engineer. */
+"DONE" = "TERMINÉ";
+
+/* No comment provided by engineer. */
+"Daily" = "Tous les jours";
+
+/* No comment provided by engineer. */
+"Date" = "Date";
+
+/* No comment provided by engineer. */
+"Date format" = "Format de date";
+
+/* No comment provided by engineer. */
+"Deep Sleep" = "Sommeil profond";
+
+/* No comment provided by engineer. */
+"Delete" = "Supprimer";
+
+/* No comment provided by engineer. */
+"Delete All Data" = "Supprimer toutes les données";
+
+/* No comment provided by engineer. */
+"Delete Workout" = "Supp. Entraînement";
+
+/* No comment provided by engineer. */
+"Details" = "Détails";
+
+/* No comment provided by engineer. */
+"Device Not Connected" = "Périphérique Non Connecté";
+
+/* No comment provided by engineer. */
+"Device found" = "Appareil repéré";
+
+/* No comment provided by engineer. */
+"Devices not found" = "Périphériques introuvables";
+
+/* No comment provided by engineer. */
+"Did you accept the pairing request?" = "Avez-vous accepté la demande d'appairage?";
+
+/* No comment provided by engineer. */
+"Distance" = "Distance";
+
+/* No comment provided by engineer. */
+"Distance " = "Distance ";
+
+/* No comment provided by engineer. */
+"Distance Adjustment" = "Réglage de la distance";
+
+/* No comment provided by engineer. */
+"Distance adjustment" = "Réglage de la distance";
+
+/* No comment provided by engineer. */
+"Do you agree to the Privacy Policy and the EULA for the Guess Connect?" = "Acceptez-vous la Politique de confidentialité et le CLUF pour Guess Connect?";
+
+/* No comment provided by engineer. */
+"Do you want to delete or save existing data?" = "Voulez-vous supprimer ou enregistrer des données existantes?";
+
+/* No comment provided by engineer. */
+"Do you want to remove watch?" = "Voulez-vous supprimer la montre?";
+
+/* No comment provided by engineer. */
+"Dog Bark" = "Aboiement de chien";
+
+/* No comment provided by engineer. */
+"Downloading Firmware Update..." = "Téléchargement de la mise à jour du  firmware...";
+
+/* No comment provided by engineer. */
+"During Bedtime" = "pendant le sommeil";
+
+/* No comment provided by engineer. */
+"Dutch" = "Néerlandais";
+
+/* No comment provided by engineer. */
+"EFFICIENCY" = "EFFICACITÉ";
+
+/* No comment provided by engineer. */
+"EMAIL:" = "E-MAIL :";
+
+/* No comment provided by engineer. */
+"ERROR OCCURRED DURING SYNC" = "UNE ERREUR EST SURVENUE LORS DE LA SYNC";
+
+/* No comment provided by engineer. */
+"EULA" = "EULA";
+
+/* No comment provided by engineer. */
+"EXCLUDE" = "EXCLURE";
+
+/* No comment provided by engineer. */
+"Easy" = "Facile";
+
+/* No comment provided by engineer. */
+"Egypt/Cairo" = "Egypt/Cairo";
+
+/* No comment provided by engineer. */
+"Email address" = "E-mail";
+
+/* No comment provided by engineer. */
+"Empty string not allowed." = "Les chaînes vides ne sont pas autorisées.";
+
+/* No comment provided by engineer. */
+"Enable" = "Enable";
+
+/* No comment provided by engineer. */
+"England/London" = "England/London";
+
+/* No comment provided by engineer. */
+"English" = "Anglais";
+
+/* No comment provided by engineer. */
+"Enter your activity" = "Entrez votre activité";
+
+/* No comment provided by engineer. */
+"Enter your birthdate" = "Entrez votre date de naissance";
+
+/* No comment provided by engineer. */
+"Enter your gender" = "Entrez votre sexe";
+
+/* No comment provided by engineer. */
+"Enter your height" = "Entrez votre taille";
+
+/* No comment provided by engineer. */
+"Enter your weight" = "Entrez votre poids";
+
+/* No comment provided by engineer. */
+"Error" = "Erreur";
+
+/* No comment provided by engineer. */
+"Error occurred playing sound." = "Une erreur est survenue lors de la lecture du son.";
+
+/* No comment provided by engineer. */
+"Exclude Events" = "Exclure événements";
+
+/* No comment provided by engineer. */
+"Exit without pairing" = "Quitter sans associer";
+
+/* No comment provided by engineer. */
+"FACTORY RESET" = "RÉINITIALISATION AUX VALEURS D'USINE";
+
+/* No comment provided by engineer. */
+"FEMALE" = "FEMME";
+
+/* No comment provided by engineer. */
+"FINDER" = "RECHERCHE";
+
+/* No comment provided by engineer. */
+"FINDING WATCH" = "RECHERCHE DE MONTRE";
+
+/* No comment provided by engineer. */
+"FIRMWARE CHECK" = "RECHERCHE DE FIRMWARE";
+
+/* No comment provided by engineer. */
+"FIRMWARE UPDATE" = "MÀJ DU FIRMWARE";
+
+/* No comment provided by engineer. */
+"FIRST NAME:" = "PRÉNOM :";
+
+/* No comment provided by engineer. */
+"FRI" = "VEN";
+
+/* No comment provided by engineer. */
+"FROM:" = "DE :";
+
+/* No comment provided by engineer. */
+"Facebook" = "Facebook";
+
+/* No comment provided by engineer. */
+"Facebook Post Mode" = "Mode publication Facebook";
+
+/* No comment provided by engineer. */
+"Facebook integration error" = "Erreur d'intégration Facebook";
+
+/* No comment provided by engineer. */
+"Facebook post has been cancelled." = "La publication Facebook a été annulée.";
+
+/* No comment provided by engineer. */
+"Facebook service is not available on this device. Make sure you specified your Facebook credentials in System settings." = "Le service Facebook n'est pas disponible sur ce périphérique. Assurez-vous que vous avez spécifié vos informations d'identification Facebook dans les paramètres système.";
+
+/* No comment provided by engineer. */
+"Factory reset" = "Retour aux paramètres d'usine";
+
+/* No comment provided by engineer. */
+"Failed" = "Échec";
+
+/* No comment provided by engineer. */
+"Failed to connect to device" = "Échec de la connexion à l'appareil";
+
+/* No comment provided by engineer. */
+"Failed to disconnect" = "Déconnexion impossible";
+
+/* No comment provided by engineer. */
+"Fast" = "Rapide";
+
+/* No comment provided by engineer. */
+"Female" = "Femme";
+
+/* No comment provided by engineer. */
+"File %d of %d" = "Fichier %1$d sur %2$d";
+
+/* No comment provided by engineer. */
+"Finish" = "Terminer";
+
+/* No comment provided by engineer. */
+"Finland/Helsinki" = "Finland/Helsinki";
+
+/* No comment provided by engineer. */
+"Firmware" = "Firmware";
+
+/* No comment provided by engineer. */
+"Firmware
+On watch: #FIRMWARE1#-#FIRMWARE2#-#FIRMWARE3#-#FIRMWARE4#
+Available: #FIRMWARE1#-#FIRMWARE2#-#FIRMWARE3#-#FIRMWARE4#" = "Micrologiciel
+Sur la montre : #FIRMWARE1#-#FIRMWARE2#-#FIRMWARE3#-#FIRMWARE4#
+Disponible : #FIRMWARE1#-#FIRMWARE2#-#FIRMWARE3#-#FIRMWARE4#";
+
+/* No comment provided by engineer. */
+"Firmware Uploaded" = "firmware chargé";
+
+/* No comment provided by engineer. */
+"FirmwareUpdateCompleted" = "FirmwareUpdateCompleted";
+
+/* No comment provided by engineer. */
+"First Name" = "Prènom";
+
+/* No comment provided by engineer. */
+"First name" = "Prénom";
+
+/* No comment provided by engineer. */
+"First some details." = "D'abord, quelques détails.";
+
+/* No comment provided by engineer. */
+"Follow Phone" = "Suivre téléphone";
+
+/* No comment provided by engineer. */
+"France/Paris" = "France/Paris";
+
+/* No comment provided by engineer. */
+"French" = "Français";
+
+/* No comment provided by engineer. */
+"Friday" = "Vendredi";
+
+/* No comment provided by engineer. */
+"GENDER" = "SEXE";
+
+/* No comment provided by engineer. */
+"GENDER:" = "SEXE :";
+
+/* No comment provided by engineer. */
+"GENERAL" = "GÉNÉRAL";
+
+/* No comment provided by engineer. */
+"GET STARTED" = "COMMENCEZ";
+
+/* No comment provided by engineer. */
+"GMT" = "GMT";
+
+/* No comment provided by engineer. */
+"GOAL" = "OBJECTF";
+
+/* No comment provided by engineer. */
+"GOALS" = "OBJECTIFS";
+
+/* No comment provided by engineer. */
+"GOALS SELECTED" = "OBJECTIFS SÉLECTIONNÉS";
+
+/* No comment provided by engineer. */
+"GOALS SYNCED" = "OBJECTIFS SYNCRONISES";
+
+/* Modification Date: 06/01/2015 */
+"GOOD" = "BIEN";
+
+/* No comment provided by engineer. */
+"Gender" = "Le genre";
+
+/* No comment provided by engineer. */
+"German" = "Allemand";
+
+/* No comment provided by engineer. */
+"Germany/Berlin" = "Germany/Berlin";
+
+/* No comment provided by engineer. */
+"Get Started" = "Premier pas";
+
+/* No comment provided by engineer. */
+"Go" = "Aller";
+
+/* No comment provided by engineer. */
+"Go Back" = "Retour";
+
+/* No comment provided by engineer. */
+"Goal" = "OBJECTF";
+
+/* No comment provided by engineer. */
+"Goals selected" = "Objectifs sélectionnés";
+
+/* No comment provided by engineer. */
+"Good" = "Bien";
+
+/* No comment provided by engineer. */
+"Greece/Athens" = "Greece/Athens";
+
+/* No comment provided by engineer. */
+"HEIGHT" = "TAILLE";
+
+/* No comment provided by engineer. */
+"HELP" = "AIDE";
+
+/* No comment provided by engineer. */
+"HOME" = "ACCUEIL";
+
+/* No comment provided by engineer. */
+"HOURLY CHIME" = "CAR. HORAIRE";
+
+/* No comment provided by engineer. */
+"HR." = "H";
+
+/* No comment provided by engineer. */
+"HRS" = "HEURES";
+
+/* (No Commment) */
+"HTTP Error: %d" = "Erreur HTTP: %d";
+
+/* (No Commment) */
+"HTTP error code %d (%@) " = "Code d'erreur HTTP %1$d (%2$@) ";
+
+/* No comment provided by engineer. */
+"Hard" = "Dif";
+
+/* No comment provided by engineer. */
+"Height" = "Taille";
+
+/* No comment provided by engineer. */
+"Help" = "Aide";
+
+/* No comment provided by engineer. */
+"High" = "Élevé";
+
+/* No comment provided by engineer. */
+"Home" = "Écran d\\'accueil";
+
+/* No comment provided by engineer. */
+"Hong Kong/Hong Kong" = "Hong Kong/Hong Kong";
+
+/* No comment provided by engineer. */
+"How do I put my watch in Sync mode?" = "Comment mettre ma montre en mode Sync ?";
+
+/* No comment provided by engineer. */
+"How tall
+are you?" = "Quelle taille
+faites-vous?";
+
+/* No comment provided by engineer. */
+"I don't see my watch" = "Je ne vois pas ma montre";
+
+/* No comment provided by engineer. */
+"I'd rather not say" = "Je préfère ne pas le dire";
+
+/* No comment provided by engineer. */
+"IMPERIAL" = "Impérial";
+
+/* No comment provided by engineer. */
+"INITIAL SETUP" = "CONF INITIALE";
+
+/* No comment provided by engineer. */
+"INTERVAL" = "INTERVALLE";
+
+/* No comment provided by engineer. */
+"INTERVAL 1 LABEL" = "ÉTIQU. INTERV. 1";
+
+/* No comment provided by engineer. */
+"INTERVAL 1 STATUS" = "ÉTAT INTERVALLE 1";
+
+/* No comment provided by engineer. */
+"INTERVAL 1 TIME" = "HEURE INTERVALLE 1";
+
+/* No comment provided by engineer. */
+"INTERVAL 2 LABEL" = "ÉTIQU. INTERV. 2";
+
+/* No comment provided by engineer. */
+"INTERVAL 2 STATUS" = "ÉTAT INTERVALLE 2";
+
+/* No comment provided by engineer. */
+"INTERVAL 2 TIME" = "HEURE INTERVALLE 2";
+
+/* No comment provided by engineer. */
+"INTERVAL ALERT" = "ALERTE INTERVALLE";
+
+/* No comment provided by engineer. */
+"INTERVAL REPEATS" = "RÉPÉT. D'INTERV.";
+
+/* No comment provided by engineer. */
+"INTERVAL TIMER" = "CHRONOMÈTRE INTERVALLE";
+
+/* No comment provided by engineer. */
+"INTERVAL TIMES" = "FRÉQUENCES D'INTERVALLE";
+
+/* No comment provided by engineer. */
+"INTERVALS" = "INTERVALLES";
+
+/* No comment provided by engineer. */
+"Guess iQ+  Last Sync:" = "Guess iQ+  Last Sync:";
+
+/* No comment provided by engineer. */
+"iQ+ Travel  Last Sync:" = "iQ+ Travel  Last Sync:";
+
+/* No comment provided by engineer. */
+"If this continues to happen, toggle Bluetooth off and back on to repair." = "If this continues to happen, toggle Bluetooth off and back on to repair.";
+
+/* No comment provided by engineer. */
+"If you are not seeing the screen below on your watch, then follow the steps listed below to put your watch into pairing mode:
+1. Press the MENU button to access the main menu. Depending what state the watch is in you may need to press the MENU button more than once.
+2. Use the up/down buttons to select \"Settings\" from the menu
+3. From the Settings menu use the up/down buttons to select \"Bluetooth\"
+4. From the Bluetooth screen select “Not Paired”
+5. From the status screen select “Done” to start the pairing process." = "Si vous ne voyez pas l'écran ci-dessous sur votre montre, suivez les étapes ci-dessous pour mettre votre montre en mode d'association :
+1. Appuyez sur le bouton MENU pour accéder au menu principal. En fonction de l'action activée pour votre montre, vous devrez peut-être appuyer plusieurs fois sur le bouton MENU.
+2. Utilisez les boutons haut/bas pour sélectionner \"Paramètres\" dans le menu.
+3. Dans le menu Paramètres, utilisez les boutons haut/bas pour sélectionner \"Bluetooth\".
+4. Dans l'écran Bluetooth, sélectionnez « Non associé ».
+5. Dans l'écran État, sélectionnez « Terminé » pour démarrer le processus d'association.";
+
+/* No comment provided by engineer. */
+"If your distance calculation is off, you can fine tune it here. If too low, increase the percentage or if too high, decrease the percentage" = "Si le calcul de votre distance est incorrecte, vous pouvez le régler ici. Si la distance est trop courte, augmentez le pourcentage ; si elle est trop élevée, diminuez le pourcentage";
+
+/* No comment provided by engineer. */
+"If your step count measures higher than it should be, select Low sensitivity. If it’s lower than it should be, select High sensitivity" = "Si le compte de vos pas est trop élevé, choisissez Sensibilité faible. S'il est trop bas, choisissez Sensibilité haute";
+
+/* No comment provided by engineer. */
+"If your watch is showing the screen below, then you are ready to pair!" = "Si votre montre affiche l'écran ci-dessous, vous pouvez lancer l'association !";
+
+/* No comment provided by engineer. */
+"Imperial" = "Impérial";
+
+/* Modification Date: 02/04/2015 */
+"In addition to keeping you connected to your Smartphone, the Run x50+ provides a convenient screen for Fitness Apps." = "En plus de vous maintenir connecté à votre Smartphone, la Run x50+ offre un écran pratique pour les applications de fitness.";
+
+/* No comment provided by engineer. */
+"India/New Delhi" = "India/New Delhi";
+
+/* No comment provided by engineer. */
+"Initiating Bootloader..." = "Bootloader initier...";
+
+/* No comment provided by engineer. */
+"Instant" = "Instantané";
+
+/* No comment provided by engineer. */
+"Insufficient Battery Charge" = "Charge de la pile insuffisante";
+
+/* No comment provided by engineer. */
+"Internet connection lost" = "Connexion Internet perdue";
+
+/* No comment provided by engineer. */
+"Interval Action" = "Action d'intervalle";
+
+/* No comment provided by engineer. */
+"Interval Number" = "Numéro d'intervalle";
+
+/* (No Commment) */
+"Invalid OAuth2 Client" = "Client OAuth2 non valide";
+
+/* (No Commment) */
+"Invalid request to OAuth2 Server" = "Demande non valide au serveur OAuth2";
+
+/* (No Commment) */
+"Invalid scope" = "Portée incorrecte";
+
+/* No comment provided by engineer. */
+"Invalid zip code" = "code postal invalide";
+
+/* No comment provided by engineer. */
+"Iran/Tehran" = "Iran/Tehran";
+
+/* No comment provided by engineer. */
+"Iraq/Baghdad" = "Iraq/Baghdad";
+
+/* No comment provided by engineer. */
+"Israel/Jerusalem" = "Israel/Jerusalem";
+
+/* No comment provided by engineer. */
+"It seems like your watch is not fully paired with Guess Connect. You'll need to remove it from Bluetooth Settings to continue." = "Il semble que le jumelage de votre montre avec Guess Connect ne soit pas bien établi. Il faudra supprimer la montre des Règlages Bluetooth avant de poursuivre.";
+
+/* No comment provided by engineer. */
+"Italian" = "Italien";
+
+/* No comment provided by engineer. */
+"Italy/Rome" = "Italy/Rome";
+
+/* No comment provided by engineer. */
+"Japan/Tokyo" = "Japan/Tokyo";
+
+/* No comment provided by engineer. */
+"Just a second..." = "Juste une seconde...";
+
+/* No comment provided by engineer. */
+"Keep app settings" = "Cons. param. app";
+
+/* No comment provided by engineer. */
+"Keep watch settings" = "Cons. param. montre";
+
+/* No comment provided by engineer. */
+"Keep your watch close to your phone and do not close the app." = "Gardez votre montre près de votre téléphone et ne.";
+
+/* No comment provided by engineer. */
+"Korea/Seoul" = "Korea/Seoul";
+
+/* No comment provided by engineer. */
+"LANGUAGE" = "LANGUE";
+
+/* No comment provided by engineer. */
+"LAP TIMES" = "DURÉES TOUR";
+
+/* No comment provided by engineer. */
+"LAPS" = "TOURS";
+
+/* (No Commment) */
+"LAST MONTH" = "MOIS DERNIER";
+
+/* No comment provided by engineer. */
+"LAST NAME:" = "NOM :";
+
+/* (No Commment) */
+"LAST WEEK" = "SEMAINE DERNIÈRE";
+
+/* (No Commment) */
+"LAST YEAR" = "AN DERNIER";
+
+/* No comment provided by engineer. */
+"LIGHT" = "LÉGER";
+
+/* No comment provided by engineer. */
+"LIGHT MODE" = "MODE LUMIÈRE";
+
+/* No comment provided by engineer. */
+"LINKED TO ACCOUNT OF:" = "LIÉ AU COMPTE DE :";
+
+/* No comment provided by engineer. */
+"LISTEN FOR ALARM" = "ÉCOUTER L'ALARME";
+
+/* Modification Date: 06/01/2015 */
+"LOW" = "FAIBLE";
+
+/* No comment provided by engineer. */
+"Lap Number" = "Numéro de tour";
+
+/* No comment provided by engineer. */
+"Lap/Split" = "Tour/Temps intermédiaire";
+
+/* No comment provided by engineer. */
+"Last Sync:" = "Dernière Sync :";
+
+/* No comment provided by engineer. */
+"Last name" = "Nom de famille";
+
+/* No comment provided by engineer. */
+"Later" = "Plus tard";
+
+/* No comment provided by engineer. */
+"Learn More" = "En savoir plus";
+
+/* No comment provided by engineer. */
+"Let's get in touch." = "Let's get in touch.";
+
+/* No comment provided by engineer. */
+"Let's set up your watch and create some goals" = "Réglons votre montre et fixons quelques objectifs";
+
+/* No comment provided by engineer. */
+"Lift" = "Musculation";
+
+/* No comment provided by engineer. */
+"Light" = "Léger";
+
+/* No comment provided by engineer. */
+"Light Sleep" = "Sommeil léger";
+
+/* No comment provided by engineer. */
+"Loading chart..." = "Chargement du diagramme...";
+
+/* No comment provided by engineer. */
+"Loading histogram..." = "Chargement de l'histogramme...";
+
+/* No comment provided by engineer. */
+"Loading profile..." = "Chargement du profil...";
+
+/* No comment provided by engineer. */
+"Loading workout history..." = "Chargement de l'historique des entraînements...";
+
+/* No comment provided by engineer. */
+"Loading workout..." = "Chargement de l'entraînement...";
+
+/* No comment provided by engineer. */
+"Loading..." = "Chargement...";
+
+/* No comment provided by engineer. */
+"Low" = "Faible";
+
+/* Modification Date: 06/01/2015 */
+"Low Battery Alert" = "Alerte de batterie faible";
+
+/* No comment provided by engineer. */
+"MAIN DIAL" = "CADRAN PRINCIPAL";
+
+/* No comment provided by engineer. */
+"MALE" = "HOMME";
+
+/* No comment provided by engineer. */
+"METRIC" = "Métrique";
+
+/* No comment provided by engineer. */
+"MIN." = "MIN.";
+
+/* No comment provided by engineer. */
+"MM-DD" = "MM-JJ";
+
+/* No comment provided by engineer. */
+"MM/DD/YY" = "MM/JJ/AA";
+
+/* No comment provided by engineer. */
+"MMM DD" = "MMM JJ";
+
+/* No comment provided by engineer. */
+"MON" = "LUN";
+
+/* No comment provided by engineer. */
+"Make sure to \"Forget This Device\"" = "Veillez à \"oublier cet appareil\"";
+
+/* Modification Date: 06/01/2015 */
+"Make sure your watch is in Sync mode and that you hold button A until the mode hand reaches the Bluetooth sync position." = "Vérifier que la montre est près du téléphone et que l'indicateur indique le symbole Bluetooth.";
+
+/* No comment provided by engineer. */
+"Make sure your watch is in Sync mode and that you press Start to begin the Sync process." = "Assurez-vous que la montre est en mode Sync et veillez à appuyer sur Démarrer pour démarrer le processus de synchronisation.";
+
+/* No comment provided by engineer. */
+"Make sure your watch is ready to pair. Please follow instructions." = "Assurez-vous que votre montre est prête pour l'association. Veuillez suivre les instructions.";
+
+/* No comment provided by engineer. */
+"Malaysia/Kuala Lumpur" = "Malaysia/Kuala Lumpur";
+
+/* No comment provided by engineer. */
+"Male" = "Homme";
+
+/* No comment provided by engineer. */
+"Manual" = "Manuel";
+
+/* No comment provided by engineer. */
+"Max" = "Max";
+
+/* No comment provided by engineer. */
+"Medium" = "Moyen";
+
+/* No comment provided by engineer. */
+"Metric" = "Métrique";
+
+/* No comment provided by engineer. */
+"Mexico/Mexico City" = "Mexico/Mexico City";
+
+/* No comment provided by engineer. */
+"Minute Total" = "Total minutes";
+
+/* No comment provided by engineer. */
+"Model: Guess iQ+
+Name: %@
+
+Firmware Version
+M328-#FIRMWARE3#-#FIRMWARE1#-#FIRMWARE4#-#FIRMWARE2#
+
+MAC Address
+#SERIALNUMBER#
+
+Battery At Last Sync
+#LASTSYNC#" = "Modèle : Guess iQ+
+prénom : %@
+
+Version du firmware
+M328-#FIRMWARE3#-#FIRMWARE1#-#FIRMWARE4#-#FIRMWARE2#
+
+Adresse MAC
+#SERIALNUMBER#
+
+Batterie à la dernière synchronisation
+#LASTSYNC#";
+
+/* No comment provided by engineer. */
+"Model: iQ+ Travel
+Name: %@
+
+Firmware Version
+M329-#FIRMWARE3#-#FIRMWARE1#-#FIRMWARE4#-#FIRMWARE2#
+
+MAC Address
+#SERIALNUMBER#
+
+Battery At Last Sync
+#LASTSYNC#" = "Model: iQ+ Travel
+prénom : %@
+
+Version du firmware
+M329-#FIRMWARE3#-#FIRMWARE1#-#FIRMWARE4#-#FIRMWARE2#
+
+Adresse MAC
+#SERIALNUMBER#
+
+Batterie à la dernière synchronisation
+#LASTSYNC#";
+
+/* No comment provided by engineer. */
+"Model: Metropolitan+
+Name: %@
+
+Firmware Version
+#FIRMWARE3#-#FIRMWARE1#-#FIRMWARE4#-#FIRMWARE2#
+
+MAC Address
+#SERIALNUMBER#
+
+Battery At Last Sync
+#LASTSYNC#" = "Model: Metropolitan+
+prénom: %@
+
+Version du firmware
+#FIRMWARE3#-#FIRMWARE1#-#FIRMWARE4#-#FIRMWARE2#
+
+Adresse Mac
+#SERIALNUMBER#
+
+Batterie à la dernière synchronisation
+#LASTSYNC#";
+
+/* No comment provided by engineer. */
+"Modification Date: 11/25/2015" = "Date de modification: 11/25/2015";
+
+/* No comment provided by engineer. */
+"Monaco/Monte Carlo" = "Monaco/Monte Carlo";
+
+/* No comment provided by engineer. */
+"Monday" = "Lundi";
+
+/* No comment provided by engineer. */
+"Move away from other Bluetooth devices like phones, tablets, activity trackers and headsets." = "Éloignez-vous des autres appareils Bluetooth (tél./tablettes/trackers d'activité/casques).";
+
+/* No comment provided by engineer. */
+"Move away from sources of electronic interference like microwave ovens and exercise equipment." = "Éloignez-vous des sources d'interférences électr. (micro-ondes/appareils d'exercice physique).";
+
+/* No comment provided by engineer. */
+"My watch isn't showing this screen" = "Ma montre ne s'affiche pas sur cet écran";
+
+/* No comment provided by engineer. */
+"Myanmar/Yangon" = "Myanmar/Yangon";
+
+/* No comment provided by engineer. */
+"NAME" = "NOM";
+
+/* No comment provided by engineer. */
+"NEXT" = "PROCHAIN";
+
+/* No comment provided by engineer. */
+"NIGHT MODE" = "MODE NUIT";
+
+/* No comment provided by engineer. */
+"NO" = "NON";
+
+/* No comment provided by engineer. */
+"NOT CONNECTED" = "NON CONNECTÉ";
+
+/* No comment provided by engineer. */
+"NOTIFICATION ALERT" = "ALERTE NOTIF.";
+
+/* No comment provided by engineer. */
+"NOTIFICATIONS" = "NOTIFICATIONS";
+
+/* No comment provided by engineer. */
+"Name shouldn't exceed 64 characters" = "Le nom ne doit pas dépasser 64 caractères";
+
+/* No comment provided by engineer. */
+"Nepal/Kathmandu" = "Nepal/Kathmandu";
+
+/* No comment provided by engineer. */
+"Netherlands/Amsterdam" = "Netherlands/Amsterdam";
+
+/* No comment provided by engineer. */
+"Never Synced" = "Jamais synchronisée";
+
+/* No comment provided by engineer. */
+"New Caledonia/Noumea" = "New Caledonia/Noumea";
+
+/* No comment provided by engineer. */
+"New Zealand/Wellington" = "New Zealand/Wellington";
+
+/* No comment provided by engineer. */
+"New software is available for your watch. Would you like to download it now?" = "Un nouveau logiciel est disponible pour votre montre. Voulez-vous le télécharger maintenant ?";
+
+/* No comment provided by engineer. */
+"Next" = "Suivant";
+
+/* No comment provided by engineer. */
+"Night Mode" = "Mode nuit";
+
+/* No comment provided by engineer. */
+"No" = "Non";
+
+/* No comment provided by engineer. */
+"No Watch Connected" = "Pas de montre connectée";
+
+/* No comment provided by engineer. */
+"No data to display" = "Aucune donnée à afficher";
+
+/* No comment provided by engineer. */
+"No internet" = "No internet";
+
+/* No comment provided by engineer. */
+"No new firmware available." = "Aucun nouveau  firmware disponible.";
+
+/* No comment provided by engineer. */
+"No thanks, not now" = "Non merci, pas maintenant";
+
+/* No comment provided by engineer. */
+"No workouts during that time" = "Pas d'entraînements pendant cette période";
+
+/* No comment provided by engineer. */
+"No workouts to compare to." = "Pas d'entraînements pour la comparaison.";
+
+/* No comment provided by engineer. */
+"Not connected to internet." = "Pas connecté à Internet.";
+
+/* No comment provided by engineer. */
+"Not connected to watch." = "Pas connecté à la montre.";
+
+/* (No Commment) */
+"Not enough free disk space" = "Espace disque insuffisant";
+
+/* No comment provided by engineer. */
+"OFF" = "DÉSACTIVER";
+
+/* No comment provided by engineer. */
+"OK" = "D'ACCORD";
+
+/* No comment provided by engineer. */
+"ON" = "ACTIVER";
+
+/* No comment provided by engineer. */
+"OTHER TIME:" = "AUTRE HEURE :";
+
+/* No comment provided by engineer. */
+"Off" = "Désactiver";
+
+/* No comment provided by engineer. */
+"Oh No! Let's try again." = "Oh non ! Réessayez.";
+
+/* No comment provided by engineer. */
+"Ok" = "D'ACCORD";
+
+/* No comment provided by engineer. */
+"Once" = "Une fois";
+
+/* No comment provided by engineer. */
+"Once it's found, select your watch from the list below to sync and check for updates." = "Une fois trouvé, sectionnez votre montre ci-dessous pour la synchroniser et rechercher des mises à jour. Cela peut prendre quelques minutes.";
+
+/* No comment provided by engineer. */
+"PAIRING COMPLETE!" = "ASSOCIATION TERMINÉE !";
+
+/* No comment provided by engineer. */
+"PERFECT DATE" = "DATE PARFAITE";
+
+/* No comment provided by engineer. */
+"PHONE FINDER ON" = "RECHERCHE DE TÉLÉPHONE ACTIVÉE";
+
+/* No comment provided by engineer. */
+"PHONE FINDER SETTINGS" = "PARAM. RECH. DE TÉL.";
+
+/* No comment provided by engineer. */
+"PHONE TIME:" = "HEURE TÉL :";
+
+/* No comment provided by engineer. */
+"PICK CALENDARS TO SYNC" = "CHOISIR LES CALENDRIERS À SYNC";
+
+/* No comment provided by engineer. */
+"Pacific/Guam" = "Pacific/Guam";
+
+/* Modification Date: 02/04/2015 */
+"Pair your watch to the Guess Connect app" = "Associez votre montre à l'application Guess Connect";
+
+/* Modification Date: 02/04/2015 */
+"Pairing your Run x50+" = "Associer votre Run x50+";
+
+/* No comment provided by engineer. */
+"Pakistan/Karachi" = "Pakistan/Karachi";
+
+/* No comment provided by engineer. */
+"Perfect Date" = "Date parfaite";
+
+/* No comment provided by engineer. */
+"Performing sync to turn on Activity tracking" = "Performing sync to turn on Activity tracking";
+
+/* No comment provided by engineer. */
+"Photo Album Unavailable" = "Album photo non disponible";
+
+/* Modification Date: 06/01/2015 */
+"Place your watch in sync mode: Push and hold button A until the upper hand points to the Bluetooth symbol on the upper dial." = "Maintenez le bouton enfoncé jusqu'à voir que le cadran supérieur indique le symbole Bluetooth.";
+
+/* No comment provided by engineer. */
+"Place your watch into Sync mode and then press the START button to begin the setup process." = "Placez votre montre en mode Sync et appuyez sur le bouton DÉMARRER pour entamer le processus de configuration.";
+
+/* No comment provided by engineer. */
+"Placeholder M372 string" = "Placeholder M372 string";
+
+/* No comment provided by engineer. */
+"Please Confirm" = "Veuillez confirmer";
+
+/* No comment provided by engineer. */
+"Please Sync" = "Please Sync";
+
+/* No comment provided by engineer. */
+"Please Wait" = "Veuillez patienter";
+
+/* No comment provided by engineer. */
+"Please charge your watch." = "Veuillez charger votre montre.";
+
+/* No comment provided by engineer. */
+"Please contact customer service.
+They'll know what to do." = "Veuillez contacter le service à la clientèle.
+Ils sauront vous aider.";
+
+/* (No Commment) */
+"Please create your profile and set up your watch to get started." = "Créez votre profil et configurez votre montre pour commencer.";
+
+/* No comment provided by engineer. */
+"Please enter maximum %@" = "Veuillez saisir %@ au maximum";
+
+/* No comment provided by engineer. */
+"Please enter maximum %d kg" = "Veuillez saisir %d kg au maximum";
+
+/* No comment provided by engineer. */
+"Please enter maximum %d lbs" = "Veuillez saisir %d lbs au maximum";
+
+/* No comment provided by engineer. */
+"Please enter minimum %@" = "Veuillez saisir %@ minimum";
+
+/* No comment provided by engineer. */
+"Please enter minimum %d kg" = "Veuillez saisir %d kg minimum";
+
+/* No comment provided by engineer. */
+"Please enter minimum %d lbs" = "Veuillez saisir %d lbs minimum";
+
+/* No comment provided by engineer. */
+"Please enter your first name" = "Veuillez entrer votre nom";
+
+/* No comment provided by engineer. */
+"Please enter your name" = "Veuillez entrer votre nom.";
+
+/* No comment provided by engineer. */
+"Please follow the instructions to put your watch into Bluetooth mode." = "Suivez les instructions pour mettre votre montre en mode Bluetooth.";
+
+/* No comment provided by engineer. */
+"Please keep an eye out for email from Guess Connect with instructions on how to proceed." = "Please keep an eye out for email from Guess Connect with instructions on how to proceed.";
+
+/* No comment provided by engineer. */
+"Please select" = "Veuillez sélectionner";
+
+/* No comment provided by engineer. */
+"Please select gender" = "veuillez choisir le genre";
+
+/* No comment provided by engineer. */
+"Please select units" = "veuillez choisir les unités";
+
+/* No comment provided by engineer. */
+"Please set goals" = "veuillez configurer vos objectif";
+
+/* Modification Date: 06/01/2015 */
+"Please set up your watch before registering." = "Veuillez configurer votre montre avant de vous inscrire.";
+
+/* No comment provided by engineer. */
+"Please wait." = "Veuillez patienter.";
+
+/* No comment provided by engineer. */
+"Portugal/Lisbon" = "Portugal/Lisbon";
+
+/* No comment provided by engineer. */
+"Portuguese" = "Portugais";
+
+/* No comment provided by engineer. */
+"Preparing download..." = "Préparation du téléchargement...";
+
+/* No comment provided by engineer. */
+"Press the MODE button several time until the word SYNC appears at the top of the screen.
+
+This will put the watch into sync mode. The watch display should be alternating the message \"Sync Phone - Press Start\".
+
+Press START button to begin the sync process." = "Appuyez plusieurs fois sur le bouton MODE jusqu'à ce que le mot SYNC s'affiche en haut de l'écran.
+
+Cela mettra la montre en mode sync. L'écran de la montre doit afficher en alternance le message « Sync téléphone - Appuyer sur Démarrer ».
+
+Appuyez sur le bouton DÉMARRER pour entamer le processus de synchronisation.";
+
+/* No comment provided by engineer. */
+"Pretty Active" = "Assez actif";
+
+/* No comment provided by engineer. */
+"Progress" = "La progression";
+
+/* No comment provided by engineer. */
+"Progress changed to:" = "Progrès modifié:";
+
+/* No comment provided by engineer. */
+"Push Button" = "Bouton poussoir";
+
+/* No comment provided by engineer. */
+"Push the crown in when you're done." = "Poussez la couronne lorsque vous avez terminé.";
+
+/* No comment provided by engineer. */
+"Put your watch into sync mode to activate your timer" = "Mettez votre montre en mode synchro pour activer votre minuterie";
+
+/* No comment provided by engineer. */
+"Put your watch into sync mode to cancel your active timer" = "Mettez votre montre en mode de synchronisation pour annuler votre minuterie active";
+
+/* No comment provided by engineer. */
+"Put your watch into sync mode to save alarm settings" = "Mettez votre montre en mode de synchronisation pour enregistrer les paramètres d'alarme";
+
+/* No comment provided by engineer. */
+"Put your watch into sync mode to save your daily goals" = "Mettez votre montre en mode de synchronisation pour enregistrer vos objectifs quotidiens";
+
+/* No comment provided by engineer. */
+"Qatar/Doha" = "Qatar/Doha";
+
+/* No comment provided by engineer. */
+"Quack" = "Cancanement";
+
+/* No comment provided by engineer. */
+"READING WATCH DATA" = "LECTURE DONNEES SUR MONTRE";
+
+/* No comment provided by engineer. */
+"REGISTER WATCH" = "ENREGISTRER LA MONTRE";
+
+/* No comment provided by engineer. */
+"REMOVE AFTER SYNC?" = "SUPPRIMER APRÈS SYNC ?";
+
+/* No comment provided by engineer. */
+"REMOVE WATCH" = "SUPPRIMER MONTRE";
+
+/* No comment provided by engineer. */
+"RENAME" = "RENOMMER";
+
+/* No comment provided by engineer. */
+"RESET CUSTOM ALARMS" = "RÉINIT. ALAR. PERS";
+
+/* No comment provided by engineer. */
+"RESET EXCLUDED EVENTS" = "RÉINIT. ÉVÉN. EXCLUS";
+
+/* No comment provided by engineer. */
+"RINGTONE" = "SONNERIE";
+
+/* No comment provided by engineer. */
+"Reading Device Info..." = "Lecture des infos sur l'appareil...";
+
+/* No comment provided by engineer. */
+"Reading Watch Settings..." = "Lecture des paramètres de la montre…";
+
+/* No comment provided by engineer. */
+"Reading appointments...." = "Reading appointments....";
+
+/* No comment provided by engineer. */
+"Reconnect to align watch hands." = "Recommencez pour aligner les aiguilles de la montre.";
+
+/* No comment provided by engineer. */
+"Reconnect your watch" = "Reconnect your watch";
+
+/* (No Commment) */
+"Redirect URI mismatch" = "Inadéquation d'URL de redirection";
+
+/* No comment provided by engineer. */
+"Register Watch" = "Inscription de la montre";
+
+/* No comment provided by engineer. */
+"Register your Guess Connect" = "Inscrivez votre Guess Connect";
+
+/* No comment provided by engineer. */
+"Registering user..." = "Enregistrement de l'utilisateur...";
+
+/* No comment provided by engineer. */
+"Registering your Guess Connect will enable us to provide more efficient service if you ever have a question or problem. Please be assured that Guess Connect will not share your information with any outside parties." = "L'enregistrement de votre Guess Connect nous permettra de fournir un service plus efficace si jamais vous avez une question ou un problème. Nous vous assurons que Guess Connect ne partagera pas vos informations avec des tiers.";
+
+/* No comment provided by engineer. */
+"Reloading workout history..." = "Rechargement de l'historique des entraînements...";
+
+/* No comment provided by engineer. */
+"Remind me later" = "Me le rappeler plus tard";
+
+/* No comment provided by engineer. */
+"Remove Watch" = "Retirer la montre";
+
+/* No comment provided by engineer. */
+"Remove watch" = "Supprimer la montre";
+
+/* No comment provided by engineer. */
+"Rename Workout" = "Renom. entr";
+
+/* No comment provided by engineer. */
+"Repeat" = "Répéter";
+
+/* No comment provided by engineer. */
+"Requesting Watch Reset..." = "Demande Montre Réinitialiser...";
+
+/* No comment provided by engineer. */
+"Reset Complete" = "Reset Complete";
+
+/* No comment provided by engineer. */
+"Rest" = "Repos";
+
+/* No comment provided by engineer. */
+"Run" = "Course";
+
+/* No comment provided by engineer. */
+"Russia/Moscow" = "Russia/Moscow";
+
+/* No comment provided by engineer. */
+"S/N" = "N/S";
+
+/* No comment provided by engineer. */
+"SAT" = "SAM";
+
+/* No comment provided by engineer. */
+"SAVE AND SYNC" = "SAUVEGARDER ET SYNC";
+
+/* No comment provided by engineer. */
+"SAVE CHANGES" = "ENREGISTRER LES MODIFICATIONS";
+
+/* No comment provided by engineer. */
+"SCHEDULED" = "PROGRAMMÉ";
+
+/* No comment provided by engineer. */
+"SEC." = "SEC.";
+
+/* No comment provided by engineer. */
+"SECOND HAND" = "TROTTEUSE";
+
+/* No comment provided by engineer. */
+"SECONDS" = "SECONDES";
+
+/* No comment provided by engineer. */
+"SELECT WATCH TO SET UP" = "SÉLECT LA MONTRE À CONFIG";
+
+/* No comment provided by engineer. */
+"SENDING APPOINTMENTS TO WATCH" = "ENVOI DES RENDEZ-VOUS À LA MONTRE";
+
+/* No comment provided by engineer. */
+"SENDING SETTINGS/APPOINTMENTS" = "ENVOI DES PARAMÈTRES/RENDEZ-VOUS";
+
+/* No comment provided by engineer. */
+"SENSOR SENSITIVITY" = "SENSIBILITÉ DU CAPTEUR";
+
+/* No comment provided by engineer. */
+"SET ALARM" = "RÉGLER L'ALARME";
+
+/* No comment provided by engineer. */
+"SETTING WATCH TIME" = "RÉGLAGE DE L'HEURE DE LA MONTRE";
+
+/* No comment provided by engineer. */
+"SETUP" = "CONFIGURATION";
+
+/* No comment provided by engineer. */
+"SETUP COMPLETE" = "CONFIGURATION TERMINÉE";
+
+/* No comment provided by engineer. */
+"SETUP INCOMPLETE" = "CONFIGURATION INCOMPLÈTE";
+
+/* No comment provided by engineer. */
+"SHARE" = "PARTAGER";
+
+/* No comment provided by engineer. */
+"SHARE WITH IMAGES" = "PARTAGER AVEC IMAGES";
+
+/* No comment provided by engineer. */
+"SKIP" = "SAUTER";
+
+/* No comment provided by engineer. */
+"SLEEP" = "SOMMEIL";
+
+/* No comment provided by engineer. */
+"SORT WORKOUTS BY" = "TRIER ENTR. PAR";
+
+/* No comment provided by engineer. */
+"SPLITS" = "TPS INT";
+
+/* No comment provided by engineer. */
+"START SYNC MODE ON WATCH" = "DÉMARRER LE MODE SYNC SUR LA MONTRE";
+
+/* No comment provided by engineer. */
+"STEPS" = "PAS";
+
+/* No comment provided by engineer. */
+"STEPS GOAL" = "OBJECTIF NOMBRE DE PAS";
+
+/* No comment provided by engineer. */
+"STORE HISTORY" = "ENREGISTRER HISTORIQUE";
+
+/* No comment provided by engineer. */
+"SUB-DIAL" = "CADRAN SECONDAIRE";
+
+/* No comment provided by engineer. */
+"SUMMARY" = "RÉSUMÉ";
+
+/* No comment provided by engineer. */
+"SUN" = "DIM";
+
+/* No comment provided by engineer. */
+"SUPPORT" = "ASSISTANCE";
+
+/* No comment provided by engineer. */
+"SYNC AND CLEAR" = "SYNC ET ANNULATION";
+
+/* No comment provided by engineer. */
+"SYNC AND SET" = "SYNC; ET REGLAGE";
+
+/* No comment provided by engineer. */
+"SYNC FOR OFFLINE ACCESS" = "SYNC POUR L'ACCÈS HORS LIGNE";
+
+/* No comment provided by engineer. */
+"SYNC SUCCESSFUL" = "SYNC TERMINÉE";
+
+/* Modification Date: 06/01/2015 */
+"SYNCHRONIZING DATA" = "SYNCHRONISATION DES DONNÉES EN COURS";
+
+/* No comment provided by engineer. */
+"Saturday" = "Samedi";
+
+/* No comment provided by engineer. */
+"Saudi Arabia/Jeddah" = "Saudi Arabia/Jeddah";
+
+/* No comment provided by engineer. */
+"Save" = "Enregistrer";
+
+/* No comment provided by engineer. */
+"Save this watch" = "Save this watch";
+
+/* No comment provided by engineer. */
+"Saving Watch Settings..." = "Enregistrement des paramètres de la montre…";
+
+/* No comment provided by engineer. */
+"Scatter Plot" = "Diagramme de dispersion";
+
+/* No comment provided by engineer. */
+"Searching" = "Recherche";
+
+/* No comment provided by engineer. */
+"Searching for your watch" = "Recherchez votre montre";
+
+/* No comment provided by engineer. */
+"Second hand button" = "Bouton de la trotteuse";
+
+/* No comment provided by engineer. */
+"Second hand display" = "Affichage de la trotteuse";
+
+/* No comment provided by engineer. */
+"Seconds" = "Secondes";
+
+/* No comment provided by engineer. */
+"Seconds Total" = "Total secondes";
+
+/* No comment provided by engineer. */
+"Select All" = "Tout sélectionner";
+
+/* No comment provided by engineer. */
+"Select Calendars" = "Sélectionner calendriers";
+
+/* No comment provided by engineer. */
+"Select Social Media" = "Sélectionner réseau social";
+
+/* No comment provided by engineer. */
+"Select Time Zone" = "Sélectionner fuseau horaire";
+
+/* No comment provided by engineer. */
+"Select Upload Service" = "Sélectionner service de chargement";
+
+/* No comment provided by engineer. */
+"Select Workout" = "Sélectionner l'entraînement";
+
+/* No comment provided by engineer. */
+"Select your Classic 50 Move+ from the list below." = "Sélectionnez votre Classic 50 Move+ dans la liste ci-dessous.";
+
+/* Modification Date: 06/01/2015 */
+"Select your Metropolitan+ from the list below." = "Sélectionnez votre Metropolitan + dans la liste ci-dessous.";
+
+/* No comment provided by engineer. */
+"Select your watch" = "Sectionnez votre montre";
+
+/* No comment provided by engineer. */
+"Select your watch." = "Sectionnez votre montre.";
+
+/* No comment provided by engineer. */
+"Sending activity file" = "Envoi du fichier des activités";
+
+/* No comment provided by engineer. */
+"Sending code plug file" = "Envoi du fichier codeplug";
+
+/* No comment provided by engineer. */
+"Sending firmware file" = "Envoi du fichier de micrologiciel";
+
+/* No comment provided by engineer. */
+"Sensor sensitivity" = "Sensibilité du capteur";
+
+/* No comment provided by engineer. */
+"Set Alarm" = "Régler l’alarme";
+
+/* No comment provided by engineer. */
+"Set Alarms" = "Régler les alarmes";
+
+/* No comment provided by engineer. */
+"Set Daily Goals" = "Régler l'objectif quotidien";
+
+/* No comment provided by engineer. */
+"Set Timer" = "Régler la minuterie";
+
+/* No comment provided by engineer. */
+"Set auto sync time" = "Régler l'heure de la synchronisation automatique";
+
+/* No comment provided by engineer. */
+"Set daily goals." = "Régler l'objectif quotidien.";
+
+/* No comment provided by engineer. */
+"Set the time." = "Régler l'heure.";
+
+/* No comment provided by engineer. */
+"Set up your watch" = "Configurez votre montre";
+
+/* No comment provided by engineer. */
+"Set up your watch." = "Configurez votre montre.";
+
+/* No comment provided by engineer. */
+"Setting up your watch" = "Configurer votre montre";
+
+/* No comment provided by engineer. */
+"Settings" = "Réglages";
+
+/* No comment provided by engineer. */
+"Settings Update Failed" = "Échec de la mise à jour des paramètres";
+
+/* No comment provided by engineer. */
+"Share Workout" = "Partage  entraînement";
+
+/* No comment provided by engineer. */
+"Silent" = "Silencieux";
+
+/* No comment provided by engineer. */
+"Sincerely," = "Sincerely,";
+
+/* No comment provided by engineer. */
+"Singapore/Singapore" = "Singapore/Singapore";
+
+/* No comment provided by engineer. */
+"Skip Registration" = "Ignorer enreg";
+
+/* No comment provided by engineer. */
+"Sleep" = "Sommeil";
+
+/* No comment provided by engineer. */
+"Sleep Time" = "Temps de sommeil";
+
+/* No comment provided by engineer. */
+"Slow" = "Lent";
+
+/* No comment provided by engineer. */
+"Something Else is Wrong" = "Quelque chose d'autre ne va pas";
+
+/* No comment provided by engineer. */
+"Something Happened" = "Un événement est survenu";
+
+/* No comment provided by engineer. */
+"Something seems off..." = "Quelque chose semble étrange...";
+
+/* No comment provided by engineer. */
+"Sonar" = "Sonar";
+
+/* No comment provided by engineer. */
+"Sorry, something happened." = "Désolés, un probléms est survenu.";
+
+/* No comment provided by engineer. */
+"Sound Only" = "Son uniquement";
+
+/* No comment provided by engineer. */
+"Sounds" = "Sons";
+
+/* No comment provided by engineer. */
+"Spain/Madrid" = "Spain/Madrid";
+
+/* No comment provided by engineer. */
+"Spanish" = "Espagnol";
+
+/* No comment provided by engineer. */
+"Split/Lap" = "Temps intermédiaire/Tour";
+
+/* No comment provided by engineer. */
+"Stay close" = "Restez à proximité";
+
+/* No comment provided by engineer. */
+"Stay close." = "Restez à proximité.";
+
+/* No comment provided by engineer. */
+"Steps" = "Pas";
+
+/* No comment provided by engineer. */
+"Steps " = "Pas ";
+
+/* No comment provided by engineer. */
+"StepsToUpdateWatchMessage" = "StepsToUpdateWatchMessage";
+
+/* No comment provided by engineer. */
+"StepsToUpdateWatchTitle" = "StepsToUpdateWatchTitle";
+
+/* No comment provided by engineer. */
+"Stop" = "Arrêter";
+
+/* No comment provided by engineer. */
+"Sub-dial mode" = "Mode cadran secondaire";
+
+/* No comment provided by engineer. */
+"Sub-dial set to
+%@, %@" = "Cadran secondaire réglé à 
+%1$@, %2$@";
+
+/* No comment provided by engineer. */
+"Sub-dial time zone" = "Fuseau horaire du cadran secondaire";
+
+/* No comment provided by engineer. */
+"Success" = "Réussite";
+
+/* No comment provided by engineer. */
+"Success!" = "Réussite !";
+
+/* No comment provided by engineer. */
+"Successfully disconnected from %@!" = "Déconnexion réussie depuis %@!";
+
+/* No comment provided by engineer. */
+"Sunday" = "Dimanche";
+
+/* No comment provided by engineer. */
+"Sweden/Stockholm" = "Sweden/Stockholm";
+
+/* No comment provided by engineer. */
+"Swim" = "Natation";
+
+/* No comment provided by engineer. */
+"Sync Time %d:  %@" = "Sync Time %1$d:  %2$@";
+
+/* No comment provided by engineer. */
+"Sync cancelled" = "Sync annulé";
+
+/* No comment provided by engineer. */
+"Sync completed" = "Sync terminée";
+
+/* No comment provided by engineer. */
+"Sync in progress" = "Synchronisation en cours";
+
+/* No comment provided by engineer. */
+"Sync to update" = "Synchroniser pour mettre à jour";
+
+/* No comment provided by engineer. */
+"Synchronizing Workouts..." = "Synchronisation des entraînements...";
+
+/* No comment provided by engineer. */
+"Synchronizing data" = "Synchronisation des données en cours";
+
+/* No comment provided by engineer. */
+"Syncing of activity data and time will occur daily at the time above.
+
+Watch and phone need to be near each other (within bluetooth range) for Auto Sync to occur. Manual sync can be done at any time." = "La synchronisation des données d'activités et de l'heure aura lieu à l'heure indiquée ci-dessus.
+
+";
+
+/* No comment provided by engineer. */
+"Syncing your watch" = "Synchronisation de la montre";
+
+/* No comment provided by engineer. */
+"Syncing your watch." = "Synchronisation de la montre.";
+
+/* No comment provided by engineer. */
+"Syncing..." = "Synchronisation de la montre...";
+
+/* No comment provided by engineer. */
+"TAP" = "TOUCHER";
+
+/* No comment provided by engineer. */
+"TAP FORCE" = "TOUCHER FORTEMENT";
+
+/* No comment provided by engineer. */
+"TAP TO FIND YOUR WATCH" = "TOUCHER POUR DÉTEC. MONTRE";
+
+/* No comment provided by engineer. */
+"TEXT ONLY" = "TEXTE UNIQUEMENT";
+
+/* No comment provided by engineer. */
+"THEN TAP TO SYNC" = "TOUCHEZ POUR SYNCH";
+
+/* (No Commment) */
+"THIS MONTH" = "MOIS EN COURS";
+
+/* (No Commment) */
+"THIS WEEK" = "SEMAINE EN COURS";
+
+/* (No Commment) */
+"THIS YEAR" = "ANNÉE EN COURS";
+
+/* No comment provided by engineer. */
+"THU" = "JEU";
+
+/* No comment provided by engineer. */
+"TIME FORMAT" = "FORMAT D'HEURE";
+
+/* No comment provided by engineer. */
+"TIME OF DAY" = "HEURE DU JOUR";
+
+/* No comment provided by engineer. */
+"TIME SYNC" = "SYNC HEURE";
+
+/* No comment provided by engineer. */
+"TIME ZONE" = "FUSEAU HORAIRE";
+
+/* No comment provided by engineer. */
+"TIMER" = "CHRON";
+
+/* No comment provided by engineer. */
+"TIMER TIME" = "HR CHRON";
+
+/* No comment provided by engineer. */
+"GUESS CONNECT WEBSITE" = "SITE WEB GUESS CONNECT";
+
+/* No comment provided by engineer. */
+"TO:" = "À :";
+
+/* No comment provided by engineer. */
+"TODAY" = "AUJOURD'HUI";
+
+/* No comment provided by engineer. */
+"TOTAL
+" = "TOTAL
+";
+
+/* No comment provided by engineer. */
+"TOTAL EVENTS: %d
+EXCLUDED EVENTS: %d" = "TOTAL ÉVÉNEMENTS : %1$d
+ÉVÉNEMENTS EXCLUS : %2$d";
+
+/* No comment provided by engineer. */
+"TOTAL WORKOUTS: %d" = "TOTAL ENTRAÎNEMENTS : %d";
+
+/* No comment provided by engineer. */
+"TUE" = "MAR";
+
+/* No comment provided by engineer. */
+"Taiwan/Taipei" = "Taiwan/Taipei";
+
+/* No comment provided by engineer. */
+"Tell us 
+about yourself..." = "Parlez-nous
+de vous…";
+
+/* No comment provided by engineer. */
+"Text Only" = "Texte uniquement";
+
+/* No comment provided by engineer. */
+"Thailand/Bangkok" = "Thailand/Bangkok";
+
+/* No comment provided by engineer. */
+"Thank you for registering! This watch has already been registered." = "Merci de l'enregistrement ! Cette montre a déjà été enregistrée.";
+
+/* No comment provided by engineer. */
+"The Internet connection appears to be offline" = "La connexion Internet semble être hors ligne";
+
+/* No comment provided by engineer. */
+"The activity data on your watch could not be displayed. If this keeps happening, try performing a factory reset from the settings menu." = "Les données d'activité sur votre montre ne peuvent pas être affichées. Si ce problème persiste, essayez d'effectuer une réinitialisation aux valeurs d'usine depuis le menu Réglages.";
+
+/* No comment provided by engineer. */
+"The association between the app and your '%@' watch will be terminated. You'll have to set up and pair your watch with the app again." = "L'association entre l'application et votre montre '%@' sera interrompue. Vous devrez configurer et associer une nouvelle fois la montre à l'application.";
+
+/* No comment provided by engineer. */
+"The association between the app and your watch has been terminated." = "L'association entre l'application et votre montre est maintenant terminée.";
+
+/* No comment provided by engineer. */
+"The association between the app and your watch has been terminated. Please proceed to Bluetooth Settings on your device and remove any remaining Bluetooth connections between your device and your watch." = "L'association entre l'application et votre montre est maintenant terminée. Veuillez passer aux paramètres Bluetooth sur votre appareil et supprimer toute connexion Bluetooth restante entre votre appareil et votre montre.";
+
+/* Modification Date: 09/03/2015 */
+"The firmware update did not complete successfully. You will not be able to track your activity or sync your watch to the app until the firmware update process is complete. Would you like to perform the firmware update now?" = "La mise à jour du firmware n'a pas réussi. Vous ne pourrez pas suivre votre activité ni synchroniser votre montre sur l'application tant que le processus de mise à jour du firmware n'est pas terminé. Voulez-vous effectuer la mise à jour du firmware maintenant?";
+
+/* Modification Date: 11/25/2015 */
+"The type of this device doesn't match the watch style you have selected at the beginning of Setup. Please select another device to connect." = "Le type de cet appareil ne correspond pas au style de montre que vous avez sélectionné au début du programme d'installation. Veuillez sélectionner un autre périphérique pour vous connecter.";
+
+/* No comment provided by engineer. */
+"The watch remains paired with your phone until you remove it from Bluetooth settings." = "La montre reste appairée avec votre téléphone jusqu'à ce que vous la retirez des paramètres Bluetooth.";
+
+/* No comment provided by engineer. */
+"The watch was registered before." = "La montre a été enregistrée auparavant.";
+
+/* No comment provided by engineer. */
+"There might be a problem." = "Il pourrait y avoir un problème.";
+
+/* No comment provided by engineer. */
+"There was a problem when trying to connect to your watch." = "Un problème est survenu lors de la tentative de connexion avec votre montre.";
+
+/* No comment provided by engineer. */
+"There was a problem when trying to connect to your watch. Please wait until your watch times out before you try again." = "Un problème est survenu lors de la tentative de connexion avec votre montre. Veuillez attendre la temporisation de votre montre avant de réessayer.";
+
+/* No comment provided by engineer. */
+"This Month" = "Mois en cours";
+
+/* No comment provided by engineer. */
+"This Month's Daily Average" = "Moyenne quotidienne pour ce mois";
+
+/* No comment provided by engineer. */
+"This Week" = "Semaine en cours";
+
+/* No comment provided by engineer. */
+"This Week's Daily Average" = "Moyenne quotidienne pour cette semaine";
+
+/* No comment provided by engineer. */
+"This Year" = "Année en cours";
+
+/* No comment provided by engineer. */
+"This Year's Daily Average" = "Moyenne quotidienne pour cette année";
+
+/* No comment provided by engineer. */
+"This information is used only to help improve the accuracy of activity data. It will not be used for marketing purposes or shared with any third parties." = "Ces informations sont uniquement utilisées pour aider à améliorer la précision des données d'activité. Elles ne seront pas utilisées à des fins de marketing ou partagées avec des tiers.";
+
+/* No comment provided by engineer. */
+"This measures the amount of time you spend sleeping soundly. During deep sleep, your body moves very little. Seeing more of these cycles means you're getting a good night's sleep." = "Cela permet de mesurer le temps passé à dormir profondément. Pendant le sommeil profond, votre corps se déplace très peu. Voir plus de ces cycles signifie que vous avez une bonne nuit de sommeil";
+
+/* No comment provided by engineer. */
+"This measures the amount of time you spend tossing and turning in bed. During light sleep, your body moves more than you realize. Keeping track of these cycles can help you improve your sleep habits." = "Mesure de la durée au lit pendant laquelle vous vous retournez. Pendant le sommeil léger, les mouvements du corps sont plus fréquents que vous ne le pensez. Le suivi de ces cycles peut vous aider à améliorer vos habitudes de sommeil.";
+
+/* No comment provided by engineer. */
+"This measures the amount of time your sleep was interrupted. You'll see them in events whenever you get up from bed or move around too much." = "Mesure de la durée des dérangements de votre sommeil. Vous verrez qu'ils correspondent aux moments où vous quittez le lit ou vos mouvements au lit sont fréquents.";
+
+/* Modification Date: 06/01/2015 */
+"This will restore your watch to its initial factory settings." = "This will restore your watch to its initial factory settings.";
+
+/* No comment provided by engineer. */
+"This wizard will walk you through the process of setting up your watch to work with your phone." = "Cet assistant vous aidera à configurer votre montre pour qu'elle fonctionne avec votre téléphone.";
+
+/* No comment provided by engineer. */
+"Thursday" = "Jeudi";
+
+/* No comment provided by engineer. */
+"Time" = "Heure";
+
+/* No comment provided by engineer. */
+"Time " = "Temps";
+
+/* No comment provided by engineer. */
+"Time format" = "Format d'heure";
+
+/* No comment provided by engineer. */
+"Time sync" = "Sync heure";
+
+/* No comment provided by engineer. */
+"Timer" = "Chron";
+
+/* No comment provided by engineer. */
+"Guess Connect" = "Guess Connect";
+
+/* No comment provided by engineer. */
+"Guess Connect" = "Guess Connect";
+
+/* No comment provided by engineer. */
+"Guess Connect Team" = "Guess Connect Team";
+
+/* No comment provided by engineer. */
+"Guess Connect doesn't have permission to access your photos." = "Guess Connect n'a pas l'autorisation d'accéder à vos photos.";
+
+/* (No Commment) */
+"Guess Connect tracks your activity level such as steps, distance, calories and sleep." = "Guess Connect vous aide à rester en bonne santé en suivant vos activités comme le nombre de pas que vous avez effectué, la distance que vous avez parcourue et vos entraînements.";
+
+/* No comment provided by engineer. */
+"Timex Watch" = "Montre Timex";
+
+/* No comment provided by engineer. */
+"To enter sync mode, press and hold the Crown for about 5 seconds until you hear a 3 tone melody. Once in sync mode, the hands should point to 12." = "To enter sync mode, press and hold the Crown for about 5 seconds until you hear a 3 tone melody. Once in sync mode, the hands should point to 12.";
+
+/* No comment provided by engineer. */
+"To update time and activity data, syncing your watch is required. To extend battery life, a daily sync is suggested." = "Il faut synchroniser la montre pour mettre à jour les données d'heure et d'activité. Pour prolonger la durée de vie de la pile, une synchronisation quotidienne est recommandée.";
+
+/* No comment provided by engineer. */
+"Today" = "Aujourd’hui";
+
+/* No comment provided by engineer. */
+"Total Distance" = "Distance totale";
+
+/* No comment provided by engineer. */
+"Total Steps" = "Nombre de pas total";
+
+/* No comment provided by engineer. */
+"Total Time" = "Temps total";
+
+/* No comment provided by engineer. */
+"Track sleep" = "Suivi du sommeil";
+
+/* No comment provided by engineer. */
+"Track your activity" = "Suivre votre activité";
+
+/* No comment provided by engineer. */
+"Track your sleep activity" = "Suivez votre qualité de sommeil";
+
+/* No comment provided by engineer. */
+"Try Again" = "Essayer de nouveau";
+
+/* No comment provided by engineer. */
+"Try again" = "Réessayer";
+
+/* No comment provided by engineer. */
+"Try again." = "Réessayer";
+
+/* No comment provided by engineer. */
+"Tuesday" = "Mardi";
+
+/* No comment provided by engineer. */
+"Turkey/Ankara" = "Turkey/Ankara";
+
+/* No comment provided by engineer. */
+"Turn activity tracking on." = "Activer le suivi d'activité.";
+
+/* No comment provided by engineer. */
+"Tweet has been cancelled." = "Le tweet a été annulé.";
+
+/* No comment provided by engineer. */
+"Twitter" = "Twitter";
+
+/* No comment provided by engineer. */
+"Twitter Post Mode" = "Mode publication Twitter";
+
+/* No comment provided by engineer. */
+"Twitter integration error" = "Erreur d'intégration à Twitter";
+
+/* No comment provided by engineer. */
+"Twitter service is not available on this device. Make sure you specified your Twitter credentials in System settings." = "Le service Twitter n'est pas disponible sur cet appareil. Assurez-vous que vous avez spécifié vos informations d'identification Twitter dans les Paramètres système.";
+
+/* No comment provided by engineer. */
+"UNABLE TO FIND" = "INTROUVABLE";
+
+/* No comment provided by engineer. */
+"UNABLE TO START SYNCHRONIZATION" = "IMPOSSIBLE DE DÉMARRER LA SYNCHRONISATION";
+
+/* No comment provided by engineer. */
+"UNIT OF MEASURE" = "UNITÉ DE MESURE";
+
+/* No comment provided by engineer. */
+"UPLOAD" = "CHARGEMENT";
+
+/* No comment provided by engineer. */
+"UPLOAD SETUP" = "CONF. CHARG.";
+
+/* No comment provided by engineer. */
+"UPLOAD SITES SETTINGS" = "PARAM. SITES CHARG.";
+
+/* No comment provided by engineer. */
+"UPLOADING FIRMWARE" = "CHARGEMENT DU FIRMWARE";
+
+/* No comment provided by engineer. */
+"UPLOADS" = "CHARGEMENTS";
+
+/* No comment provided by engineer. */
+"US/Anchorage" = "US/Anchorage";
+
+/* No comment provided by engineer. */
+"US/Chicago" = "US/Chicago";
+
+/* No comment provided by engineer. */
+"US/Denver" = "US/Denver";
+
+/* No comment provided by engineer. */
+"US/Honolulu" = "US/Honolulu";
+
+/* No comment provided by engineer. */
+"US/Los Angeles" = "US/Los Angeles";
+
+/* No comment provided by engineer. */
+"US/Miami" = "US/Miami";
+
+/* No comment provided by engineer. */
+"US/New York" = "US/New York";
+
+/* No comment provided by engineer. */
+"USER INFO" = "INFOS UTILISATEUR";
+
+/* No comment provided by engineer. */
+"USER INFORMATION" = "INFORMATIONS SUR L'UTILISATEUR";
+
+/* No comment provided by engineer. */
+"USER REGISTRATION" = "ENREGISTREMENT DE L'UTILISATEUR";
+
+/* No comment provided by engineer. */
+"UTC %d" = "UTC %d";
+
+/* No comment provided by engineer. */
+"UTC %d:%d" = "UTC %1$d:%2$d";
+
+/* No comment provided by engineer. */
+"UTC +%d" = "UTC +%d";
+
+/* No comment provided by engineer. */
+"UTC +%d:%d" = "UTC +%1$d:%2$d";
+
+/* No comment provided by engineer. */
+"Unable to Sync" = "Impossible de synchroniser";
+
+/* No comment provided by engineer. */
+"Unable to perform registration - no data entered." = "Impossible d'effectuer l'enregistrement. Aucune donnée entrée.";
+
+/* No comment provided by engineer. */
+"Unable to play sound" = "Impossible de lire la bande  son";
+
+/* Modification Date: 06/01/2015 */
+"Unable to register" = "Impossible d'enregistrer";
+
+/* No comment provided by engineer. */
+"Unable to register user.
+(status code %d)
+Please try again later." = "Impossible d'enregistrer l'utilisateur.
+(code d'état %d)
+Veuillez réessayer plus tard.";
+
+/* No comment provided by engineer. */
+"Unable to register. Please try again later." = "Enregistrement impossible. Veuillez réessayer plus tard.";
+
+/* No comment provided by engineer. */
+"Unable to save watch settings; Error occurred." = "Impossible d'enregistrer les paramètres de la montre. Une erreur est survenue.";
+
+/* Modification Date: 09/03/2015 */
+"Unable to sync" = "ImImpossible de synchroniser";
+
+/* No comment provided by engineer. */
+"Unable to synchronize watch settings." = "Impossible de synchroniser les paramètres de la montre.";
+
+/* No comment provided by engineer. */
+"Unable to synchronize workouts" = "Impossible de synchroniser les entraînements";
+
+/* (No Commment) */
+"Unauthorized Client" = "Client non autorisé";
+
+/* No comment provided by engineer. */
+"Unavailable" = "Non disponible";
+
+/* No comment provided by engineer. */
+"Undefined" = "Non défini";
+
+/* No comment provided by engineer. */
+"Unfortunately your activity data may be inaccurate and the watch hands need to be realigned." = "Unfortunately your activity data may be inaccurate and the watch hands need to be realigned.";
+
+/* No comment provided by engineer. */
+"United Arab Emirates/Dubai" = "United Arab Emirates/Dubai";
+
+/* No comment provided by engineer. */
+"Units" = "Unités";
+
+/* (No Commment) */
+"Unsupported response type" = "Type de réponse non pris en charge";
+
+/* No comment provided by engineer. */
+"Update Available" = "Mise à jour disponible";
+
+/* No comment provided by engineer. */
+"Update Later" = "Faire la mise à jour plus tard";
+
+/* No comment provided by engineer. */
+"Update Now" = "Faire la mise à jour maintenant";
+
+/* No comment provided by engineer. */
+"Updating the firmware." = "Mise à jour du firmware en cours.";
+
+/* No comment provided by engineer. */
+"Updating your watch provides you with the latest features, however data stored on the watch is cleared for the current day. This process may take several minutes." = "La mise à jour de votre montre vous permet d'utiliser la dernière fonctionnalité, mais les données stockées sur la montre sont effacées pour le jour en cours. Ce processus peut prendre plusieurs minutes.";
+
+/* No comment provided by engineer. */
+"Upload Services Setup" = "Charegement de la configuration des services";
+
+/* No comment provided by engineer. */
+"Upload Workout" = "Chargement entraînement";
+
+/* No comment provided by engineer. */
+"Upload to %@ failed: %@" = "Le chargement vers %1$@ a échoué : %2$@";
+
+/* No comment provided by engineer. */
+"Uploading workout(s)" = "Chargement des entraînement(s)";
+
+/* No comment provided by engineer. */
+"User Registration successful!" = "Enregistrement de l'utilisateur terminé!";
+
+/* No comment provided by engineer. */
+"VIEW MORE" = "AFFICHER PLUS";
+
+/* No comment provided by engineer. */
+"VISIT GUESS CONNECT" = "VISITER GUESS CONNECT";
+
+/* No comment provided by engineer. */
+"Venezuela/Caracas" = "Venezuela/Caracas";
+
+/* No comment provided by engineer. */
+"Very Active" = "Três actif";
+
+/* No comment provided by engineer. */
+"Vibrate Only" = "Vibr. seul.";
+
+/* No comment provided by engineer. */
+"Vibration" = "Vibration";
+
+/* No comment provided by engineer. */
+"WATCH CONTROL" = "CONTRÔLE MONTRE";
+
+/* No comment provided by engineer. */
+"WATCH CONTROLS" = "CONTRÔLE MONTRE";
+
+/* No comment provided by engineer. */
+"WATCH FINDER" = "RECH. MONTRE";
+
+/* No comment provided by engineer. */
+"WATCH NICKNAME" = "NOM DE LA MONTRE";
+
+/* No comment provided by engineer. */
+"WATCH NOT CONNECTED" = "MONTRE NON CONNECTÉE";
+
+/* No comment provided by engineer. */
+"WATCH NOT IN SYNC MODE" = "MONTRE PAS EN MODE SYNC";
+
+/* No comment provided by engineer. */
+"WATCH SETTINGS" = "RÉGLAGES DE LA MONTRE";
+
+/* No comment provided by engineer. */
+"WATCH TIMED OUT DURING SYNC." = "REGARDER LA TEMPORISATION PENDANT LA SYNCHRONISATION.";
+
+/* No comment provided by engineer. */
+"WED" = "MER";
+
+/* No comment provided by engineer. */
+"WEIGHT" = "POIDS";
+
+/* No comment provided by engineer. */
+"WITH PHOTO" = "AVEC PHOTO";
+
+/* No comment provided by engineer. */
+"WORKOUT DATA & SYNC" = "DONNÉES ENTR./SYNC";
+
+/* No comment provided by engineer. */
+"WORKOUT SUMMARY" = "RÉSUMÉ ENTRAÎN.";
+
+/* No comment provided by engineer. */
+"WORKOUTS" = "ENTRAÎNEMENTS";
+
+/* No comment provided by engineer. */
+"Wake Time" = "Heure de réveil";
+
+/* No comment provided by engineer. */
+"Wake time" = "Heure de réveil";
+
+/* No comment provided by engineer. */
+"Walk" = "Marche";
+
+/* No comment provided by engineer. */
+"WarningWhileFirmwareUpdate" = "AvertissementPendantMiseAJourDuMicrologiciel";
+
+/* Modification Date: 06/01/2015 */
+"Watch Battery Low" = "Batterie de la montre faible";
+
+/* Modification Date: 06/01/2015 */
+"Watch Control" = "Commandes de la montre";
+
+/* No comment provided by engineer. */
+"Watch Settings have changed since the last settings synchronization. Please select which set of settings you would like to use:" = "Les paramètres de la montre ont changé depuis leur dernière synchronisation. Veuillez sélectionner les réglages des paramètres que vous voulez utiliser :";
+
+/* No comment provided by engineer. */
+"Watch already registered" = "Montre déjà enregistré";
+
+/* No comment provided by engineer. */
+"Watch connected" = "Montre connectée";
+
+/* No comment provided by engineer. */
+"Watch connection time out happened..." = "Watch connection time out happened...";
+
+/* No comment provided by engineer. */
+"Watch control" = "Commandes de la montre";
+
+/* No comment provided by engineer. */
+"Watch firmware download in progress" = " firmware de la montre en cours de téléchargement";
+
+/* No comment provided by engineer. */
+"Watch firmware download:" = "Regarder le téléchargement du firmware:";
+
+/* No comment provided by engineer. */
+"Watch registered" = "Montre enregistrée";
+
+/* No comment provided by engineer. */
+"We found an update." = "Nous avons trouvé  une mise à jour.";
+
+/* No comment provided by engineer. */
+"We take your privacy seriously.
+
+Please Review and accept the Privacy Policy and the End User Agreement." = "Nous traitons votre confidentialité avec sérieux.
+
+Veuillez examiner et accepter la Politique de confidentialité et le Contrat d'utilisateur final.";
+
+/* No comment provided by engineer. */
+"Wednesday" = "Mercredi";
+
+/* No comment provided by engineer. */
+"Weekdays" = "Jours de la semaine";
+
+/* No comment provided by engineer. */
+"Weekends" = "Week-ends";
+
+/* No comment provided by engineer. */
+"Weight" = "Poids";
+
+/* No comment provided by engineer. */
+"Welcome!" = "Bienvenue !";
+
+/* No comment provided by engineer. */
+"What city do you want to set as a second timezone?" = "Quelle ville souhaitez-vous désigner comme deuxième fuseau horaire ?";
+
+/* No comment provided by engineer. */
+"What city do you want to set as a third timezone?" = "Quelle ville souhaitez-vous désigner comme troisième fuseau horaire ?";
+
+/* No comment provided by engineer. */
+"What do you want your second hand to always display?" = "Que souhaitez-vous voir indiqué par la trotteuse ?";
+
+/* No comment provided by engineer. */
+"What is
+your weight?" = "Quel est
+votre poids ?";
+
+/* No comment provided by engineer. */
+"When do you
+usually go to bed?" = "En général, à quelle heure
+allez-vous vous coucher ?";
+
+/* No comment provided by engineer. */
+"When do you
+usually wake up?" = "En général, à quelle heure
+vous réveillez-vous ?";
+
+/* No comment provided by engineer. */
+"When is
+your birthdate?" = "Quelle est
+votre date de naissance ?";
+
+/* No comment provided by engineer. */
+"Which goal would you like to see?" = "Quel objectif souhaitez-vous voir ?";
+
+/* No comment provided by engineer. */
+"Which units do you use?" = "Quelles unités utilisez-vous ?";
+
+/* No comment provided by engineer. */
+"Which units would you like to use?" = "Quelles unités utilisez-vous ?";
+
+/* No comment provided by engineer. */
+"White" = "Blanc";
+
+/* No comment provided by engineer. */
+"With Photo" = "Avec photo";
+
+/* No comment provided by engineer. */
+"Workout Date" = "Date de l'entrainement";
+
+/* No comment provided by engineer. */
+"Workouts update Failed" = "Échec de la mise à jour des entraînements";
+
+/* No comment provided by engineer. */
+"Would you like to sync watch settings from app to watch or upload watch settings from watch to the app?" = "Voulez-vous sync les paramètres de la montre à partir de l'application ou les charger de la montre sur l'application ?";
+
+/* No comment provided by engineer. */
+"Writing Watch Settings..." = "Écriture des paramètres de la montre...";
+
+/* No comment provided by engineer. */
+"YES" = "OUI";
+
+/* No comment provided by engineer. */
+"YESTERDAY" = "HIER";
+
+/* No comment provided by engineer. */
+"YOU FOUND ME!" = "VOUS M'AVEZ TROUVÉ !";
+
+/* No comment provided by engineer. */
+"YYYY-MM-DD" = "AAAA-MM-JJ";
+
+/* No comment provided by engineer. */
+"Yes" = "Oui";
+
+/* No comment provided by engineer. */
+"Yes, I'd like to receive the latest product information, exclusive offers and special discounts from Guess Connect." = "Oui, je souhaite recevoir les dernières informations de produit, les offres exclusives et réductions spéciales de la part de Guess Connect.";
+
+/* No comment provided by engineer. */
+"YesWatchIsInSyncMode" = "YesWatchIsInSyncMode";
+
+/* No comment provided by engineer. */
+"Yesterday" = "Hier";
+
+/* No comment provided by engineer. */
+"You are not connected to DailyMile" = "Vous n'êtes pas connecté à DailyMile";
+
+/* No comment provided by engineer. */
+"You are not connected to Map My Fitness" = "Vous n'êtes pas connecté à DailyMile";
+
+/* No comment provided by engineer. */
+"You are not connected to RunKeeper" = "Vous n'êtes pas connecté à RunKeeper";
+
+/* No comment provided by engineer. */
+"You are not connected to Strava" = "Vous n'êtes pas connecté à Strava";
+
+/* No comment provided by engineer. */
+"You are not connected to Training Peaks" = "Vous n'êtes pas connecté à Training Peaks";
+
+/* No comment provided by engineer. */
+"You found me!" = "Vous m'avez trouvé !";
+
+/* No comment provided by engineer. */
+"You have entered an invalid email address." = "Vous avez entré une adresse e-mail non valide.";
+
+/* No comment provided by engineer. */
+"You have no sleep data, yet.
+Make sure to wear your watch to bed tonight to track your sleep!" = "Vous n'avez pas de données de sommeil, pour le moment.
+Assurez-vous de porter votre montre au lit ce soir pour suivre votre sommeil! !";
+
+/* Modification Date: 02/04/2015 */
+"You may now begin using your Run x50+" = "Vous pouvez maintenant commencer à utiliser votre montre Run x50+";
+
+/* No comment provided by engineer. */
+"You may use other app features or even other apps while the download is in progress.
+
+Please keep the phone and watch within range until this completes." = "Vous pouvez utiliser d'autres fonctions et même d'autres applications durant le téléchargement.
+
+Veuillez conserver le téléphone et la montre à la portée requise jusqu'à la fin de l'opération.";
+
+/* No comment provided by engineer. */
+"You need to provide data for the chart." = "Vous devez fournir des données pour le graphique.";
+
+/* Modification Date: 06/01/2015 */
+"You will need to replace your watch battery soon." = "Vous devrez bientôt remplacer la batterie de votre montre.";
+
+/* No comment provided by engineer. */
+"You will need to sync on the home screen before your watch can start tracking your activity." = "Il faut effectuer une synchronisation depuis l'écran principal pour que votre montre puisse commencer à faire le suivi de votre activité physique.";
+
+/* No comment provided by engineer. */
+"Your Classic 50 Move+ is now ready to work with your phone." = "Votre Classic 50 Move+ peut désormais fonctionner avec votre téléphone.";
+
+/* No comment provided by engineer. */
+"Your Facebook post has been posted successfully." = "Votre message a été publié sur Facebook.";
+
+/* No comment provided by engineer. */
+"Your Photos are unavailable." = "Vos photos ne sont pas disponibles.";
+
+/* Modification Date: 12/10/2015 */
+"Your battery is too low to perform this firmware update. Please replace the battery and try again." = "Votre batterie est trop faible pour effectuer cette mise à jour du  firmware. Remplacez la pile et réessayez.";
+
+/* No comment provided by engineer. */
+"Your tweet has been posted successfully." = "Votre tweet a été publié avec succès.";
+
+/* No comment provided by engineer. */
+"Your watch battery is too low to sync. You will need to replace your watch battery soon." = "La pile de votre montre est trop faible pour effectuer une synchronisation. Il faut bientôt remplacer la pile de la montre.";
+
+/* No comment provided by engineer. */
+"Your watch is up to date" = "Votre montre est à jour";
+
+/* No comment provided by engineer. */
+"Your watch is up to date." = "Votre montre est à jour.";
+
+/* No comment provided by engineer. */
+"Your workout was posted to your %@ account." = "Votre entraînement a été publié sur votre %@ compte.";
+
+/* No comment provided by engineer. */
+"ZIP CODE:" = "CODE POSTAL:";
+
+/* No comment provided by engineer. */
+"Zip code" = "Code postal";
+
+/* No comment provided by engineer. */
+"average lap" = "tour moyen";
+
+/* No comment provided by engineer. */
+"average pace/km." = "vitesse moyenne/km";
+
+/* No comment provided by engineer. */
+"average pace/mile" = "vitesse moyenne/mille";
+
+/* No comment provided by engineer. */
+"best lap" = "meilleur Tour";
+
+/* No comment provided by engineer. */
+"birthdate?" = "date de naissance?";
+
+/* No comment provided by engineer. */
+"cm" = "cm";
+
+/* No comment provided by engineer. */
+"complete" = "terminé";
+
+/* No comment provided by engineer. */
+"completed repeats" = "répétitions terminées";
+
+/* No comment provided by engineer. */
+"current %.1f" = "courant %.1f";
+
+/* No comment provided by engineer. */
+"current %.2f" = "courant %.2f";
+
+/* No comment provided by engineer. */
+"current %d" = "courant %d";
+
+/* No comment provided by engineer. */
+"file %ld of %ld" = "fichier %1$ld de %2$ld";
+
+/* No comment provided by engineer. */
+"ft" = "pi";
+
+/* No comment provided by engineer. */
+"go to bed?" = "aller se coucher?";
+
+/* No comment provided by engineer. */
+"hour" = "heure";
+
+/* No comment provided by engineer. */
+"hrs" = "heures";
+
+/* No comment provided by engineer. */
+"in" = "po";
+
+/* No comment provided by engineer. */
+"inches" = "pouces";
+
+/* No comment provided by engineer. */
+"intervals" = "intervalles";
+
+/* No comment provided by engineer. */
+"k" = "k";
+
+/* No comment provided by engineer. */
+"kcal" = "kcal";
+
+/* No comment provided by engineer. */
+"kg" = "kg";
+
+/* No comment provided by engineer. */
+"kg" = "kg";
+
+/* No comment provided by engineer. */
+"km" = "km";
+
+/* No comment provided by engineer. */
+"km." = "km.";
+
+/* No comment provided by engineer. */
+"laps" = "tours";
+
+/* No comment provided by engineer. */
+"laps stored" = "tours enreg";
+
+/* No comment provided by engineer. */
+"lbs" = "lb";
+
+/* No comment provided by engineer. */
+"m" = "m";
+
+/* No comment provided by engineer. */
+"mi" = "mi";
+
+/* No comment provided by engineer. */
+"miles" = "milles";
+
+/* No comment provided by engineer. */
+"min" = "min";
+
+/* No comment provided by engineer. */
+"minute" = "minute";
+
+/* No comment provided by engineer. */
+"mts" = "mts";
+
+/* No comment provided by engineer. */
+"scheduled repeats" = "répétitions programmées";
+
+/* No comment provided by engineer. */
+"sec" = "sec";
+
+/* No comment provided by engineer. */
+"second" = "seconde";
+
+/* No comment provided by engineer. */
+"start time" = "heure de début";
+
+/* No comment provided by engineer. */
+"steps" = "Pas";
+
+/* No comment provided by engineer. */
+"sub-dial" = "cadran secondaire";
+
+/* No comment provided by engineer. */
+"tall" = "grand";
+
+/* No comment provided by engineer. */
+"to your %@ account" = "à votre compte %@";
+
+/* No comment provided by engineer. */
+"today" = "aujourd'hui";
+
+/* No comment provided by engineer. */
+"total intervals" = "total intervalles";
+
+/* No comment provided by engineer. */
+"total time" = "temps total";
+
+/* No comment provided by engineer. */
+"units" = "unités";
+
+/* No comment provided by engineer. */
+"wake up?" = "Réveillez-vous?";
+
+/* No comment provided by engineer. */
+"watch" = "watch";
+
+/* No comment provided by engineer. */
+"weight?" = "poids?";
+
+/* No comment provided by engineer. */
+"years" = "ans";
+
+/* No comment provided by engineer. */
+"yesterday" = "hier";
+
+/* No comment provided by engineer. */
+"yourself..." = "toi même...";
+
+/* No comment provided by engineer. */
+"“Align Hands”" = "\"Aligner les aiguilles\"";
+
+/* No comment provided by engineer. */
+"no BLE devices are detected" = "Aucun périphérique BLE n'est détecté";
+
+/* No comment provided by engineer. */
+"Please set up your watch before registering." = "Configurez votre montre avant de vous inscrire.";

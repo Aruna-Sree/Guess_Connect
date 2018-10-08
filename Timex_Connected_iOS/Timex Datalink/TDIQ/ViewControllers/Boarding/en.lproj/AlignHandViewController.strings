@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "We want to make sure your watch is working perfectly. if the watch hands seem to be showing an incorrect time or date often, let us know."; ObjectID = "1h8-n5-65D"; */
+"1h8-n5-65D.text" = "We want to make sure your watch is working perfectly. if the watch hands seem to be showing an incorrect time or date often, let us know.";
+
+/* Class = "UILabel"; text = "You're ready!"; ObjectID = "65C-h5-bdl"; */
+"65C-h5-bdl.text" = "You're ready!";
+
+/* Class = "UIButton"; normalTitle = "NEXT   "; ObjectID = "Din-zY-eNu"; */
+"Din-zY-eNu.normalTitle" = "NEXT   ";
+
+/* Class = "UILabel"; text = "Unable to Sync\n\nPress hold the crown to put your Guess Connect watch into pairing mode."; ObjectID = "T7c-k9-Voz"; */
+"T7c-k9-Voz.text" = "Unable to Sync\n\nPress hold the crown to put your Guess Connect watch into pairing mode.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UEH-4C-bfI"; */
+"UEH-4C-bfI.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "CONTACT CUSTOMER SERVICE"; ObjectID = "aOX-sx-MWt"; */
+"aOX-sx-MWt.normalTitle" = "CONTACT CUSTOMER SERVICE";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bqr-R1-S7O"; */
+"bqr-R1-S7O.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "REMIND ME LATER"; ObjectID = "rJG-O0-RqN"; */
+"rJG-O0-RqN.normalTitle" = "REMIND ME LATER";

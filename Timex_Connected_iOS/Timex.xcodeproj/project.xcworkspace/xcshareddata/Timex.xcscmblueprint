@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "21691F759FD4071C2CCFC9F88E09497EAA7C37FA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "21691F759FD4071C2CCFC9F88E09497EAA7C37FA" : 0,
+    "6A08B56ABA124B5EF61A5FB74DAC4D35562CF956" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "01B17C10-3AB8-4BFD-9D9C-F2985B363A6F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "21691F759FD4071C2CCFC9F88E09497EAA7C37FA" : "TimexClient\/",
+    "6A08B56ABA124B5EF61A5FB74DAC4D35562CF956" : "Timex_iOS"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Timex",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Timex.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/timex_ios_development\/timex_connected_ios\/branch\/Innominds_Dev",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "21691F759FD4071C2CCFC9F88E09497EAA7C37FA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iDevicesInc\/Timex_iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6A08B56ABA124B5EF61A5FB74DAC4D35562CF956"
+    }
+  ]
+}

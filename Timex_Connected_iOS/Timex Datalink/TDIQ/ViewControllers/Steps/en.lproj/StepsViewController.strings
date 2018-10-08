@@ -1,0 +1,12 @@
+
+/* Class = "UISegmentedControl"; STa-oy-jYr.segmentTitles[0] = "DAY"; ObjectID = "STa-oy-jYr"; */
+"STa-oy-jYr.segmentTitles[0]" = "DAY";
+
+/* Class = "UISegmentedControl"; STa-oy-jYr.segmentTitles[1] = "WEEK"; ObjectID = "STa-oy-jYr"; */
+"STa-oy-jYr.segmentTitles[1]" = "WEEK";
+
+/* Class = "UISegmentedControl"; STa-oy-jYr.segmentTitles[2] = "MONTH"; ObjectID = "STa-oy-jYr"; */
+"STa-oy-jYr.segmentTitles[2]" = "MONTH";
+
+/* Class = "UISegmentedControl"; STa-oy-jYr.segmentTitles[3] = "YEAR"; ObjectID = "STa-oy-jYr"; */
+"STa-oy-jYr.segmentTitles[3]" = "YEAR";

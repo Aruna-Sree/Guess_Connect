@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "You're ready!"; ObjectID = "gQ0-TH-Ogr"; */
+"gQ0-TH-Ogr.text" = "You're ready!";
+
+/* Class = "UILabel"; text = "Please create your profile and set up \nyour watch to get started."; ObjectID = "qfe-XH-370"; */
+"qfe-XH-370.text" = "Let's set up your watch and create some goals.";
+
+/* Class = "UIButton"; normalTitle = "GET STARTED"; ObjectID = "rbP-Ic-Qyq"; */
+"rbP-Ic-Qyq.normalTitle" = "GET STARTED";

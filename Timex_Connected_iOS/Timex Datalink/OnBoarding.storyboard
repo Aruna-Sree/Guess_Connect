@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11201" systemVersion="15G1004" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Select Watch View Controller-->
+        <scene sceneID="Uls-4I-l0d">
+            <objects>
+                <viewController id="3Nf-jr-qUV" customClass="SelectWatchViewController" customModule="Timex" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="FgX-7I-WzB"/>
+                        <viewControllerLayoutGuide type="bottom" id="sgp-pf-pTL"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="TVE-Rm-pwC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="yOs-Rh-R5o">
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="rEg-Ed-rcj">
+                                    <size key="itemSize" width="375" height="74"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="50" height="50"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells>
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="UvQ-8x-rY3">
+                                        <rect key="frame" x="0.0" y="0.0" width="375" height="74"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                                            <rect key="frame" x="0.0" y="0.0" width="375" height="74"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                        </view>
+                                    </collectionViewCell>
+                                </cells>
+                                <collectionReusableView key="sectionFooterView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="GB3-AR-n3z">
+                                    <rect key="frame" x="0.0" y="74" width="375" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                </collectionReusableView>
+                            </collectionView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="BqR-DE-Zog">
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="140" id="FqC-bT-th5"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="sgp-pf-pTL" firstAttribute="top" secondItem="yOs-Rh-R5o" secondAttribute="bottom" id="77A-cf-uCW"/>
+                            <constraint firstAttribute="trailing" secondItem="BqR-DE-Zog" secondAttribute="trailing" id="OG6-gu-tqS"/>
+                            <constraint firstItem="yOs-Rh-R5o" firstAttribute="top" secondItem="BqR-DE-Zog" secondAttribute="bottom" id="dIM-bu-Jho"/>
+                            <constraint firstItem="yOs-Rh-R5o" firstAttribute="leading" secondItem="TVE-Rm-pwC" secondAttribute="leading" id="hK7-ro-qPT"/>
+                            <constraint firstItem="BqR-DE-Zog" firstAttribute="leading" secondItem="TVE-Rm-pwC" secondAttribute="leading" id="hiG-ul-f9D"/>
+                            <constraint firstAttribute="trailing" secondItem="yOs-Rh-R5o" secondAttribute="trailing" id="tXO-i4-JV4"/>
+                            <constraint firstItem="BqR-DE-Zog" firstAttribute="top" secondItem="TVE-Rm-pwC" secondAttribute="top" id="zBv-sZ-lMC"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="grV-0V-Qie">
+                        <nil key="title"/>
+                        <barButtonItem key="backBarButtonItem" title="Back" id="AXq-xD-qgj"/>
+                        <view key="titleView" contentMode="scaleToFill" id="6aO-cp-fgP">
+                            <rect key="frame" x="113" y="6" width="150" height="33"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="NavTitleLogo" translatesAutoresizingMaskIntoConstraints="NO" id="bE5-H4-eVS">
+                                    <frame key="frameInset" width="150" height="33"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                            </subviews>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        </view>
+                    </navigationItem>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ZLz-QP-DsN" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="959.20000000000005" y="203.74812593703149"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="auT-nb-MCP">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Qyi-1K-waI" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" id="BKy-21-lxF">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="3Nf-jr-qUV" kind="relationship" relationship="rootViewController" id="bM6-sc-7ce"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="7lP-MK-QZa" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="20" y="203.74812593703149"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="NavTitleLogo" width="16" height="16"/>
+    </resources>
+</document>
